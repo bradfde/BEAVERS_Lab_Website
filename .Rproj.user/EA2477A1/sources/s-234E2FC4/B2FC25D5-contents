@@ -4,6 +4,8 @@ description: |
   Website_Files
 output_dir: "_site"
 navbar:
+  logo:
+    image: images/Dr_Bennito.png
   right:
     - text: "Home"
       href: index.html
