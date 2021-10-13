@@ -1,7 +1,7 @@
 ---
-title: "Welcome to **BEAVERS** Lab"  
+title: "Welcome to the BEAVERS Lab!"  
 description:
-  "**B**iology **E**motion **A**ddiction **V**ia **E**xperimental **R**eproducible **S**cience"
+  "**B**iology and **E**motion of **A**ddiction **V**ia **E**xperimental and **R**eproducible **S**cience"
 site: distill::distill_website
 ---
 <img src="images/OSU.png" alt="drawing" style="width:800px;"/>
