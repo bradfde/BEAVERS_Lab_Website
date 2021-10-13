@@ -3,12 +3,12 @@ title: "Daniel Bradford PhD"
 image: "images/Daniel.jpg"
 links:
   - label: CV
-    url: "files/Bradford_CV.pdf"
+    url: "files/CVs/Bradford_CV.pdf"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=mFzYd1sAAAAJ&hl=en"
   - label: Publons
     url: "https://publons.com/researcher/1156678/daniel-e-bradford/"
-  - icon: fa-twitter
+  - label: Twitter
     url: "https://twitter.com/daniel_brad4d"
 output:
   postcards::solana
@@ -35,7 +35,7 @@ M.B.A. | August 2014 - June 2015
 
 B.F.A. in Music Performance | August 2005 - May 2009
 
-## Experience
+## Interests
 
 **Freelance** | Live Entertainment Consultant | August 2018 - Present
 

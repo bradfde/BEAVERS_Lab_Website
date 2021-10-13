@@ -1,9 +1,20 @@
 ---
-title: "B.E.A.V.E.R.S Lab"
+title: "Welcome to BEAVERS Lab"
+image: "images/Dr_BennitoNoBG.png"
+
 description: |
-  Welcome to the website. I hope you enjoy it!
+  **B**iology and **E**motion of **A**ddiction **V**ia **E**xperimentation and **R**eproducible **S**cience **L**ab
 site: distill::distill_website
 ---
+
+<!--![](images/Dr_BennitoNoBG.png)-->
+
+<!-- if doing in R: ```{r, layout="l-screen-inset", fig.cap="Atlantic Forest landscape in southern Brazil", echo=FALSE}
+knitr::include_graphics("img/img2.jpg")
+```-->
+
+<!--<img src="images/Dr_BennitoNoBG.png" alt="drawing" style="width:500px;"/> -->
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
