@@ -5,8 +5,8 @@ description: |
   Website_Files
 output_dir: "_site"
 navbar:
-  logo:
-    image: images/Dr_Bennito.png
+  #logo:
+  #  image: images/Dr_BennitoNoBG.png
   search: true
   right:
     - text: "Home"

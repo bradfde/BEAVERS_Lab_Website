@@ -1,6 +1,0 @@
----
-title: "Welcome to the BEAVERS-Lab!"
-description: |
-  We are a new psychophysiological research lab at the [School of Psychological Science of Oregon State University](https://catalog.oregonstate.edu/college-departments/liberal-arts/school-psychological-sciences/). BEAVERS stands for Biology and Emotion of Addiction Via Experimental and Reproducible Science. 
-site: distill::distill_website
----

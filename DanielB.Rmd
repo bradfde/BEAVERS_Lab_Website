@@ -21,30 +21,41 @@ Sciences at Oregon State University.
 
 My program of research takes a multi-measure experimental psychopathology approach to better understand the role of stress reactivity in mental health. My research focuses on psychological processes at the interface of affect and addiction. My lab uses novel experimental tasks with precise manipulation of laboratory stressors, pharmacological challenges and psychophysiological measures that allow tight translation between animal and human research. While our work is with people, our approach builds on preclinical findings in animals to identify specific stressor characteristics and neurobehavioral, cognitive, and affective mechanisms of reactivity to stressors key in the understanding of stress reactivity in human psychopathology. This mechanistic understanding may provide novel targets for prevention and treatment of the negative impacts of acute and chronic drug use as well as comorbid anxiety and depression.
 
-I am also passionate about the empirical refinement of psychophysiology methods and the improvement of clinical psychological science broadly. As such, another branch of my research involves empirical studies designed to demonstrate and increase the robustness and reliability of psychophysiological tasks and measures, so researchers can continue to refine them to maximize their utility in study of affect and psychopathology. We also pre-register our studies and share our data processing and analysis code openly.
+I am also passionate about the empirical refinement of psychophysiology methods and the improvement of clinical psychological science broadly. As such, another branch of my research involves empirical studies designed to verify and increase the robustness and reliability of psychophysiological tasks and measures, so researchers can continue to refine them to maximize their utility in study of affect and psychopathology. We also pre-register our studies and share our data processing and analysis code openly.
 
 My personal interests include playing soccer and basketball as competitively as I can these days, and my dog Lucy.
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**University of Wisconsin-Madison** | Madison, WI 
 
-M.B.A. | August 2014 - June 2015
+Ph.D. | 2019
 
-**The Juilliard School** | New York, NY
+**McLean Hosptial / Harvard Medical School** | Belmont, MA
 
-B.F.A. in Music Performance | August 2005 - May 2009
+Clinical Internship | 2019
+
+**University of Wisconsin-Madison** | Madison, WI
+
+M.S. | 2009
+
+**University of Wisconsin-Madison** | Auburn, AL
+
+B.A. | 2007
 
 ## Interests
+Psychophysiology
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+Open Science 
 
-**Cercle** | Producer | August 2018 - Present
+Stats 
 
-**National Public Radio** | Producer | May 2015 - July 2018
+Soccer 
 
-**NME Magazine** | Editor | July 2014 - July 2016
+Basketball
 
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+My Great Pyrenees Mountain Dog, Lucy
+
+See my tweets below: 
 
 <a class="twitter-timeline" data-theme="dark" data-height = '500' href="https://twitter.com/Daniel_Brad4d?ref_src=twsrc%5Etfw">Tweets by Dr Bradford, Lab Director</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
