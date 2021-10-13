@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1634088340209.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D0662DAC",
+    "lastKnownWriteTime" : 1634088626,
+    "last_content_update" : 1634088626332,
+    "path" : "C:/Users/Psychology/Desktop/BEAVERS_Lab_Website/Daniel.Rmd",
+    "project_path" : "Daniel.Rmd",
+    "properties" : {
+        "cursorPosition" : "16,6",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
