@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1525355854",
+    "hash" : "4119457049",
     "id" : "C6B77F0A",
-    "lastKnownWriteTime" : 1634148214,
-    "last_content_update" : 1634148214,
+    "lastKnownWriteTime" : 1634159448,
+    "last_content_update" : 1634159448600,
     "path" : "C:/Users/Psychology/Desktop/BEAVERS_Lab_Website/beavers_lab.css",
     "project_path" : "beavers_lab.css",
     "properties" : {
+        "cursorPosition" : "123,1",
+        "scrollLine" : "81"
     },
     "read_only" : false,
     "read_only_alternatives" : [
