@@ -3,7 +3,7 @@ title: "People"
 description: |
   Some additional details about the website
 ---
-[Daniel](Daniel.html) 
+[Daniel](DanielB.html) 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
