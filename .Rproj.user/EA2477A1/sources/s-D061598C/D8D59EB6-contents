@@ -8,7 +8,7 @@ links:
     url: "https://scholar.google.com/citations?user=mFzYd1sAAAAJ&hl=en"
   - label: Publons
     url: "https://publons.com/researcher/1156678/daniel-e-bradford/"
-  - label: Twitter
+  - icon: fa-twitter
     url: "https://twitter.com/daniel_brad4d"
 output:
   postcards::solana

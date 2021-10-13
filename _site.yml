@@ -1,5 +1,6 @@
 name: "B.E.A.V.E.R.S Lab"
 title: "B.E.A.V.E.R.S. Lab"
+theme: beavers_lab.css
 description: |
   Website_Files
 output_dir: "_site"
