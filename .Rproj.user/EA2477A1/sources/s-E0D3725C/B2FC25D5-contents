@@ -13,8 +13,8 @@ navbar:
       href: index.html
     - text: "People"
       href: People.html
-    #- text: "Research"
-    #  href: Research.html
+    - text: "Research"
+      href: Research.html
      # menu:
     #    - text: "Broad Background"
      #     href: BroadBackground.html

@@ -4,11 +4,11 @@ description:
   "**B**iology and **E**motion of **A**ddiction **V**ia **E**xperimental and **R**eproducible **S**cience"
 site: distill::distill_website
 ---
-<img src="images/OSU1.png" alt="Oregon State University Campus on rainy day" style="width:800px;"/>
+<img src="images/OSU2.png" alt="Oregon State University Campus on rainy day" style="width:800px;"/>
 
 :::float-image
 
-```{r out.width='150px', out.extra='style="float:left; padding:3px"', echo=FALSE}
+```{r out.width='175px', out.extra='style="float:left; padding:3px"', echo=FALSE}
 knitr::include_graphics("images/Dr_BennitoNoBG.png")
 ```
 
