@@ -2,7 +2,7 @@
 title: "Daniel Bradford PhD"
 image: "images/Daniel.jpg"
 links:
-  - label: Resume
+  - label: CV
     url: "https://linkedin.com/"
   - label: Blog
     url: "https://medium.com/"
@@ -16,11 +16,14 @@ output:
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+I did my undergrad at Auburn University, graduate work at the University of Wisconsin, Madison, and clinical internship at McLean Hospital/Harvard Medical School. In January 2020, I joined the Department of Psychology at the University of Miami as a new Assistant Professor where I gave clinical supervison to graduate student clinicians, taught graduate courses on statistics and experimental design, and undergraduate courses on addictive behaviors and research. In Janurary 2021, I fully joined the School of Psychological 
+Sciences at Oregon State University.
+
+My program of research takes a multi-measure experimental psychopathology approach to better understand the role of stress reactivity in mental health. My research focuses on psychological processes at the interface of affect and addiction. My lab uses novel experimental tasks with precise manipulation of laboratory stressors, pharmacological challenges and psychophysiological measures that allow tight translation between animal and human research. While our work is with people, our approach builds on preclinical findings in animals to identify specific stressor characteristics and neurobehavioral, cognitive, and affective mechanisms of reactivity to stressors key in the understanding of stress reactivity in human psychopathology. This mechanistic understanding may provide novel targets for prevention and treatment of the negative impacts of acute and chronic drug use as well as comorbid anxiety and depression.
+
+I am also passionate about the empirical refinement of psychophysiology methods and the improvement of clinical psychological science broadly. As such, another branch of my research involves empirical studies designed to demonstrate and increase the robustness and reliability of psychophysiological tasks and measures, so researchers can continue to refine them to maximize their utility in study of affect and psychopathology. We also pre-register our studies and share our data processing and analysis code openly.
+
+My personal interests include playing soccer and basketball as competitively as I can these days, and my dog Lucy.
 
 ## Education
 
@@ -43,3 +46,5 @@ B.F.A. in Music Performance | August 2005 - May 2009
 **NME Magazine** | Editor | July 2014 - July 2016
 
 **Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+
+<a class="twitter-timeline" data-theme="dark" data-height = '500' href="https://twitter.com/Daniel_Brad4d?ref_src=twsrc%5Etfw">Tweets by Dr Bradford, Lab Director</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
