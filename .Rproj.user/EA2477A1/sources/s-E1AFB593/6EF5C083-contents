@@ -1,11 +1,9 @@
 ---
-title: "Welcome to the BEAVERS Lab"  
-description: |
-    "**B**iology and **E**motion of **A**ddiction **V**ia **E**xperimentation and **R**eproducible **S**cience Lab"
-
+title: "Welcome to BEAVERS Lab"  
+description:
+  "**B**iology **E**motion **A**ddiction **V**ia **E**xperimental **R**eproducible **S**cience Lab"
 site: distill::distill_website
 ---
-
 <img src="images/OSU.png" alt="drawing" style="width:750px;"/>
 
 :::float-image

@@ -1,25 +1,25 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1634148257275.000,
+    "created" : 1634148282459.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "62F096A2",
-    "lastKnownWriteTime" : 1634148237,
-    "last_content_update" : 1634148237,
-    "path" : "C:/Users/Psychology/Desktop/_site.yml",
+    "hash" : "2338985787",
+    "id" : "977901B8",
+    "lastKnownWriteTime" : 1634148275,
+    "last_content_update" : 1634148275,
+    "path" : "C:/Users/Psychology/Desktop/index.Rmd",
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "2,0",
+        "cursorPosition" : "2,13",
         "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 1,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "yaml"
+    "type" : "r_markdown"
 }
