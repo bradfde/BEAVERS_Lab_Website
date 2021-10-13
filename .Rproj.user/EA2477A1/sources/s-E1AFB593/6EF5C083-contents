@@ -1,14 +1,14 @@
 ---
-title: "Welcome to BEAVERS Lab"  
+title: "Welcome to **BEAVERS** Lab"  
 description:
-  "**B**iology **E**motion **A**ddiction **V**ia **E**xperimental **R**eproducible **S**cience Lab"
+  "**B**iology **E**motion **A**ddiction **V**ia **E**xperimental **R**eproducible **S**cience"
 site: distill::distill_website
 ---
-<img src="images/OSU.png" alt="drawing" style="width:750px;"/>
+<img src="images/OSU.png" alt="drawing" style="width:800px;"/>
 
 :::float-image
 
-```{r out.width='150px', out.extra='style="float:left; padding:5px"', echo=FALSE}
+```{r out.width='150px', out.extra='style="float:left; padding:3px"', echo=FALSE}
 knitr::include_graphics("images/Dr_BennitoNoBG.png")
 ```
 
