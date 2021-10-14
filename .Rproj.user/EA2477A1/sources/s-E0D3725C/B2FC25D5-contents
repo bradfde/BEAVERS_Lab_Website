@@ -26,21 +26,21 @@ navbar:
     #      href: ImprovingPsychScience.html
     - text: "Publications"
       href: Publications.html
-   # - text: "Posters and Presentations"
-   #   href: PostersPublications.html 
-   # - text: "Lab Values"
-   #   href: LabValues.html
-   # - text: "Lab Pets"
-   #   href: LabPets.html
-   # - text: "Interested in working with us?"
-   #   href: JoiningLab.html
-   #   menu: 
-   #     - text: "Prospective Undergraduates"
-   #       href: ProspectiveUndergrads.html
-   #     - text: "Prospective Graduate Students"
-   #       href: ProspectiveGrads.html
-   #     - text: "Prospective Collaborators"
-   #       href: ProspectiveColabs.html
+    - text: "Posters and Presentations"
+      href: Presentations.html 
+    - text: "Lab Values"
+      href: Values.html
+    - text: "Lab Pets"
+      href: Pets.html
+    - text: "Interested in working with us?"
+      href: 
+      menu: 
+        - text: "Prospective Undergraduates"
+          href: ProspectiveUndergrads.html
+        - text: "Prospective Graduate Students"
+          href: ProspectiveGrads.html
+        - text: "Prospective Collaborators"
+          href: ProspectiveCollabs.html
    # - text: "Contact and Location"
    #   href: ContactLocation.html */
         

@@ -1,0 +1,33 @@
+---
+title: "Lucy Bradford"
+image: "images/LucyB.jpg"
+links:
+  - label: My Human
+    url: "DanielB.html"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am a Great Pyrenees Mountain Dog. I am the most athletic Great Pyrenees you will ever meet. My breed usually sleeps 18 hours a day but I can run with the best of them. I usually go on two walks a day, one 30-40 minute jog every night, and have park zoomies about once a week. In my two years in Florida, I had to really tone down my activity, but now I am back to my old ways in Oregon! Learn about the infamous "Pyr Paw" and some of my other quarks [here](https://www.pyradigmgreatpyrenees.com/pyr-facts).
+
+## Education
+
+**Some classes** | Taught at home
+
+2017 - June 2020
+
+## Interests
+
+Barking
+
+Guarding
+
+Cold weather
+
+Running
+
+Sleeping
+
+Chewing

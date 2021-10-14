@@ -5,20 +5,20 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2865728025",
     "id" : "945B24C0",
-    "lastKnownWriteTime" : 1634165630,
-    "last_content_update" : 1634165630122,
+    "lastKnownWriteTime" : 1634234322,
+    "last_content_update" : 1634234322702,
     "path" : "C:/Users/Psychology/Desktop/BEAVERS_Lab_Website/AngelicaD.Rmd",
     "project_path" : "AngelicaD.Rmd",
     "properties" : {
-        "cursorPosition" : "28,0",
-        "scrollLine" : "19"
+        "cursorPosition" : "30,40",
+        "scrollLine" : "11"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 6,
+    "relative_order" : 8,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
