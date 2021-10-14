@@ -1,0 +1,27 @@
+---
+title: "Dr. Felicia Jackson"
+image: "images/FeliciaJ.png"
+links:
+  - label: Practice
+    url: "https://www.jacksonpsych.com/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=Cwr0H2EAAAAJ&hl=en"
+output:
+  postcards::solana
+---
+
+<center> *Licensed Clinical Psychologist at Jackson Psych* </center>
+
+## Bio
+
+Dr. Felicia Jackson is a Licensed Clinical Psychologist in Atlanta, Georgia. She works with adults on overcoming fear and anxiety, improving mood, increasing self-worth, and navigating negative emotions. She specializes in providing treatment to clients that helps them understand and regulate emotions. Her practice offers various services, including Cognitive Behavioral Therapy, exposure and Response Prevention (ERP) for OCD, exposure therapy for anxiety, and much more.
+
+## Education
+
+**Post-doc** | McLean Hospital, Harvard Medical School | 20??
+
+**Ph.D.** | Stony Brook University- SUNY | 20??
+
+**B.S. in Neuroscience** | Emory University | 20??
+
+**B.A. in Psychology** | Emory University | 20??

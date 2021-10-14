@@ -24,7 +24,7 @@ navbar:
       href: Values.html
     - text: "Lab Pets"
       href: Pets.html
-    - text: "Want to work with us?"
+    - text: "Join the team"
       href: 
       menu: 
         - text: "Prospective Undergraduates"

@@ -26,7 +26,7 @@ knitr::include_graphics("images/MomoD.png")
 
 [Momo DeFalco](MomoD.html) 
 <br/>
-**Calio**
+**Calico**
 :::
 
 :::float-image
@@ -35,7 +35,7 @@ knitr::include_graphics("images/MomoD.png")
 knitr::include_graphics("images/Dr_BennitoNoBG.png")
 ```
 
-[Dr Bennito](Dr_Bennito.html) 
+[Dr. Bennito](Dr_Bennito.html) 
 <br/>
 **Beaver**
 :::

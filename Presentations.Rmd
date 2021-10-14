@@ -1,7 +1,12 @@
 ---
 title: "Posters and Presentations"
 description: 
+  Please note that this page is a bit out of date (we're working on it!). You can see Dr   
+  Bradford's [CV](files/CVs/Bradford_CV.pdf) for a complete list of references.
+  <br/>
+  <br/>
   PDF = link to downloadable article. PDFs are provided for instructional purposes only.
+  <br/>
   <br/>
   OSF =  link to Open Science Foundation project repository for shared data and materials.
 
