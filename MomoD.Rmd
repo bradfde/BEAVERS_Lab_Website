@@ -1,6 +1,6 @@
 ---
 title: "Momo DeFalco"
-image: "images/Momo.png"
+image: "images/MomoD.png"
 links:
   - label: My Human
     url: "AngelicaD.html"
@@ -17,20 +17,13 @@ I was named after the lemur from Avatar: The Last Airbender, one of my human's f
 I like to sleep during the day and wake my human up at 3am with the zoomies. I'm an energetic and curious lil gal who also loves cuddles and human food :)
 
 ## Interests
-Purring
-
-Cuddles
-
-Human food
-
-Strings, teaser toys, and wires
-
-Lasers
-
-My raggedy rat toy (featured in my selfie)
-
-Playing fetch
-
-Sleeping
+* Purring
+* Cuddles
+* Human food
+* Strings, teaser toys, and wires
+* Lasers
+* My raggedy rat toy (featured in my selfie)
+* Playing fetch
+* Sleeping
 
 

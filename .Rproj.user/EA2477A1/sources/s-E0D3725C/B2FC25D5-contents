@@ -16,24 +16,15 @@ navbar:
       href: People.html
     - text: "Research"
       href: Research.html
-     # menu:
-    #    - text: "Broad Background"
-     #     href: BroadBackground.html
-    #    - text: "How and What of Stress Response Dampening"
-    #      href: HowWhat.html
-     #   - text: "Neuroadapations"
-    #      href: Neuroadapations.html
-    #    - text: "Improving Psych Science"
-    #      href: ImprovingPsychScience.html
     - text: "Publications"
       href: Publications.html
-    - text: "Posters and Presentations"
+    - text: "Presentations"
       href: Presentations.html 
     - text: "Lab Values"
       href: Values.html
     - text: "Lab Pets"
       href: Pets.html
-    - text: "Interested in working with us?"
+    - text: "Want to work with us?"
       href: 
       menu: 
         - text: "Prospective Undergraduates"

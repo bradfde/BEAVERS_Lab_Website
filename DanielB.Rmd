@@ -23,7 +23,7 @@ My program of research takes a multi-measure experimental psychopathology approa
 
 I am also passionate about the empirical refinement of psychophysiology methods and the improvement of clinical psychological science broadly. As such, another branch of my research involves empirical studies designed to verify and increase the robustness and reliability of psychophysiological tasks and measures, so researchers can continue to refine them to maximize their utility in study of affect and psychopathology. We also pre-register our studies and share our data processing and analysis code openly.
 
-My personal interests include playing soccer and basketball as competitively as I can these days, and my dog Lucy.
+My personal interests include playing soccer and basketball as competitively as I can these days, and my dog [Lucy](LucyB.html).
 
 ## Education
 
@@ -44,17 +44,12 @@ M.S. | 2009
 B.A. | 2007
 
 ## Interests
-Psychophysiology
-
-Open Science 
-
-Stats 
-
-Soccer 
-
-Basketball
-
-My Great Pyrenees Mountain Dog, [Lucy](LucyB.html)
+* Psychophysiology
+* Open Science 
+* Stats 
+* Soccer 
+* Basketball
+* My Great Pyrenees Mountain Dog, [Lucy](LucyB.html)
 
 See my tweets below: 
 

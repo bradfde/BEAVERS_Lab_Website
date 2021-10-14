@@ -745,10 +745,11 @@
         
         /*-- Main font colors --*/
         --title-color:     #f06112;
-        --header-color:    rgba(0, 0, 0, 0.8);
+        --header-color:    rgba(240, 97, 18, 0.8);
         --body-color:      rgba(0, 0, 0, 0.8);
         --aside-color:     rgba(0, 0, 0, 0.6);
         --fig-cap-color:   rgba(0, 0, 0, 0.6);
+      
         
         /*-- Specify custom fonts ~~~ must be imported above   --*/
         --heading-font:    'roboto slab', serif;
@@ -760,7 +761,7 @@
       /*-- ARTICLE METADATA --*/
       d-byline {
         --heading-size:    0.6rem;
-        --heading-color:   rgba(0, 0, 0, 0.5);
+        --heading-color:   rgba(240, 97, 18, 0.8);
         --body-size:       0.8rem;
         --body-color:      rgba(0, 0, 0, 0.8);
       }
@@ -768,13 +769,14 @@
       /*-- ARTICLE TABLE OF CONTENTS --*/
       .d-contents {
         --heading-size:    18px;
+        --heading-color:   rgba(240, 97, 18, 0.5)
         --contents-size:   13px;
       }
       
       /*-- ARTICLE APPENDIX --*/
       d-appendix {
         --heading-size:    15px;
-        --heading-color:   rgba(0, 0, 0, 0.65);
+        --heading-color:   rgba(240, 97, 18, 0.8);
         --text-size:       0.8em;
         --text-color:      rgba(0, 0, 0, 0.5);
       }
@@ -844,7 +846,28 @@
       p {
         margin-right: 10px;
         margin-left: 10px;
-      }</style>
+      }
+      
+      /* Change link appearance */
+      d-article a {
+        border-bottom: 2px solid #f37212;
+        text-decoration: none;
+      }
+      
+      d-article p code {
+        --heading-color: rgba(240, 97, 18, 0.8);
+      }
+      
+      /* Change appearance of headers */
+      h1, h2, h3, h4, h5 {
+          color: #f06112;
+      }
+      
+      b, strong {
+         color: rgba(243, 114, 18, 0.8);
+      }
+      
+      </style>
       <style type="text/css">
       /* base style */
       
@@ -1016,12 +1039,12 @@
       <a href="People.html">People</a>
       <a href="Research.html">Research</a>
       <a href="Publications.html">Publications</a>
-      <a href="Presentations.html">Posters and Presentations</a>
+      <a href="Presentations.html">Presentations</a>
       <a href="Values.html">Lab Values</a>
       <a href="Pets.html">Lab Pets</a>
       <div class="nav-dropdown">
       <button class="nav-dropbtn">
-      Interested in working with us?
+      Want to work with us?
        
       <span class="down-arrow">&#x25BE;</span>
       </button>
@@ -1089,7 +1112,7 @@
           <p>I did my undergrad at Auburn University, graduate work at the University of Wisconsin, Madison, and clinical internship at McLean Hospital/Harvard Medical School. In January 2020, I joined the Department of Psychology at the University of Miami as a new Assistant Professor where I gave clinical supervison to graduate student clinicians, taught graduate courses on statistics and experimental design, and undergraduate courses on addictive behaviors and research. In Janurary 2022, I fully joined the School of Psychological Sciences at Oregon State University.</p>
           <p>My program of research takes a multi-measure experimental psychopathology approach to better understand the role of stress reactivity in mental health. My research focuses on psychological processes at the interface of affect and addiction. My lab uses novel experimental tasks with precise manipulation of laboratory stressors, pharmacological challenges and psychophysiological measures that allow tight translation between animal and human research. While our work is with people, our approach builds on preclinical findings in animals to identify specific stressor characteristics and neurobehavioral, cognitive, and affective mechanisms of reactivity to stressors key in the understanding of stress reactivity in human psychopathology. This mechanistic understanding may provide novel targets for prevention and treatment of the negative impacts of acute and chronic drug use as well as comorbid anxiety and depression.</p>
           <p>I am also passionate about the empirical refinement of psychophysiology methods and the improvement of clinical psychological science broadly. As such, another branch of my research involves empirical studies designed to verify and increase the robustness and reliability of psychophysiological tasks and measures, so researchers can continue to refine them to maximize their utility in study of affect and psychopathology. We also pre-register our studies and share our data processing and analysis code openly.</p>
-          <p>My personal interests include playing soccer and basketball as competitively as I can these days, and my dog Lucy.</p>
+          <p>My personal interests include playing soccer and basketball as competitively as I can these days, and my dog <a href="LucyB.html">Lucy</a>.</p>
           </div>
           <div id="education" class="section level2">
           <h2>Education</h2>
@@ -1104,12 +1127,14 @@
           </div>
           <div id="interests" class="section level2">
           <h2>Interests</h2>
-          <p>Psychophysiology</p>
-          <p>Open Science</p>
-          <p>Stats</p>
-          <p>Soccer</p>
-          <p>Basketball</p>
-          <p>My Great Pyrenees Mountain Dog, <a href="LucyB.html">Lucy</a></p>
+          <ul>
+          <li>Psychophysiology</li>
+          <li>Open Science</li>
+          <li>Stats</li>
+          <li>Soccer</li>
+          <li>Basketball</li>
+          <li>My Great Pyrenees Mountain Dog, <a href="https://beaverslab.com/LucyB.html">Lucy</a></li>
+          </ul>
           <p>See my tweets below:</p>
           <a class="twitter-timeline" data-theme="dark" data-height = '500' href="https://twitter.com/Daniel_Brad4d?ref_src=twsrc%5Etfw">Tweets by Dr Bradford, Lab Director</a>
           <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -1162,7 +1187,7 @@
               <p>I did my undergrad at Auburn University, graduate work at the University of Wisconsin, Madison, and clinical internship at McLean Hospital/Harvard Medical School. In January 2020, I joined the Department of Psychology at the University of Miami as a new Assistant Professor where I gave clinical supervison to graduate student clinicians, taught graduate courses on statistics and experimental design, and undergraduate courses on addictive behaviors and research. In Janurary 2022, I fully joined the School of Psychological Sciences at Oregon State University.</p>
               <p>My program of research takes a multi-measure experimental psychopathology approach to better understand the role of stress reactivity in mental health. My research focuses on psychological processes at the interface of affect and addiction. My lab uses novel experimental tasks with precise manipulation of laboratory stressors, pharmacological challenges and psychophysiological measures that allow tight translation between animal and human research. While our work is with people, our approach builds on preclinical findings in animals to identify specific stressor characteristics and neurobehavioral, cognitive, and affective mechanisms of reactivity to stressors key in the understanding of stress reactivity in human psychopathology. This mechanistic understanding may provide novel targets for prevention and treatment of the negative impacts of acute and chronic drug use as well as comorbid anxiety and depression.</p>
               <p>I am also passionate about the empirical refinement of psychophysiology methods and the improvement of clinical psychological science broadly. As such, another branch of my research involves empirical studies designed to verify and increase the robustness and reliability of psychophysiological tasks and measures, so researchers can continue to refine them to maximize their utility in study of affect and psychopathology. We also pre-register our studies and share our data processing and analysis code openly.</p>
-              <p>My personal interests include playing soccer and basketball as competitively as I can these days, and my dog Lucy.</p>
+              <p>My personal interests include playing soccer and basketball as competitively as I can these days, and my dog <a href="LucyB.html">Lucy</a>.</p>
               </div>
               <div id="education" class="section level2">
               <h2>Education</h2>
@@ -1177,12 +1202,14 @@
               </div>
               <div id="interests" class="section level2">
               <h2>Interests</h2>
-              <p>Psychophysiology</p>
-              <p>Open Science</p>
-              <p>Stats</p>
-              <p>Soccer</p>
-              <p>Basketball</p>
-              <p>My Great Pyrenees Mountain Dog, <a href="LucyB.html">Lucy</a></p>
+              <ul>
+              <li>Psychophysiology</li>
+              <li>Open Science</li>
+              <li>Stats</li>
+              <li>Soccer</li>
+              <li>Basketball</li>
+              <li>My Great Pyrenees Mountain Dog, <a href="https://beaverslab.com/LucyB.html">Lucy</a></li>
+              </ul>
               <p>See my tweets below:</p>
               <a class="twitter-timeline" data-theme="dark" data-height = '500' href="https://twitter.com/Daniel_Brad4d?ref_src=twsrc%5Etfw">Tweets by Dr Bradford, Lab Director</a>
               <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

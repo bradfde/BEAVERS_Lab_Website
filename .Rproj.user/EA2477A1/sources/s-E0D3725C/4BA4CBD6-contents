@@ -7,7 +7,7 @@ description: |
 :::float-image
 
 ```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
-knitr::include_graphics("images/LucyB.JPG")
+knitr::include_graphics("images/LucyB.png")
 ```
 
 [Lucy Bradford](LucyB.html) 
@@ -21,7 +21,7 @@ knitr::include_graphics("images/LucyB.JPG")
 :::float-image
 
 ```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
-knitr::include_graphics("images/LucyB.JPG")
+knitr::include_graphics("images/MomoD.png")
 ```
 
 [Momo DeFalco](MomoD.html) 
