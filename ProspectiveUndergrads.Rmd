@@ -1,28 +1,33 @@
 ---
 title: "Joining the lab as an undergraduate"
+description: |
+output: distill::distill_article
+---
+---
+title: "Joining the lab as an undergraduate"
 description: 
   ""
 ---
+As a new lab on campus, we are looking for 1-2 undergraduate research assistants (RAs) to help us set up a sophisticated and involved psychophysiology laboratory. **As of October 2021, we are only accepting applications for students interested in doing research on a volunteer basis. This will likely change after Fall term.**
 
-**If you are interested in joining the B.E.A.V.E.R.S Lab as a volunteer or for research credit, please answer the following questions in an email to Dr. Bradford, daniel.bradford@oregonstate.edu:**   
+Your responsibilities may include:
 
-Which are you interested in: volunteering or getting credit for research in the lab?  
+* Organizational tasks
+* Assisting in literature review
+* Manual set up of laboratory equipment
+* Assisting/providing feedback for lab protocol development
 
-What days and hours are you typically available to work in the lab (it's ok if you are not sure yet when you email)?  
+Why should you consider joining our lab?
 
-Why are you interested in working in this lab?  
+* You will gain a unique and invaluable opportunity to set up a brand-new psychophysiological laboratory, eligible to be placed on your resume or CV
+* Begin networking with leading researchers in the addiction and anxiety psychophysiological research field.
+* As one of the first people setting up the lab, you will likely have opportunity to provide feedback to and input in various facets of cohesive lab functioning.
 
-What do you think you can contribute to this lab?  
+**If you have any questions, please don’t hesitate to contact Angelica DeFalco at angelica.defalco@oregonstate.edu or Daniel Bradford at daniel.bradford@oregonstate.edu**
 
-Have you worked in other labs? Please list and describe your experience.  
+If you are interested in applying, fill out [this](https://forms.gle/XK2cDVEQQUsqxxgPA) google form. Please give us at least a week to review your application before scheduling an interview.
 
-Feel free to say anything else you think would be helpful.  
 
-If you have a resume or CV, please attach it to your email.  
 
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 

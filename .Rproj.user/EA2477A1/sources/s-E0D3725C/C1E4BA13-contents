@@ -4,13 +4,11 @@ description: |
   Interested in working with us? please see [THIS](JoiningLab.html) page 
 ---
 
+### Lab Members
+
 <br/>
 <br/>
----
-**Lab Members**
----
-<br/>
-<br/>
+
 
 :::float-image
 
@@ -20,10 +18,9 @@ knitr::include_graphics("images/Daniel.JPG")
 
 [Daniel Bradford, Ph.D](DanielB.html) 
 <br/>
-**Lab Director**
+**Assistant Professor and Lab Director**
 :::
 
-<br/>
 <br/>
 
 :::float-image
@@ -37,13 +34,11 @@ knitr::include_graphics("images/AngelicaD.jpg")
 **Lab Manager**
 :::
 
+### Collaborators
+
 <br/>
 <br/>
----
-**Collaborators**
----
-<br/>
-<br/>
+
 
 :::float-image
 
@@ -57,7 +52,6 @@ knitr::include_graphics("images/CourtneyB.png")
 :::
 
 <br/>
-<br/>
 
 :::float-image
 
@@ -67,10 +61,9 @@ knitr::include_graphics("images/JessieO.png")
 
 [Jessie Oldham, Ph.D](JessieO.html) 
 <br/>
-**Assistant Professor, Department of Physical Medicine and Rehabilitation**
+**Assistant Professor, Department of Physical Medicine and Rehabilitation at Virginia Commonwealth University**
 :::
 
-<br/>
 <br/>
 
 :::float-image
@@ -84,7 +77,6 @@ knitr::include_graphics("images/FeliciaJ.png")
 **Licensed Clinical Psychologist at Jackson Psych**
 :::
 
-<br/>
 <br/>
 
 :::float-image
