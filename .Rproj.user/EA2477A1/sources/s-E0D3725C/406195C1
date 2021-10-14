@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2502635627",
+    "hash" : "3004240578",
     "id" : "406195C1",
-    "lastKnownWriteTime" : 1634166403,
-    "last_content_update" : 1634166403,
+    "lastKnownWriteTime" : 1634246361,
+    "last_content_update" : 1634246361915,
     "path" : "C:/Users/Psychology/Desktop/BEAVERS_Lab_Website/Portfolio.Rmd",
     "project_path" : "Portfolio.Rmd",
     "properties" : {
+        "cursorPosition" : "21,9",
+        "scrollLine" : "13"
     },
     "read_only" : false,
     "read_only_alternatives" : [
