@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1634247056183.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2078524904",
+    "id" : "457D0D3D",
+    "lastKnownWriteTime" : 1634247165,
+    "last_content_update" : 1634247165803,
+    "path" : "C:/Users/Psychology/Desktop/BEAVERS_Lab_Website/Research.Rmd",
+    "project_path" : "Research.Rmd",
+    "properties" : {
+        "cursorPosition" : "31,1030",
+        "scrollLine" : "32"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

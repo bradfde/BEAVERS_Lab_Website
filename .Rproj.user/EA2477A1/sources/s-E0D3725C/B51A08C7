@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1634249368202.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2781061438",
+    "id" : "B51A08C7",
+    "lastKnownWriteTime" : 1634249415,
+    "last_content_update" : 1634249415641,
+    "path" : "C:/Users/Psychology/Desktop/BEAVERS_Lab_Website/Dr_Bennito.Rmd",
+    "project_path" : "Dr_Bennito.Rmd",
+    "properties" : {
+        "cursorPosition" : "15,12",
+        "scrollLine" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 19,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

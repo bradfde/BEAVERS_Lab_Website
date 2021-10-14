@@ -29,7 +29,16 @@ knitr::include_graphics("images/MomoD.png")
 **Calio**
 :::
 
+:::float-image
 
+```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/Dr_BennitoNoBG.png")
+```
+
+[Dr Bennito](Dr_Bennito.html) 
+<br/>
+**Beaver**
+:::
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```

@@ -1,0 +1,35 @@
+---
+title: "Dr. Courtney Beard"
+image: "images/CourtneyB.png"
+links:
+   - label: Profile
+     url: "https://www.mcleanhospital.org/profile/courtney-beard"
+   - label: Google Scholar
+     url: "https://scholar.google.com/citations?user=IkwAkwMAAAAJ"
+output:
+  postcards::solana
+---
+<center> *Director at Cognition and Affect Research and Education (CARE) Lab, McLean Hospital / Harvard Medical School* </center>
+
+## Bio
+Dr. Beard’s research aims to delineate cognitive and affective mechanisms underlying psychiatric disorders and to develop treatments to target these mechanisms. She is a clinical psychologist with expertise in anxiety disorders and cognitive behavioral therapy.
+
+## Education and Experience
+
+**Director** | McLean Hospital, Harvard Medical School | Current
+
+**Co-Director** | Psychology Training, McLean Hospital | Current
+
+**Co-Director of Clinical Research** | Behavioral Health Partial Hospital Program | Current
+
+**Associate Professor of Psychology** | Department of Psychiatry, McLean Hospital | Current
+
+**Post-doc** | Brown Medical School | 2010
+
+**Internship** | Brown Medical School | 2007
+
+**Ph.D. in Clinical Psychology** | University of Georgia | 2008
+
+**M.S. in Clinical Psychology** | University of Georgia | 2005
+
+**B.A. in Psychology** | University of Georgia | 2003
