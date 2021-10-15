@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1634323277262.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3398211214",
+    "id" : "9C4FB2D8",
+    "lastKnownWriteTime" : 1634323557,
+    "last_content_update" : 1634323557782,
+    "path" : "C:/Users/Psychology/Desktop/BEAVERS_Lab_Website/PopMedia.Rmd",
+    "project_path" : "PopMedia.Rmd",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 23,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

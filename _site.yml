@@ -18,12 +18,14 @@ navbar:
       href: Research.html
     - text: "Publications"
       href: Publications.html
-    - text: "Presentations"
+    - text: "Posters"
       href: Presentations.html 
     - text: "Lab Values"
       href: Values.html
     - text: "Lab Pets"
       href: Pets.html
+    - text: "Other Media"
+      href: PopMedia.html
     - text: "Join the team"
       href: 
       menu: 
