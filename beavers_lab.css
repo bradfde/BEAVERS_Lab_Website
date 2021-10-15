@@ -145,4 +145,7 @@ b, strong {
    color: rgba(243, 114, 18, 0.8);
 }
 
-
+.note {
+  background-color: #ffdddd;
+  border-left: 6px solid #f44336;
+}
