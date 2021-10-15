@@ -16,7 +16,7 @@ We are a new psychophysiological research lab in the [School of Psychological Sc
 :::
 
 <div class="note">
-&nbsp;&nbsp;<strong> NOTE:</strong> Dr. Bradford and the B.E.A.V.E.R.S Lab WILL be reviewing graduate student &nbsp;&nbsp;&nbsp;applications this cycle for the Health Psychology PhD program.</div> 
+<strong> NOTE:</strong> Dr. Bradford and the B.E.A.V.E.R.S Lab WILL be reviewing graduate student applications this cycle for the Health Psychology PhD program.</div> 
 
 <!--![](images/Dr_BennitoNoBG.png)-->
 
