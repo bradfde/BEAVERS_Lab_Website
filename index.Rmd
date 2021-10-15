@@ -15,9 +15,8 @@ knitr::include_graphics("images/Dr_BennitoNoBG.png")
 We are a new psychophysiological research lab in the [School of Psychological Science](https://catalog.oregonstate.edu/college-departments/liberal-arts/school-psychological-sciences/) at [Oregon State University](https://oregonstate.edu/). We take a multi-method experimental approach to studying the affective and emotional responses to stressors and how commonly used drugs change those responses. We study the mechanisms of these responses by assessing their neurobiological, cognitive, and behavioral components. We want to learn how responses to stressors play a role in mental health challenges such as addiction and anxiety so, eventually, we can better treat such challenges. Because we want to get to the truth in our research, we approach our work with an eye to rigor, equity, and replicability consistent with the “reproducibility revolution” and open science movement. 
 :::
 
- <div class="danger">
-  <p><strong>Danger!</strong> Some text...</p>
-</div> 
+ <div class="note">
+  <p><strong> NOTE:</strong> Dr. Bradford and the B.E.A.V.E.R.S Lab WILL be reviewing applications this cycle for the Health Psychology PhD program.</p></div> 
 
 <!--![](images/Dr_BennitoNoBG.png)-->
 
