@@ -9,7 +9,7 @@ links:
   - label: Publons
     url: "https://publons.com/researcher/1156678/daniel-e-bradford/"
   - label: Twitter
-    url: "https://twitter.com/daniel_brad4d"
+    url: "https://twitter.com/drdanbradford"
 output:
   postcards::solana
 ---
@@ -53,4 +53,4 @@ B.A. | 2007
 
 See my tweets below: 
 
-<a class="twitter-timeline" data-theme="dark" data-height = '500' href="https://twitter.com/Daniel_Brad4d?ref_src=twsrc%5Etfw">Tweets by Dr Bradford, Lab Director</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-theme="dark" data-height = '500' href="https://twitter.com/drdanbradford?ref_src=twsrc%5Etfw">Tweets by Dr Bradford, Lab Director</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
