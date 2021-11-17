@@ -1,0 +1,32 @@
+---
+title: "Jackson Cutler"
+image: "images/JacksonC.png"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Prior to my time at Oregon State, I grew up in a small rural community in eastern Oregon.
+Baker City was a nice place to grow up, but it could be a little desolate at times. Without much to
+do or see, I found a lot of enjoyment helping out around the community. I came to Oregon State
+University to pursue a degree in psychology with the hope of helping others in ways that they
+truly need.
+
+Anxiety and addiction are some of the most worrisome diagnoses to date, and yet little
+research has been done recently. I hope to assist the foundation of this research and its potential
+implications for public health and public perception of addiction.
+
+## Education
+
+**Oregon State University** | Corvallis, Oregon
+
+Psychology | Expected June 2022
+
+## Interests
+
+* Cognitive Psychology
+* Abnormal Psychology
+* Hiking/Backpacking/Camping
+* Football & Basketball
+* Video Games

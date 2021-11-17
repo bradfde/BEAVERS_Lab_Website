@@ -26,7 +26,7 @@ knitr::include_graphics("images/MomoD.png")
 
 [Momo DeFalco](MomoD.html) 
 <br/>
-**Calico Cat**
+**Calico**
 :::
 
 :::float-image
@@ -39,17 +39,7 @@ knitr::include_graphics("images/Dr_BennitoNoBG.png")
 <br/>
 **Beaver**
 :::
-
-:::float-image
-
-```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
-knitr::include_graphics("images/MoandSid.png")
-```
-
-[Mo and Sid Beaman](MoandSid.html) 
-<br/>
-**Cats**
-:::
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+

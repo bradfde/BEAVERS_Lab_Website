@@ -1,0 +1,24 @@
+---
+title: "Mo and Sid"
+image: "images/MoandSid.png"
+links:
+  - label: Our Human
+    url: "LindsayB.html"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Mo (left) and Sid (right)
+
+My name is Mo, short for Moo, because I have black and white spots like a cow. When I was rescued from a shelter last year, I was shy, scared, and always wanted to hide. Luckily, my little brother Sid showed me that I don't need to be scared! Now, all I want to do is cuddle my humans, steal their food when they aren't looking, and get belly rubs.
+
+My name is Sid. I'm tiny, fearless, full of energy, and love to play! My favorite thing to do is find hair ties from all over the house and carry them around with me. I also like watching the squirrels outside, and snuggling with my brother Mo during the rare occasions that I settle down.
+
+## Interests
+
+* Cuddling
+* Playing
+* Human food
+* Belly rubs

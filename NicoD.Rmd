@@ -1,0 +1,30 @@
+---
+title: "Nico Doran"
+image: "images/NicoD.png"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am currently a sophomore at Oregon State University studying Psychology. I am a Bay
+Area native, graduating from De La Salle high school (Concord, CA) in 2020. My main interest
+is Neuroscience, specifically how psychotropic substances affect connections within the brain. I
+have always been curious about how people interact on both conscious and unconscious levels.
+My main goal is to educate others on how they work(thoughts, emotions, behaviors), and how
+external stimuli affect our internal state on a chemical level. I plan on pursuing a Ph.D. in
+Neuroscience after gaining experience in the research field.
+
+## Education
+
+**Oregon State University** | Corvallis, Oregon
+
+Psychology | Expected June 2024
+
+## Interests
+
+* Psychotherapy
+* Fly fishing
+* Automotive modifications/racing
+* Music creation
+* Clothing/fashion

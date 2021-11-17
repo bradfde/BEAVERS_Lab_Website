@@ -34,44 +34,6 @@ knitr::include_graphics("images/AngelicaD.jpg")
 **Lab Manager**
 <br/>
 [CV](files/CVs/DeFalco_CV.pdf) [Twitter](https://twitter.com/A__DeFalco)
-:::
-
-<br/>
-
-:::float-image
-
-```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
-knitr::include_graphics("images/LindsayB.png")
-```
-[Lindsay Beaman](LindsayB.html)
-<br/>
-**Research Assistant**
-:::
-
-<br/>
-
-:::float-image
-
-```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
-knitr::include_graphics("images/JacksonC.png")
-```
-
-[Jackson Cutler](JacksonC.html)
-<br/>
-**Research Assistant**
-:::
-
-<br/>
-
-:::float-image
-
-```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
-knitr::include_graphics("images/NicoD.png")
-```
-
-[Nico Doran](NicoD.html)
-<br/>
-**Research Assistant**
 
 :::
 
@@ -131,3 +93,4 @@ knitr::include_graphics("images/FallonG.png")
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
