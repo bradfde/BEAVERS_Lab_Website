@@ -1,0 +1,18 @@
+---
+title: "Buddy Tognoli"
+image: "images/BuddyT.png"
+links:
+  - label: My Human
+    url: "MiaT.html"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am a 1 year old Beta fish and I love swimming in my tank! Thanks, human!
+
+## Interests
+
+* Chasing my food
+* Harassing the snails in my tank

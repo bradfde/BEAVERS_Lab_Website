@@ -1,0 +1,19 @@
+---
+title: "Katty Tognoli"
+image: "images/KattyT.png"
+links:
+  - label: My Human
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am a 10 year old black tabby cat who loves to just relax with his human very much :)
+
+
+## Intereests
+
+* Catnip
+* Begging for food
+* Long naps

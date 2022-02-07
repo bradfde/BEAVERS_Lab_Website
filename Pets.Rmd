@@ -50,6 +50,47 @@ knitr::include_graphics("images/MoandSid.png")
 <br/>
 **Cats**
 :::
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+
+:::float-image
+
+```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/KattyT.png")
 ```
+
+[Katty Tognoli](KattyT.html) 
+<br/>
+**Black Tabby Cat**
+:::
+
+:::float-image
+
+```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/OliverT.png")
+```
+
+[Oliver Tognoli](OliverT.html) 
+<br/>
+**Orange Tabby Cat**
+:::
+
+:::float-image
+
+```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/MobiusT.png")
+```
+
+[Mobius (Mo) Tognoli](MobiusT.html) 
+<br/>
+**Chesapeake Bay Retriever**
+:::
+
+:::float-image
+
+```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/BuddyT.png")
+```
+
+[Buddy Tognoli](BuddyT.html) 
+<br/>
+**Beta Fish**
+:::
