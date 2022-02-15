@@ -7,7 +7,7 @@ links:
   - label: Portfolio
     url: "Portfolio.html"
   - label: Twitter
-    url: "https://twitter.com/A__DeFalco"
+    url: "https://twitter.com/A_DeFalco11"
 output:
   postcards::solana
 ---

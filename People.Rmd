@@ -33,7 +33,7 @@ knitr::include_graphics("images/AngelicaD.jpg")
 <br/>
 **Lab Manager**
 <br/>
-[CV](files/CVs/DeFalco_CV.pdf) [Twitter](https://twitter.com/A__DeFalco)
+[CV](files/CVs/DeFalco_CV.pdf) [Twitter](https://twitter.com/A_DeFalco11)
 :::
 
 <br/>
