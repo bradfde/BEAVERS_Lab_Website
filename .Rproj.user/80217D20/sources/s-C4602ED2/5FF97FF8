@@ -3,7 +3,7 @@
     "path": "C:/Users/bradfdan/OneDrive - Oregon State University/Desktop/BEAVERS_Lab_Website/PopMedia.Rmd",
     "project_path": "PopMedia.Rmd",
     "type": "r_markdown",
-    "hash": "3026516937",
+    "hash": "2307208334",
     "contents": "",
     "dirty": false,
     "created": 1644211507958.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "18,98",
-        "scrollLine": "9"
+        "cursorPosition": "25,165",
+        "scrollLine": "15"
     },
     "folds": "",
-    "lastKnownWriteTime": 1644211815,
+    "lastKnownWriteTime": 1644907660,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1644211815643,
+    "last_content_update": 1644907660776,
     "read_only": false,
     "read_only_alternatives": []
 }
