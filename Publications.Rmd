@@ -8,9 +8,13 @@ description:
 ---
 ## -2022- ##
 
-Victor, S., Schleider, J., Ammerman, B., Bradford, D.E., Devendorf, A., Gruber, J., Gunaydin, L., Hallion, L., Kaufman, E., Lewis, S., Stage, D L. (under review). Leveraging the Strengths of Psychologists with Lived Experience of Mental Illness. [**PDF**](https://psyarxiv.com/ksnfd/) 
+Victor, S., Schleider, J., Ammerman, B., Bradford, D.E., Devendorf, A., Gruber, J., Gunaydin, L., Hallion, L., Kaufman, E., Lewis, S., Stage, D L. (in press). Leveraging the Strengths of Psychologists with Lived Experience of Mental Illness. *Perspectives on Psychological Science*. [**PDF**](https://psyarxiv.com/ksnfd/) 
 
 Bradford, D.E., Shireman, J.M., Sant'Ana, S.J., Fronk, G.E., Curtin, J.J. (in press). Alcohol's effects during uncertain and uncontrollable stressors in the laboratory. *Clinical Psychological Science*. [**PDF**](files/Publications/BradfordD2021a.pdf) [**OSF**](https://osf.io/2zmxe/)
+
+Goodman, F.R., Brown, B.A., Silva, G.M., Bradford, D.E., Tennen, H.A., Kashdan, T.B. (in press). Motivational underpinnings of alcohol use in people with social anxiety disorder: A daily diary study. Behavior Therapy.
+
+Morriss, J., Bradford, D.E., Wake, S., Biagi, N.,Tanovic, E., Kaye, J.T., Joormann, D. (2022). Intolerance of uncertainty and physiological responses during instructed threat of shock: multi-lab investigation. Biological Psychology, 167. doi:10.1016/j.biopsycho.2021.108223
 
 
 ## -2021- ##
