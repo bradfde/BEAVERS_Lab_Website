@@ -1,10 +1,12 @@
 ---
 title: "People"
 description: |
-  Want to work with us? please select from "Join the team" dropdown  
+  Want to work with us? Please select from "Join the team" dropdown.
 ---
 
-### Lab Members
+<center>
+## Lab Members
+</center>
 
 <br/>
 
@@ -84,8 +86,11 @@ knitr::include_graphics("images/MiaT.png")
 [Mia Tognoli](MiaT.html)
 <br/>
 **URSA Engage Research Assistant**
+:::
 
-### Collaborators
+<center> 
+## Collaborators
+</center>
 
 <br/>
 
