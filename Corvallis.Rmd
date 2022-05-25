@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## About Corvallis
 
-Located in the heart of the Willamette Valley, Corvallis is conveniently situated in relaiton to a variety of locations: 90 minutes to Portland for big city people, 45 minutes to the coast for ocean lovers, and surrounded by hiking, backpacking and skiing opportunities. Corvallis is home to roughly 60,000 people -- having a small town feel with the some perks of a big city.
+Located in the heart of the Willamette Valley, Corvallis is conveniently situated in relation to a variety of locations: 90 minutes to Portland for big city people, 45 minutes to the coast for ocean lovers, and surrounded by hiking, backpacking and skiing opportunities. Corvallis is home to roughly 60,000 people -- having a small town feel with the some perks of a big city.
 
 With much opportunity to explore and engage in many diverse communities, Corvallis is a welcoming and innovative community, with much to do outside of the university setting. Whether it be enjoying the local breweries or wineries, attending artistic gatherings or joining a pick-up sport league, Corvallis provides oppourtnities for all individuals.
 
