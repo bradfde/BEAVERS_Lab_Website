@@ -12,8 +12,13 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "People"
-      href: People.html
+    - text: "About Us"
+      href:
+      menu:
+        - text: "People"
+          href: People.html
+        - text: "Why Corvallis?" 
+          href: Corvallis.html
     - text: "Research"
       href: Research.html
     - text: "Publications"
