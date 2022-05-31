@@ -17,20 +17,23 @@ navbar:
       menu:
         - text: "People"
           href: People.html
-        - text: "Why Corvallis?" 
+        - text: "Corvallis, OR" 
           href: Corvallis.html
+        - text: "Lab Values"
+          href: Values.html
+        - text: "Lab Pets"
+          href: Pets.html
     - text: "Research"
-      href: Research.html
-    - text: "Publications"
-      href: Publications.html
-    - text: "Posters"
-      href: Presentations.html 
-    - text: "Lab Values"
-      href: Values.html
-    - text: "Lab Pets"
-      href: Pets.html
-    - text: "Other Media"
-      href: PopMedia.html
+      href:
+      menu:
+        - text: "Overview"
+          href: Research.html
+        - text: "Publications"
+          href: Publications.html
+        - text: "Posters"
+          href: Presentations.html 
+        - text: "In the Media"
+          href: PopMedia.html
     - text: "Join the team"
       href: 
       menu: 

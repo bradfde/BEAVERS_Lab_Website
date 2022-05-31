@@ -5,7 +5,7 @@ description: |
 ---
 
 <center>
-## Lab Members
+## Faculty
 </center>
 
 <br/>
@@ -40,6 +40,26 @@ knitr::include_graphics("images/AngelicaD.jpg")
 
 <br/>
 
+<center> 
+## Graduate Students
+</center>
+:::float-image
+
+```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/FreyaW.png")
+```
+
+[Freya Whittaker](FreyaW.html) 
+<br/>
+**Graduate Student, Health Psychology**
+<br/>
+[CV](files/CVs/Whittaker_CV.pdf) [Twitter](https://twitter.com/fmwhittaker)
+:::
+<br/>
+
+<center> 
+## Undergraduate Assistant Researchers
+</center>
 :::float-image
 
 ```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
@@ -86,22 +106,6 @@ knitr::include_graphics("images/MiaT.png")
 [Mia Tognoli](MiaT.html)
 <br/>
 **URSA Engage Research Assistant**
-:::
-
-<center> 
-## Graduate Students
-</center>
-:::float-image
-
-```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
-knitr::include_graphics("images/FreyaW.png")
-```
-
-[Freya Whittaker](FreyaW.html) 
-<br/>
-**Graduate Student, Health Psychology**
-<br/>
-[CV](files/CVs/Whittaker_CV.pdf) [Twitter](https://twitter.com/fmwhittaker)
 :::
 
 <center> 

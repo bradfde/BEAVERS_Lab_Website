@@ -1,5 +1,5 @@
 ---
-title: "Why Corvallis?"
+title: "Corvallis, OR"
 output: distill::distill_article
 ---
 
@@ -17,48 +17,60 @@ To learn more about Corvallis, visit <https://www.visitcorvallis.com/> and <http
 
 ## BEAVERS Lab in Oregon
 
-To highlight how special Corvallis and Oregon has become, we have included some photos of our lab members exploring Corvallis and neighboring areas in Oregon.
+We have included some photos of our lab members exploring Corvallis and neighboring areas in Oregon.
 
 :::float-image
-
-```{r out.width='150px', out.extra='style="float:above; padding:1px"', fig.cap= "Our PI, Dr. Bradford, his partner, and Caesar No Drama llama at a tulip farm outside of Portland.", echo=FALSE}
-knitr::include_graphics("images/Daniel-106.jpg")
+```{r out.width = "75px", fig.cap= "Our PI, Dr. Bradford, his partner, and Caesar No Drama llama at a tulip farm outside of Portland.", echo=FALSE}
+knitr::include_graphics("images/Daniel_1.png")
 ```
 :::
 
-:::float-image
 
-```{r out.width='150px', out.extra='style="float:above; padding:1px"', fig.cap= "Our lab manager, Angelica, skiing for the first time.", echo=FALSE}
+:::float-image
+```{r out.width = "75px", out.extra='style="float:above; padding:1px"', fig.cap= "Our lab manager, Angelica, skiing for the first time.", echo=FALSE}
 knitr::include_graphics("images/Angelica_1.jpg")
 ```
 :::
 
 :::float-image
-
-```{r out.width='150px', out.extra='style="float:above; padding:1px"', fig.cap= "Our lab manager, Angelica, at the peak of Smith Rock in Bend, OR.", echo=FALSE}
+```{r out.width='75px', out.extra='style="float:above; padding:1px"', fig.cap= "Our lab manager, Angelica, at the peak of Smith Rock in Bend, OR.", echo=FALSE}
 knitr::include_graphics("images/Angelica_2.jpg")
 ```
 :::
 
 :::float-image
-
-```{r out.width='150px', out.extra='style="float:above; padding:1px"', fig.cap= "The view from the top of Bald Hill, a local Corvallis hike.", echo=FALSE}
-knitr::include_graphics("images/Angelica_3.jpg")
-```
-:::
-
-:::float-image
-
-```{r out.width='150px', out.extra='style="float:above; padding:1px"', fig.cap= "Our lab manager, Angelica, at Multnomah Falls, a 600ft waterfall outside of Portland.", echo=FALSE}
+```{r out.width='75px', out.extra='style="float:above; padding:1px"', fig.cap= "Our lab manager, Angelica, at Multnomah Falls, a 600ft waterfall outside of Portland.", echo=FALSE}
 knitr::include_graphics("images/Angelica_4.jpg")
 ```
 :::
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+:::float-image
+```{r out.width='75px', out.extra='style="float:above; padding:1px"', fig.cap= "One of our Assistant Researchers, Mia, at the peak of Bald Hill in Corvallis.", echo=FALSE}
+knitr::include_graphics("images/Mia_1.jpg")
+```
+:::
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
 
+:::float-image
+```{r out.width='75px', out.extra='style="float:above; padding:1px"', fig.cap= "The view from Newport Beach.", echo=FALSE}
+knitr::include_graphics("images/Mia_2.jpg")
+```
+:::
 
+:::float-image
+```{r out.width='75px', out.extra='style="float:above; padding:1px"', fig.cap= "The view at Foster Lake.", echo=FALSE}
+knitr::include_graphics("images/Lindsay_1.png")
+```
+:::
 
+:::float-image
+```{r out.width='75px', out.extra='style="float:above; padding:1px"', fig.cap= "One of our Assistant Researchers, Lindsay, enjoying the view on the Willamette River in Corvallis.", echo=FALSE}
+knitr::include_graphics("images/Lindsay_2.png")
+```
+:::
 
-
+:::float-image
+```{r out.width='75px', out.extra='style="float:above; padding:1px"', fig.cap= "One of our Assistant Researchers, Jackson's, camping set up at Mary's Peak.", echo=FALSE}
+knitr::include_graphics("images/Jackson_1.png")
+```
+:::
