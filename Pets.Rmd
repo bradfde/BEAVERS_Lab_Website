@@ -92,5 +92,5 @@ knitr::include_graphics("images/BuddyT.png")
 
 [Buddy Tognoli](BuddyT.html) 
 <br/>
-**Beta Fish**
+**Betta Fish**
 :::

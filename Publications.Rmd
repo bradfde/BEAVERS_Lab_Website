@@ -8,6 +8,9 @@ description:
 ---
 ## -2022- ##
 
+Bradford, D.E., DeFalco, A., Perkins, E.R., Carvajal, I., Kwasa, J., Goodman, F.R., Jackson, F., Richardson, L.N.S., Woodley, N., Neuberger, L., Sandoval, J.A., Huang, H.J., Joyner, K.J. (in press). Whose signals are we amplifying? Towards a more equitable clinical psychophysiology. *Clinical Psychological Science*. [**PDF**](https://psyarxiv.com/c2naf)
+
+
 Victor, S., Schleider, J., Ammerman, B., Bradford, D.E., Devendorf, A., Gruber, J., Gunaydin, L., Hallion, L., Kaufman, E., Lewis, S., Stage, D L. (in press). Leveraging the Strengths of Psychologists with Lived Experience of Mental Illness. *Perspectives on Psychological Science*. [**PDF**](https://psyarxiv.com/ksnfd/) 
 
 Bradford, D.E., Shireman, J.M., Sant'Ana, S.J., Fronk, G.E., Curtin, J.J. (in press). Alcohol's effects during uncertain and uncontrollable stressors in the laboratory. *Clinical Psychological Science*. [**PDF**](files/Publications/BradfordD2021a.pdf) [**OSF**](https://osf.io/2zmxe/)

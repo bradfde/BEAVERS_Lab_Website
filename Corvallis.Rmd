@@ -25,6 +25,17 @@ knitr::include_graphics("images/Daniel_1.png")
 ```
 :::
 
+:::float-image
+```{r out.width='75px', out.extra='style="float:above; padding:1px"', fig.cap= "One of our lab pets, Lucy, enjoying a hike in Bend, OR.", echo=FALSE}
+knitr::include_graphics("images/Lucy_1.png")
+```
+:::
+
+:::float-image
+```{r out.width='75px', out.extra='style="float:above; padding:1px"', fig.cap= "One of our lab pets, Lucy, enjoying a sunset view in Corvallis.", echo=FALSE}
+knitr::include_graphics("images/Lucy_2.png")
+```
+:::
 
 :::float-image
 ```{r out.width = "75px", out.extra='style="float:above; padding:1px"', fig.cap= "Our lab manager, Angelica, skiing for the first time.", echo=FALSE}
