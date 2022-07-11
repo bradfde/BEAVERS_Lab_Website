@@ -22,8 +22,8 @@ Morriss, J., Bradford, D.E., Wake, S., Biagi, N.,Tanovic, E., Kaye, J.T., Joorma
 
 ## -2021- ##
 
-
-Pavlov, Y.G., Adamian, N., Appelhoff, S ...Bradford, D.E.,... Mushtaq, F. (2021). #EEGManyLabs: Investigating the Replicability of Influential EEG Experiments. *Cortex* online publication ahead of print. [**PDF**](files/Publications/PavlovY2021.pdf) [**OSF**](https://osf.io/yb3pq/)
+ Pavlov, Y. G., Adamian, N., Appelhoff, S … Bradford, D.E. … Mushtaq, F. (2021). #EEGManyLabs: Investigating the Replicability of Influential EEG Experiments. *Cortex*, 144, 213-229. https://doi.org/10.31234/osf.io/528nr
+[**PDF**](files/Publications/PavlovY2021.pdf) [**OSF**](https://osf.io/yb3pq/)
 
 
 ## -2020- ##
