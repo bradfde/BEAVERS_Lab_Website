@@ -12,7 +12,7 @@ description: |
 
 :::float-image
 
-```{r fig.alt= "Picture of a person with short brown hair, brown facial hair, black rectangular glasses, fair skin and a smile with a brick building in the background.", out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width="150px", out.extra='style="float:above; padding:1px"', echo=FALSE, fig.alt= "Picture of a person with short brown hair, brown facial hair, black rectangular glasses, fair skin and a smile with a brick building in the background."}
 knitr::include_graphics("images/Daniel.JPG")
 ```
 
@@ -27,7 +27,7 @@ knitr::include_graphics("images/Daniel.JPG")
 
 :::float-image
 
-```{r fig.alt = "Picture of a smiling person with long brown curled hair, fair skin, and a white sash around their neck and a green dress with a blue sky, lake and buildings in the background.", out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long brown curled hair, fair skin, and a white sash around their neck and a green dress with a blue sky, lake and buildings in the background.", echo=FALSE}
 knitr::include_graphics("images/AngelicaD.jpg")
 ```
 
@@ -45,7 +45,7 @@ knitr::include_graphics("images/AngelicaD.jpg")
 </center>
 :::float-image
 
-```{r fig.alt = "Picture of a smiling person with shoulder length blonde straight hair, fair skin and a black white collared shirt with a black background.", out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with shoulder length blonde straight hair, fair skin and a black white collared shirt with a black background.", echo=FALSE}
 knitr::include_graphics("images/FreyaW.png")
 ```
 
@@ -62,7 +62,7 @@ knitr::include_graphics("images/FreyaW.png")
 </center>
 :::float-image
 
-```{r fig.alt = "Picture of a smiling person with long strawberry blonde straight hair, fair skin, a black shirt and blue jeans against a pink background." , out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long strawberry blonde straight hair, fair skin, a black shirt and blue jeans against a pink background.",echo=FALSE}
 knitr::include_graphics("images/LindsayB.png")
 ```
 [Lindsay Beaman](LindsayB.html)
@@ -74,7 +74,7 @@ knitr::include_graphics("images/LindsayB.png")
 
 :::float-image
 
-```{r fig.alt = "Picture of a smiling person with a black hat on, fair skin, and a grey rain jacket against a mountaneous background." , out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with a black hat on, fair skin, and a grey rain jacket against a mountaneous background.", echo=FALSE}
 knitr::include_graphics("images/JacksonC.png")
 ```
 
@@ -87,7 +87,7 @@ knitr::include_graphics("images/JacksonC.png")
 
 :::float-image
 
-```{r fig.alt = "Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees.", out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees.", echo=FALSE}
 knitr::include_graphics("images/NicoD.png")
 ```
 
@@ -100,7 +100,7 @@ knitr::include_graphics("images/NicoD.png")
 
 :::float-image
 
-```{r fig.alt="Picture of a smiling person with long dark straight hair and two streaks of pink hair, fair skin, and a black shirt against a leafy background." out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with long dark straight hair and two streaks of pink hair, fair skin, and a black shirt against a leafy background.", echo=FALSE}
 knitr::include_graphics("images/MiaT.png")
 ```
 [Mia Tognoli](MiaT.html)
@@ -116,7 +116,7 @@ knitr::include_graphics("images/MiaT.png")
 
 :::float-image
 
-```{r fig.alt= "Picture of a smiling person with a bob dark haircut, fair skin and a red turtleneck shirt against a blurred out background.", out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt= "Picture of a smiling person with a bob dark haircut, fair skin and a red turtleneck shirt against a blurred out background.", echo=FALSE}
 knitr::include_graphics("images/CourtneyB.png")
 ```
 
@@ -129,7 +129,7 @@ knitr::include_graphics("images/CourtneyB.png")
 
 :::float-image
 
-```{r fig.alt = "Picture of a smiling person with long blonde hair, fair skin, and a mint green shirt against a grey background.", out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long blonde hair, fair skin, and a mint green shirt against a grey background.", echo=FALSE}
 knitr::include_graphics("images/JessieO.png")
 ```
 
@@ -142,7 +142,7 @@ knitr::include_graphics("images/JessieO.png")
 
 :::float-image
 
-```{r fig.alt = "Picture of a smiling person with a long curly afro, dark skin, and a floral printed shirt against a green background." out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with a long curly afro, dark skin, and a floral printed shirt against a green background.", echo=FALSE}
 knitr::include_graphics("images/FeliciaJ.png")
 ```
 
@@ -155,7 +155,7 @@ knitr::include_graphics("images/FeliciaJ.png")
 
 :::float-image
 
-```{r fig.alt = "Picture of a smiling person with long brown hair, black circular glasses, fair skin and a blue polka-dotted shirt against a brick background." out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long brown hair, black circular glasses, fair skin and a blue polka-dotted shirt against a brick background.", echo=FALSE}
 knitr::include_graphics("images/FallonG.png")
 ```
 

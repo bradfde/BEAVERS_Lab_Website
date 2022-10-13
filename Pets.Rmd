@@ -6,7 +6,7 @@ description: |
 
 :::float-image
 
-```{r fig.alt= "Picture of a large white dog's face, chewing on a bone, looking at the camera against a white wall background." out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt= "Picture of a large white dog's face, chewing on a bone, looking at the camera against a white wall background.", echo=FALSE}
 knitr::include_graphics("images/LucyB.png")
 ```
 
@@ -20,7 +20,7 @@ knitr::include_graphics("images/LucyB.png")
 
 :::float-image
 
-```{r fig.alt = "Picture of a black, white and orange cat on the ground looking up at the camera and a rat toy in front of them." , out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a black, white and orange cat on the ground looking up at the camera and a rat toy in front of them.", echo=FALSE}
 knitr::include_graphics("images/MomoD.png")
 ```
 
@@ -31,7 +31,7 @@ knitr::include_graphics("images/MomoD.png")
 
 :::float-image
 
-```{r fig.alt= "A drawing of a smiling beaver with an orange EEG cap on and two electrodes placed under its right eye.", out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt= "A drawing of a smiling beaver with an orange EEG cap on and two electrodes placed under its right eye.", echo=FALSE}
 knitr::include_graphics("images/Dr_BennitoNoBG.png")
 ```
 
@@ -42,7 +42,7 @@ knitr::include_graphics("images/Dr_BennitoNoBG.png")
 
 :::float-image
 
-```{r fig.alt= "Picture of two cats laying side by side. The cat on the left is black and white spotted, laying on its back with its paws stretched out and its eyes closed. The cat on the right is black with bright green/yellow eyes, laying on its stomach with its paws around the other cat.They are laying on a sofa with a red blanket on it.", out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt= "Picture of two cats laying side by side. The cat on the left is black and white spotted, laying on its back with its paws stretched out and its eyes closed. The cat on the right is black with bright green/yellow eyes, laying on its stomach with its paws around the other cat.They are laying on a sofa with a red blanket on it.", echo=FALSE}
 knitr::include_graphics("images/MoandSid.png")
 ```
 
@@ -53,7 +53,7 @@ knitr::include_graphics("images/MoandSid.png")
 
 :::float-image
 
-```{r fig.alt = "Picture of a grey and black striped cat laying down on its side, with its paws on its belly. The cat is sleeping with its eyes closed and belly up.", out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a grey and black striped cat laying down on its side, with its paws on its belly. The cat is sleeping with its eyes closed and belly up.", echo=FALSE}
 knitr::include_graphics("images/KattyT.png")
 ```
 
@@ -64,7 +64,7 @@ knitr::include_graphics("images/KattyT.png")
 
 :::float-image
 
-```{r fig.alt = "Picture of an orange cat laying on its side, sleeping with its head upside down, outside in the grass and flowers. "out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of an orange cat laying on its side, sleeping with its head upside down, outside in the grass and flowers.", echo=FALSE}
 knitr::include_graphics("images/OliverT.png")
 ```
 
@@ -75,7 +75,7 @@ knitr::include_graphics("images/OliverT.png")
 
 :::float-image
 
-```{r fig.alt = "Picture of a brown dog looking down with its tongue out against a grassy background." out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a brown dog looking down with its tongue out against a grassy background.", echo=FALSE}
 knitr::include_graphics("images/MobiusT.png")
 ```
 
@@ -86,7 +86,7 @@ knitr::include_graphics("images/MobiusT.png")
 
 :::float-image
 
-```{r fig.alt = "Picture of a Betta fish with pinkish red fins in a tank against a leafy background." , out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a Betta fish with pinkish red fins in a tank against a leafy background.", echo=FALSE}
 knitr::include_graphics("images/BuddyT.png")
 ```
 
