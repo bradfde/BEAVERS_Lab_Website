@@ -8,7 +8,7 @@ site: distill::distill_website
 
 :::float-image
 
-```{r out.width='175px', out.extra='style="float:left; padding:3px"', echo=FALSE}
+```{r fig.alt ="A drawing of a smiling beaver with an orange EEG cap on and two electrodes placed under its right eye.", out.width='175px', out.extra='style="float:left; padding:3px"', echo=FALSE}
 knitr::include_graphics("images/Dr_BennitoNoBG.png")
 ```
 
