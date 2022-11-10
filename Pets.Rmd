@@ -12,7 +12,7 @@ knitr::include_graphics("images/LucyB.png")
 
 [Lucy Bradford](LucyB.html) 
 <br/>
-**Great Pyrenees Moutain Dog**
+**Great Pyrenees Mountain Dog**
 :::
 
 <br/>
