@@ -56,7 +56,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { color: #20794d; } /* Attribute */
+code span.at { } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -77,13 +77,14 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
-code span.sc { color: #20794d; } /* SpecialChar */
+code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
 code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
+
 
   <!--radix_placeholder_meta_tags-->
   <title>B.E.A.V.E.R.S. Lab: People</title>
@@ -456,7 +457,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   </style>
 
-  <script src="site_libs/jquery-3.5.1/jquery-3.5.1.min.js"></script>
+  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
   <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
   <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
@@ -1863,7 +1864,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
+        var refs = $(this).attr('data-cites').split(" ");
+        var refHtml = refs.map(function(ref) {
+          return "<p>" + $('#ref-' + ref).html() + "</p>";
+        }).join("\n");
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -2499,8 +2503,7 @@ Join the team
 <h1>People</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>Want to work with us? Please select from “Join the team”
-dropdown.</p></p>
+<p><p>Want to work with us? Please select from “Join the team” dropdown.</p></p>
 </div>
 
 
@@ -2511,22 +2514,16 @@ dropdown.</p></p>
 <p><br/></p>
 <div class="float-image">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/Daniel.JPG" alt="Picture of a person with short brown hair, brown facial hair, black rectangular glasses, fair skin and a smile with a brick building in the background." width="150px" style="float:above; padding:1px" /></p>
+<p><img src="images/Daniel.JPG" title="Picture of a person with short brown hair, brown facial hair, black rectangular glasses, fair skin and a smile with a brick building in the background." alt="Picture of a person with short brown hair, brown facial hair, black rectangular glasses, fair skin and a smile with a brick building in the background." width="150px" style="float:above; padding:1px" /></p>
 </div>
-<p><a href="DanielB.html">Daniel Bradford, Ph.D</a> <br/>
-<strong>Assistant Professor and Lab Director</strong> <br/> <a
-href="files/CVs/Bradford_CV.pdf">CV</a> <a
-href="https://scholar.google.com/citations?user=mFzYd1sAAAAJ&amp;hl=en">Google
-Scholar</a> <a href="https://twitter.com/drdanbradford">Twitter</a></p>
+<p><a href="DanielB.html">Daniel Bradford, Ph.D</a> <br/> <strong>Assistant Professor and Lab Director</strong> <br/> <a href="files/CVs/Bradford_CV.pdf">CV</a> <a href="https://scholar.google.com/citations?user=mFzYd1sAAAAJ&amp;hl=en">Google Scholar</a> <a href="https://twitter.com/drdanbradford">Twitter</a></p>
 </div>
 <p><br/></p>
 <div class="float-image">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/AngelicaD.jpg" alt="Picture of a smiling person with long brown curled hair, fair skin, and a white sash around their neck and a green dress with a blue sky, lake and buildings in the background." width="150px" style="float:above; padding:1px" /></p>
+<p><img src="images/AngelicaD.jpg" title="Picture of a smiling person with long brown curled hair, fair skin, and a white sash around their neck and a green dress with a blue sky, lake and buildings in the background." alt="Picture of a smiling person with long brown curled hair, fair skin, and a white sash around their neck and a green dress with a blue sky, lake and buildings in the background." width="150px" style="float:above; padding:1px" /></p>
 </div>
-<p><a href="AngelicaD.html">Angelica DeFalco, B.S.</a> <br/> <strong>Lab
-Manager</strong> <br/> <a href="files/CVs/DeFalco_CV.pdf">CV</a> <a
-href="https://twitter.com/A_DeFalco11">Twitter</a></p>
+<p><a href="AngelicaD.html">Angelica DeFalco, B.S.</a> <br/> <strong>Lab Manager</strong> <br/> <a href="files/CVs/DeFalco_CV.pdf">CV</a> <a href="https://twitter.com/A_DeFalco11">Twitter</a></p>
 </div>
 <p><br/></p>
 <center>
@@ -2534,48 +2531,40 @@ href="https://twitter.com/A_DeFalco11">Twitter</a></p>
 </center>
 <div class="float-image">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/FreyaW.png" alt="Picture of a smiling person with shoulder length blonde straight hair, fair skin and a black white collared shirt with a black background." width="150px" style="float:above; padding:1px" /></p>
+<p><img src="images/FreyaW.png" title="Picture of a smiling person with shoulder length blonde straight hair, fair skin and a black white collared shirt with a black background." alt="Picture of a smiling person with shoulder length blonde straight hair, fair skin and a black white collared shirt with a black background." width="150px" style="float:above; padding:1px" /></p>
 </div>
-<p><a href="FreyaW.html">Freya Whittaker</a> <br/> <strong>Graduate
-Student, Health Psychology</strong> <br/> <a
-href="files/CVs/Whittaker_CV.pdf">CV</a> <a
-href="https://twitter.com/fmwhittaker">Twitter</a></p>
+<p><a href="FreyaW.html">Freya Whittaker</a> <br/> <strong>Graduate Student, Health Psychology</strong> <br/> <a href="files/CVs/Whittaker_CV.pdf">CV</a> <a href="https://twitter.com/fmwhittaker">Twitter</a></p>
 </div>
 <p><br/></p>
 <center>
-<h2 id="undergraduate-assistant-researchers">Undergraduate Assistant
-Researchers</h2>
+<h2 id="undergraduate-assistant-researchers">Undergraduate Assistant Researchers</h2>
 </center>
 <div class="float-image">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/LindsayB.png" alt="Picture of a smiling person with long strawberry blonde straight hair, fair skin, a black shirt and blue jeans against a pink background." width="150px" style="float:above; padding:1px" /></p>
+<p><img src="images/LindsayB.png" title="Picture of a smiling person with long strawberry blonde straight hair, fair skin, a black shirt and blue jeans against a pink background." alt="Picture of a smiling person with long strawberry blonde straight hair, fair skin, a black shirt and blue jeans against a pink background." width="150px" style="float:above; padding:1px" /></p>
 </div>
-<p><a href="LindsayB.html">Lindsay Beaman</a> <br/> <strong>Research
-Assistant</strong></p>
-</div>
-<p><br/></p>
-<div class="float-image">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/JacksonC.png" alt="Picture of a smiling person with a black hat on, fair skin, and a grey rain jacket against a mountaneous background." width="150px" style="float:above; padding:1px" /></p>
-</div>
-<p><a href="JacksonC.html">Jackson Cutler</a> <br/> <strong>Research
-Assistant</strong></p>
+<p><a href="LindsayB.html">Lindsay Beaman</a> <br/> <strong>Research Assistant</strong></p>
 </div>
 <p><br/></p>
 <div class="float-image">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/NicoD.png" alt="Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees." width="150px" style="float:above; padding:1px" /></p>
+<p><img src="images/JacksonC.png" title="Picture of a smiling person with a black hat on, fair skin, and a grey rain jacket against a mountaneous background." alt="Picture of a smiling person with a black hat on, fair skin, and a grey rain jacket against a mountaneous background." width="150px" style="float:above; padding:1px" /></p>
 </div>
-<p><a href="NicoD.html">Nico Doran</a> <br/> <strong>Research
-Assistant</strong></p>
+<p><a href="JacksonC.html">Jackson Cutler</a> <br/> <strong>Research Assistant</strong></p>
 </div>
 <p><br/></p>
 <div class="float-image">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/MiaT.png" alt="Picture of a smiling person with long dark straight hair and two streaks of pink hair, fair skin, and a black shirt against a leafy background." width="150px" style="float:above; padding:1px" /></p>
+<p><img src="images/NicoD.png" title="Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees." alt="Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees." width="150px" style="float:above; padding:1px" /></p>
 </div>
-<p><a href="MiaT.html">Mia Tognoli</a> <br/> <strong>URSA Engage
-Research Assistant</strong></p>
+<p><a href="NicoD.html">Nico Doran</a> <br/> <strong>Research Assistant</strong></p>
+</div>
+<p><br/></p>
+<div class="float-image">
+<div class="layout-chunk" data-layout="l-body">
+<p><img src="images/MiaT.png" title="Picture of a smiling person with long dark straight hair and two streaks of pink hair, fair skin, and a black shirt against a leafy background." alt="Picture of a smiling person with long dark straight hair and two streaks of pink hair, fair skin, and a black shirt against a leafy background." width="150px" style="float:above; padding:1px" /></p>
+</div>
+<p><a href="MiaT.html">Mia Tognoli</a> <br/> <strong>URSA Engage Research Assistant</strong></p>
 </div>
 <center>
 <h2 id="collaborators">Collaborators</h2>
@@ -2583,41 +2572,32 @@ Research Assistant</strong></p>
 <p><br/></p>
 <div class="float-image">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/CourtneyB.png" alt="Picture of a smiling person with a bob dark haircut, fair skin and a red turtleneck shirt against a blurred out background." width="150px" style="float:above; padding:1px" /></p>
+<p><img src="images/CourtneyB.png" title="Picture of a smiling person with a bob dark haircut, fair skin and a red turtleneck shirt against a blurred out background." alt="Picture of a smiling person with a bob dark haircut, fair skin and a red turtleneck shirt against a blurred out background." width="150px" style="float:above; padding:1px" /></p>
 </div>
-<p><a href="CourtneyB.html">Courtney Beard, Ph.D</a> <br/>
-<strong>Director of CARE lab, McLean Hospital/Harvard Medical
-School</strong></p>
+<p><a href="CourtneyB.html">Courtney Beard, Ph.D</a> <br/> <strong>Director of CARE lab, McLean Hospital/Harvard Medical School</strong></p>
 </div>
 <p><br/></p>
 <div class="float-image">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/JessieO.png" alt="Picture of a smiling person with long blonde hair, fair skin, and a mint green shirt against a grey background." width="150px" style="float:above; padding:1px" /></p>
+<p><img src="images/JessieO.png" title="Picture of a smiling person with long blonde hair, fair skin, and a mint green shirt against a grey background." alt="Picture of a smiling person with long blonde hair, fair skin, and a mint green shirt against a grey background." width="150px" style="float:above; padding:1px" /></p>
 </div>
-<p><a href="JessieO.html">Jessie Oldham, Ph.D</a> <br/>
-<strong>Assistant Professor, Department of Physical Medicine and
-Rehabilitation at Virginia Commonwealth University</strong></p>
+<p><a href="JessieO.html">Jessie Oldham, Ph.D</a> <br/> <strong>Assistant Professor, Department of Physical Medicine and Rehabilitation at Virginia Commonwealth University</strong></p>
 </div>
 <p><br/></p>
 <div class="float-image">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/FeliciaJ.png" alt="Picture of a smiling person with a long curly afro, dark skin, and a floral printed shirt against a green background." width="150px" style="float:above; padding:1px" /></p>
+<p><img src="images/FeliciaJ.png" title="Picture of a smiling person with a long curly afro, dark skin, and a floral printed shirt against a green background." alt="Picture of a smiling person with a long curly afro, dark skin, and a floral printed shirt against a green background." width="150px" style="float:above; padding:1px" /></p>
 </div>
-<p><a href="FeliciaJ.html">Felicia Jackson, Ph.D</a> <br/>
-<strong>Licensed Clinical Psychologist at Jackson Psych</strong></p>
+<p><a href="FeliciaJ.html">Felicia Jackson, Ph.D</a> <br/> <strong>Licensed Clinical Psychologist at Jackson Psych</strong></p>
 </div>
 <p><br/></p>
 <div class="float-image">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/FallonG.png" alt="Picture of a smiling person with long brown hair, black circular glasses, fair skin and a blue polka-dotted shirt against a brick background." width="150px" style="float:above; padding:1px" /></p>
+<p><img src="images/FallonG.png" title="Picture of a smiling person with long brown hair, black circular glasses, fair skin and a blue polka-dotted shirt against a brick background." alt="Picture of a smiling person with long brown hair, black circular glasses, fair skin and a blue polka-dotted shirt against a brick background." width="150px" style="float:above; padding:1px" /></p>
 </div>
-<p><a href="FallonG.html">Fallon Goodman, Ph.D</a> <br/>
-<strong>Assistant Professor and Director of Goodman Emotion and
-Resilience Laboratory at the University of South Florida
-(USF)</strong></p>
+<p><a href="FallonG.html">Fallon Goodman, Ph.D</a> <br/> <strong>Assistant Professor and Director of Goodman Emotion and Resilience Laboratory at the University of South Florida (USF)</strong></p>
 </div>
-<div class="sourceCode" id="cb1"><pre
-class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
