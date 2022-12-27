@@ -16,8 +16,9 @@ We are a new psychophysiological research lab in the [School of Psychological Sc
 :::
 
 <div class="note">
-<strong> NOTE:</strong> Dr. Bradford will be reviewing applications for the 2023 graduate student application cycle for the Health Psychology PhD program. If you would like to learn more about the Health Psychology PhD program at OSU, click [here](https://liberalarts.oregonstate.edu/sps/psychology/graduate-psychology/about-our-program/health-psychology-area). Feel free to contact Dr. Bradford at daniel.bradford@oregonstate.edu with any questions. </div> 
+<strong> NOTE:</strong> The deadline for the 2023 application cycle for the Health Psychology PhD program has passed. Please check back next year for changes. </div> 
 
+<!--- Dr. Bradford will be reviewing applications for the 2023 graduate student application cycle for the Health Psychology PhD program. If you would like to learn more about the Health Psychology PhD program at OSU, click [here](https://liberalarts.oregonstate.edu/sps/psychology/graduate-psychology/about-our-program/health-psychology-area). Feel free to contact Dr. Bradford at daniel.bradford@oregonstate.edu with any questions.--> 
 <!--![](images/Dr_BennitoNoBG.png)-->
 
 <!-- if doing in R: ```{r, layout="l-screen-inset", fig.cap="Atlantic Forest landscape in southern Brazil", echo=FALSE}
