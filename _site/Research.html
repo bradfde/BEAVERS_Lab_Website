@@ -56,7 +56,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { } /* Attribute */
+code span.at { color: #20794d; } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -77,14 +77,13 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
-code span.sc { color: #5e5e5e; } /* SpecialChar */
+code span.sc { color: #20794d; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
 code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
-
 
   <!--radix_placeholder_meta_tags-->
   <title>B.E.A.V.E.R.S. Lab: Research</title>
@@ -457,7 +456,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   </style>
 
-  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+  <script src="site_libs/jquery-3.5.1/jquery-3.5.1.min.js"></script>
   <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
   <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
@@ -1864,10 +1863,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refs = $(this).attr('data-cites').split(" ");
-        var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
-        }).join("\n");
+        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -2503,7 +2499,20 @@ Join the team
 <h1>Research</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p>Our program of research takes a multi-measure experimental psychopathology approach to better understand the role of stress reactivity in mental health. In this research, we focus on psychological processes at the interface of affect and addiction. We use novel experimental tasks with precise manipulation of laboratory stressors, pharmacological challenges and psychophysiological measures that allow for tight translation between animal and human research. Though we study human populations, our approach builds on preclinical findings in animals to identify specific stressor characteristics and neurobehavioral, cognitive, and affective mechanisms of reactivity to stressors key in the understanding of stress reactivity in human psychopathology. This mechanistic understanding may provide novel targets for prevention and treatment of the adverse effects of acute and chronic drug use as well as comorbid anxiety and depression.</p>
+<p>Our program of research takes a multi-measure experimental
+psychopathology approach to better understand the role of stress
+reactivity in mental health. In this research, we focus on psychological
+processes at the interface of affect and addiction. We use novel
+experimental tasks with precise manipulation of laboratory stressors,
+pharmacological challenges and psychophysiological measures that allow
+for tight translation between animal and human research. Though we study
+human populations, our approach builds on preclinical findings in
+animals to identify specific stressor characteristics and
+neurobehavioral, cognitive, and affective mechanisms of reactivity to
+stressors key in the understanding of stress reactivity in human
+psychopathology. This mechanistic understanding may provide novel
+targets for prevention and treatment of the adverse effects of acute and
+chronic drug use as well as comorbid anxiety and depression.</p>
 </div>
 
 
@@ -2512,39 +2521,158 @@ Join the team
 <nav class="l-text toc figcaption" id="TOC">
 <h3>Contents</h3>
 <ul>
-<li><a href="#broad-background">Broad Background</a></li>
-<li><a href="#how-and-what">How and What</a></li>
-<li><a href="#probing-for-evidence">Probing for Evidence</a></li>
-<li><a href="#empirically-based-improvement">Empirically Based Improvement</a></li>
+<li><a href="#broad-background" id="toc-broad-background">Broad
+Background</a></li>
+<li><a href="#how-and-what" id="toc-how-and-what">How and What</a></li>
+<li><a href="#probing-for-evidence"
+id="toc-probing-for-evidence">Probing for Evidence</a></li>
+<li><a href="#empirically-based-improvement"
+id="toc-empirically-based-improvement">Empirically Based
+Improvement</a></li>
 </ul>
 </nav>
 </div>
 <h3 id="broad-background">Broad Background</h3>
-<p>Rodent addiction models suggest that alcohol and other drugs dampen neural pathway activity involved in defensive stressor reactivity. Following chronic and heavy use in rodents, neuroadaptation in these pathways appears to increase this defensive reactivity. We contribute to a theoretical framework suggesting that this neuroadaptation occurs in human addiction as well, with increases in negative affect and other reactivity motivating more drug use. Indeed, humans have used drugs such as alcohol for millennia to alleviate acute negative affective and other responses to psychological stressors; however, alcohol does not diminish reactivity to all stressors equally.</p>
-<p>In fact, the stressor characteristics that contribute most to alcohol’s stress dampening effects remain unclear despite 30 years of observational and experimental research. As such, clear evidence for alcohol’s effects on stressor reactivity, which may serve as the first step in alcohol-induced neuroadaptations in humans, is elusive. In addressing this gap, we have noted that the neural structures (e.g., sub-nuclei within the central extended amygdala) and transmitter systems (e.g., corticotropin releasing factor and norepinephrine) involved in animal addiction models overlap with those that modulate defensive reactivity during uncertain stressors. This defensive reactivity is measured using the innate, cross species, startle response to auditory probes during presentation of visual “threat cues” that signal delivery of both certain and uncertain stressors. The startle response during threat cues is potentiated above responses during no-threat cues (i.e., startle potentiation). Anxiolytic drugs (e.g., benzodiazepines) have a greater dampening effect on startle potentiation during uncertain vs certain stressors in humans. Using startle potentiation with complementary measures of affect and attention such as Event Related Potentials (ERPs), our lab conducts programmatic studies to test for neuroadaptations in humans by examining:</p>
+<p>Rodent addiction models suggest that alcohol and other drugs dampen
+neural pathway activity involved in defensive stressor reactivity.
+Following chronic and heavy use in rodents, neuroadaptation in these
+pathways appears to increase this defensive reactivity. We contribute to
+a theoretical framework suggesting that this neuroadaptation occurs in
+human addiction as well, with increases in negative affect and other
+reactivity motivating more drug use. Indeed, humans have used drugs such
+as alcohol for millennia to alleviate acute negative affective and other
+responses to psychological stressors; however, alcohol does not diminish
+reactivity to all stressors equally.</p>
+<p>In fact, the stressor characteristics that contribute most to
+alcohol’s stress dampening effects remain unclear despite 30 years of
+observational and experimental research. As such, clear evidence for
+alcohol’s effects on stressor reactivity, which may serve as the first
+step in alcohol-induced neuroadaptations in humans, is elusive. In
+addressing this gap, we have noted that the neural structures (e.g.,
+sub-nuclei within the central extended amygdala) and transmitter systems
+(e.g., corticotropin releasing factor and norepinephrine) involved in
+animal addiction models overlap with those that modulate defensive
+reactivity during uncertain stressors. This defensive reactivity is
+measured using the innate, cross species, startle response to auditory
+probes during presentation of visual “threat cues” that signal delivery
+of both certain and uncertain stressors. The startle response during
+threat cues is potentiated above responses during no-threat cues (i.e.,
+startle potentiation). Anxiolytic drugs (e.g., benzodiazepines) have a
+greater dampening effect on startle potentiation during uncertain vs
+certain stressors in humans. Using startle potentiation with
+complementary measures of affect and attention such as Event Related
+Potentials (ERPs), our lab conducts programmatic studies to test for
+neuroadaptations in humans by examining:</p>
 <ol type="1">
-<li>The effects of commonly used drugs on stressor-relevant mechanisms in healthy, non-dependent recreational users and</li>
-<li>Evidence of adaptations or other perturbances in these stressor mechanisms in drug-dependent samples.</li>
-<li>We also maintain supplementary focus on empirical refinement of psychophysiology methods and the improvement of clinical psychological science broadly.</li>
+<li>The effects of commonly used drugs on stressor-relevant mechanisms
+in healthy, non-dependent recreational users and</li>
+<li>Evidence of adaptations or other perturbances in these stressor
+mechanisms in drug-dependent samples.</li>
+<li>We also maintain supplementary focus on empirical refinement of
+psychophysiology methods and the improvement of clinical psychological
+science broadly.</li>
 </ol>
-<p>We recognize that substantive advancement in my main areas of research requires rigorous, transparent, and programmatic practices.</p>
+<p>We recognize that substantive advancement in my main areas of
+research requires rigorous, transparent, and programmatic practices.</p>
 <hr />
 <h3 id="how-and-what">How and What</h3>
-<p><em>Circumstances that allow commonly used drugs to reduce reactivity to stressors</em> <br/> <img src="images/BradfordD2013.png" alt="drawing" style="width:300px;"/></p>
-<p>In a study published in <a href="files/publications/BradfordD2013a/BradfordD2013a.pdf">Psychological Science</a> (discussed in an accessible way in an article by the <a href="https://www.huffpost.com/entry/booze-binging-and-the-dev_b_3634559?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAJWB7ZBqIfzcyBDY9lQ_ixYYzecNzPFV1mtw5TACDlyfxi39eD1mScB7Y-lRGb-2GR0U4I0SQuRHVIumGsO49xVpLFWvroR7yL37MxT1uTD5TnAWhE4L44EVbiorzOtBe7lgQ_KHvLsvSwRoz1e8UeI85ilnr2q998vv7ek3oP3M">Huffington Post</a>), we tested the hypothesis that alcohol would have a greater stress reducing effect during stressors of uncertain versus certain intensity. We administered various doses of alcohol to manipulate participants’ blood alcohol concentrations (BAC) across a broad range of levels from sobriety to moderately high intoxication (approximately six standard drinks over 1 hour in a 180-pound man). We used startle potentiation and self-reported anxiety to index objective and subjective reactions to high, low, and uncertain intensity stressors.</p>
-<p>As you can see in the figure above, certain high intensity stressors elicited greater negative affect than certain low intensity stressors. This appears to confirm the old proverb, “better the devil you know than the devil you don’t know”. Alcohol’s effects on participants’ stress response were robust and linear across all stressor types with higher alcohol doses leading to lower stress response. Alcohol’s effects on stress response were comparable across the high and low intensity stressors. However, we demonstrated that greater alcohol stress response dampening occurs during stressors of uncertain intensity compared to that during stressors of certain high and low intensity.</p>
-<p>Intoxicated drinkers may be less anxious about “the devil they don’t know” than about “the devil they know,” which in turn may lead to increases in certain types of risk taking when people drink. Of note, compensatory neuroadaptation in the response to uncertain stressors following chronic alcohol or other drug use and early chronic stress have been implicated in addiction. While most of this work has used animal models, our results represent a first step towards demonstration of the initial press for such neuroadaptation in humans following acute alcohol use.</p>
+<p><em>Circumstances that allow commonly used drugs to reduce reactivity
+to stressors</em> <br/>
+<img src="images/BradfordD2013.png" alt="drawing" style="width:300px;"/></p>
+<p>In a study published in <a
+href="files/publications/BradfordD2013a/BradfordD2013a.pdf">Psychological
+Science</a> (discussed in an accessible way in an article by the <a
+href="https://www.huffpost.com/entry/booze-binging-and-the-dev_b_3634559?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAJWB7ZBqIfzcyBDY9lQ_ixYYzecNzPFV1mtw5TACDlyfxi39eD1mScB7Y-lRGb-2GR0U4I0SQuRHVIumGsO49xVpLFWvroR7yL37MxT1uTD5TnAWhE4L44EVbiorzOtBe7lgQ_KHvLsvSwRoz1e8UeI85ilnr2q998vv7ek3oP3M">Huffington
+Post</a>), we tested the hypothesis that alcohol would have a greater
+stress reducing effect during stressors of uncertain versus certain
+intensity. We administered various doses of alcohol to manipulate
+participants’ blood alcohol concentrations (BAC) across a broad range of
+levels from sobriety to moderately high intoxication (approximately six
+standard drinks over 1 hour in a 180-pound man). We used startle
+potentiation and self-reported anxiety to index objective and subjective
+reactions to high, low, and uncertain intensity stressors.</p>
+<p>As you can see in the figure above, certain high intensity stressors
+elicited greater negative affect than certain low intensity stressors.
+This appears to confirm the old proverb, “better the devil you know than
+the devil you don’t know”. Alcohol’s effects on participants’ stress
+response were robust and linear across all stressor types with higher
+alcohol doses leading to lower stress response. Alcohol’s effects on
+stress response were comparable across the high and low intensity
+stressors. However, we demonstrated that greater alcohol stress response
+dampening occurs during stressors of uncertain intensity compared to
+that during stressors of certain high and low intensity.</p>
+<p>Intoxicated drinkers may be less anxious about “the devil they don’t
+know” than about “the devil they know,” which in turn may lead to
+increases in certain types of risk taking when people drink. Of note,
+compensatory neuroadaptation in the response to uncertain stressors
+following chronic alcohol or other drug use and early chronic stress
+have been implicated in addiction. While most of this work has used
+animal models, our results represent a first step towards demonstration
+of the initial press for such neuroadaptation in humans following acute
+alcohol use.</p>
 <hr />
 <h3 id="probing-for-evidence">Probing for Evidence</h3>
-<p><em>Possible neuroadaptations in stress circuits</em> <br/> <img src="images/MobergC2017.png" alt="drawing" style="width:300px;"/></p>
-<p>Alcohol administration studies such as the one described above provide evidence in humans for the first component of neuroadaptation of uncertain stressor reactivity implicated by rodent models of drug dependence. In another study published in <a href="files/publications/MobergC2017a/MobergC2017a.pdf">Journal of Abnormal Psychology</a>, we examined startle potentiation during uncertain and certain stressors in a sample of recently abstinent (1-8 weeks) alcoholics and non-alcoholic controls. We found that individuals with alcohol use disorder (AUD) show exaggerated defensive response to uncertain but not certain stressors. This provided novel preliminary support for later stage uncertainty-relevant stress neuroadaptations seen in rodent models. Practically speaking, excessive use of alcohol when “drinking to cope” may lead to exaggerated stressor reactivity, which, in turn, may cause, maintain, or exacerbate AUD and related disorders.</p>
+<p><em>Possible neuroadaptations in stress circuits</em> <br/>
+<img src="images/MobergC2017.png" alt="drawing" style="width:300px;"/></p>
+<p>Alcohol administration studies such as the one described above
+provide evidence in humans for the first component of neuroadaptation of
+uncertain stressor reactivity implicated by rodent models of drug
+dependence. In another study published in <a
+href="files/publications/MobergC2017a/MobergC2017a.pdf">Journal of
+Abnormal Psychology</a>, we examined startle potentiation during
+uncertain and certain stressors in a sample of recently abstinent (1-8
+weeks) alcoholics and non-alcoholic controls. We found that individuals
+with alcohol use disorder (AUD) show exaggerated defensive response to
+uncertain but not certain stressors. This provided novel preliminary
+support for later stage uncertainty-relevant stress neuroadaptations
+seen in rodent models. Practically speaking, excessive use of alcohol
+when “drinking to cope” may lead to exaggerated stressor reactivity,
+which, in turn, may cause, maintain, or exacerbate AUD and related
+disorders.</p>
 <hr />
-<h3 id="empirically-based-improvement">Empirically Based Improvement</h3>
-<p><em>Seeking to improve research paradigms in psychophysiology and psychological science</em> <br/> <img src="images/Methods.jpeg" alt="drawing" style="width:500px;"/></p>
-<p>Concerns from the research community and public about the replicability of psychological science have spurred calls to increase the rigor and transparency of our field. Increased attention to racism and challenges to equity brought about by ongoing tragic events have opened many people’s eyes to the need for improved equity in psychological science. We attempt to answer these calls in a number of ways. For example, by using increasingly larger and more diverse sample sizes in experimental paradigms with all relevant physiological processing and analysis parameters preregistered and all data shared openly. We have also published empirical studies providing evidence-based approaches to establishing proper <a href="files/publications/BradfordD2015b/BradfordD2015b.pdf">quantification and measurement</a> of psychophysiological signals used to study psychological processes. Psychophysiological tasks such as the ones used in our research are poised to become a major contribution to NIMH RDoC and related initiatives in experimental medicine. They also align well with NIMH’s current priorities in experimental therapeutics including focus on mechanisms in clinical trials and the use of surrogate end points for treatment development, and endophenotype identification. For these tasks to contribute meaningfully, however, proper standards for their measurement and quantification must be established. Furthermore, their psychometric properties must be understood for them to be well positioned as tools in psychological research.</p>
-<p>Our efforts thus far have contributed to a clear and comprehensive empirical evaluation of the advantages and limitations of combinations of several measures, tasks, and quantification approaches used in affective and clinical science. In addition to empirical studies, we contribute to methodological themed commentaries published in high profile outlets such as <a href="files/publications/LakensD2018a/LakensD2018a.pdf">Nature Human Behavior</a> and <a href="files/publications/BradfordD2018/BradfordD2018a.pdf">Neuropsychopharmocology</a>.Recently, we have begun to examine challenges to equity in psychophysiology such as the over use of non-diverse samples and methods that preclude participation from specific communities.</p>
+<h3 id="empirically-based-improvement">Empirically Based
+Improvement</h3>
+<p><em>Seeking to improve research paradigms in psychophysiology and
+psychological science</em> <br/>
+<img src="images/Methods.jpeg" alt="drawing" style="width:500px;"/></p>
+<p>Concerns from the research community and public about the
+replicability of psychological science have spurred calls to increase
+the rigor and transparency of our field. Increased attention to racism
+and challenges to equity brought about by ongoing tragic events have
+opened many people’s eyes to the need for improved equity in
+psychological science. We attempt to answer these calls in a number of
+ways. For example, by using increasingly larger and more diverse sample
+sizes in experimental paradigms with all relevant physiological
+processing and analysis parameters preregistered and all data shared
+openly. We have also published empirical studies providing
+evidence-based approaches to establishing proper <a
+href="files/publications/BradfordD2015b/BradfordD2015b.pdf">quantification
+and measurement</a> of psychophysiological signals used to study
+psychological processes. Psychophysiological tasks such as the ones used
+in our research are poised to become a major contribution to NIMH RDoC
+and related initiatives in experimental medicine. They also align well
+with NIMH’s current priorities in experimental therapeutics including
+focus on mechanisms in clinical trials and the use of surrogate end
+points for treatment development, and endophenotype identification. For
+these tasks to contribute meaningfully, however, proper standards for
+their measurement and quantification must be established. Furthermore,
+their psychometric properties must be understood for them to be well
+positioned as tools in psychological research.</p>
+<p>Our efforts thus far have contributed to a clear and comprehensive
+empirical evaluation of the advantages and limitations of combinations
+of several measures, tasks, and quantification approaches used in
+affective and clinical science. In addition to empirical studies, we
+contribute to methodological themed commentaries published in high
+profile outlets such as <a
+href="files/publications/LakensD2018a/LakensD2018a.pdf">Nature Human
+Behavior</a> and <a
+href="files/publications/BradfordD2018/BradfordD2018a.pdf">Neuropsychopharmocology</a>.Recently,
+we have begun to examine challenges to equity in psychophysiology such
+as the over use of non-diverse samples and methods that preclude
+participation from specific communities.</p>
 <hr />
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>

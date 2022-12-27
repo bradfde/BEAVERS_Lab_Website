@@ -56,7 +56,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { } /* Attribute */
+code span.at { color: #20794d; } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -77,14 +77,13 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
-code span.sc { color: #5e5e5e; } /* SpecialChar */
+code span.sc { color: #20794d; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
 code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
-
 
   <!--radix_placeholder_meta_tags-->
   <title>B.E.A.V.E.R.S. Lab: Lab Values</title>
@@ -457,7 +456,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   </style>
 
-  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+  <script src="site_libs/jquery-3.5.1/jquery-3.5.1.min.js"></script>
   <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
   <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
@@ -1864,10 +1863,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refs = $(this).attr('data-cites').split(" ");
-        var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
-        }).join("\n");
+        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -2503,22 +2499,93 @@ Join the team
 <h1>Lab Values</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p>Our lab is committed to equity and social justice. Much of our statement on lab values is inspired/borrowed from my colleague and good friend, <a href="https://fallongoodman.com/people/">Dr. Fallon Goodman’s</a> lab.</p>
+<p>Our lab is committed to equity and social justice. Much of our
+statement on lab values is inspired/borrowed from my colleague and good
+friend, <a href="https://fallongoodman.com/people/">Dr. Fallon
+Goodman’s</a> lab.</p>
 </div>
 
 
 <div class="d-article">
-<p>Though science is fun and exciting, it can also be hard and stressful. Individuals also have their own unique challenges intrinsic to their circumstance. Our lab is committed to viewing each member as a whole person with a life both inside and outside of the lab. We operate from the assumption that in a person’s life—and perhaps during their time in our lab—there will be significant life stressors. Our mindset is that in order to have successful and meaningful careers, these stressors cannot be ignored. Rather, each individual and all of their stories are to be accepted and integrated in the fiber of our lab. By joining the lab, you are committing to the spirit of this community and its fellow lab members.</p>
+<p>Though science is fun and exciting, it can also be hard and
+stressful. Individuals also have their own unique challenges intrinsic
+to their circumstance. Our lab is committed to viewing each member as a
+whole person with a life both inside and outside of the lab. We operate
+from the assumption that in a person’s life—and perhaps during their
+time in our lab—there will be significant life stressors. Our mindset is
+that in order to have successful and meaningful careers, these stressors
+cannot be ignored. Rather, each individual and all of their stories are
+to be accepted and integrated in the fiber of our lab. By joining the
+lab, you are committing to the spirit of this community and its fellow
+lab members.</p>
 <p><strong>Dr Bradford’s mentoring style:</strong></p>
-<p>As the director of this lab, I am committed to supporting each member first and foremost as a complex, evolving, human being. I prioritize being available to lab members during both regular and often non-regular hours. In my view, this availability does not end when a lab member graduates or moves out of the state. I stay connected to many of my previous mentees for many years after the formal mentoring relationship has completed. I believe it is a mentor’s responsibility to be flexible and adjust to mentee’s needs within the mentoring relationship. This adjustment includes both the mentor and mentee finding the best way to communicate with one another. None of this means that I will not encourage lab members to grow and become independent. In fact, I have high expectations for and place large responsibility on lab members. I simply commit to supporting lab members as they carry and foster those expectations and responsibility.</p>
-<p>The science we do in the lab is complex. I believe it is crucial to present this material in the clearest possible way. Despite some of the words used in the research descriptions on this website, I am careful to avoid scientific jargon and make attempts to use plain language in the lab. While helping lab members to strive for a fuller understanding of the data they consume, I encourage them to look for bias in the ways data may be presented in media reports that can obscure important shortcomings or caveats to our and others’ research.</p>
-<p>I am very proud to have been fortunate enough to have my mentoring recognized several times. I received the 2017 Excellence in Undergraduate Mentoring Award from the Office of the Provost at University of Wisconsin, Madison. My contributions to mentoring students from diverse backgrounds was also recognized by the Multicultural Graduate Network with an honorable mention for their Peer Mentor Award. In 2021, I was awarded both the University of Miami Graduate Faculty Mentor of the Year award and the Psychology Graduate Student Organization Teacher of the Year award. I am new to Oregon State University as of January 2022 so I am happy to provide references to my mentoring by mentees from my previous universities.</p>
-<p><strong>Reproducibility, Rigor, Transparency, and Openness:</strong></p>
-<p>Fifteen years ago, during a heated debate, my coworker angrily spoke words that still echo in my mind: “Psychology is a pseudoscience.” These words illustrate a common stigma that psychology’s merit is not up to par with the hard sciences, something that threatens the standing of psychological research in the public eye. Today, this threat is amplified by widespread concerns about the reproducibility of psychological science and more broadly, societal shifts towards a “post truth era.” Unfortunately, negative public perception about psychology can also discourage people from seeking much-needed psychological treatment. Consequently, stigma surrounding mental illness persists. Our lab is committed to fighting these issues, among others, through doing careful, rigorous, and transparent science. We aim to increase our understanding of human behavior while simultaneously remaining critical consumers and reliable disseminators of research. Most of our research is programmatic meaning we do multiple studies on the same topic and use careful internal replications. For many of our studies, we preregister our analysis parameters and openly share our data and analysis code.</p>
+<p>As the director of this lab, I am committed to supporting each member
+first and foremost as a complex, evolving, human being. I prioritize
+being available to lab members during both regular and often non-regular
+hours. In my view, this availability does not end when a lab member
+graduates or moves out of the state. I stay connected to many of my
+previous mentees for many years after the formal mentoring relationship
+has completed. I believe it is a mentor’s responsibility to be flexible
+and adjust to mentee’s needs within the mentoring relationship. This
+adjustment includes both the mentor and mentee finding the best way to
+communicate with one another. None of this means that I will not
+encourage lab members to grow and become independent. In fact, I have
+high expectations for and place large responsibility on lab members. I
+simply commit to supporting lab members as they carry and foster those
+expectations and responsibility.</p>
+<p>The science we do in the lab is complex. I believe it is crucial to
+present this material in the clearest possible way. Despite some of the
+words used in the research descriptions on this website, I am careful to
+avoid scientific jargon and make attempts to use plain language in the
+lab. While helping lab members to strive for a fuller understanding of
+the data they consume, I encourage them to look for bias in the ways
+data may be presented in media reports that can obscure important
+shortcomings or caveats to our and others’ research.</p>
+<p>I am very proud to have been fortunate enough to have my mentoring
+recognized several times. I received the 2017 Excellence in
+Undergraduate Mentoring Award from the Office of the Provost at
+University of Wisconsin, Madison. My contributions to mentoring students
+from diverse backgrounds was also recognized by the Multicultural
+Graduate Network with an honorable mention for their Peer Mentor Award.
+In 2021, I was awarded both the University of Miami Graduate Faculty
+Mentor of the Year award and the Psychology Graduate Student
+Organization Teacher of the Year award. I am new to Oregon State
+University as of January 2022 so I am happy to provide references to my
+mentoring by mentees from my previous universities.</p>
+<p><strong>Reproducibility, Rigor, Transparency, and
+Openness:</strong></p>
+<p>Fifteen years ago, during a heated debate, my coworker angrily spoke
+words that still echo in my mind: “Psychology is a pseudoscience.” These
+words illustrate a common stigma that psychology’s merit is not up to
+par with the hard sciences, something that threatens the standing of
+psychological research in the public eye. Today, this threat is
+amplified by widespread concerns about the reproducibility of
+psychological science and more broadly, societal shifts towards a “post
+truth era.” Unfortunately, negative public perception about psychology
+can also discourage people from seeking much-needed psychological
+treatment. Consequently, stigma surrounding mental illness persists. Our
+lab is committed to fighting these issues, among others, through doing
+careful, rigorous, and transparent science. We aim to increase our
+understanding of human behavior while simultaneously remaining critical
+consumers and reliable disseminators of research. Most of our research
+is programmatic meaning we do multiple studies on the same topic and use
+careful internal replications. For many of our studies, we preregister
+our analysis parameters and openly share our data and analysis code.</p>
 <p><strong>Skills and experiences you can gain in our lab:</strong></p>
-<p>If you are in the lab for at least two semesters, you will have the opportunity to receive instruction and gain valuable experience using multiple tools used in clinical and experimental psychology including both software such as R statistical computing platform and MATLAB as well as psychophysiology measurement techniques such as Electroencephalogram (EEG), Event Related Potentials (ERP), Electromyography (EMG) and Electrode Dermal Analysis (EDA). You will also likely have the opportunity to learn psychopharmacology techniques such as safe dosing of ethyl alcohol and measurement of Blood Alcohol Content (BAC). All of these skills will be taught with an eye to Open Science practices.</p>
+<p>If you are in the lab for at least two semesters, you will have the
+opportunity to receive instruction and gain valuable experience using
+multiple tools used in clinical and experimental psychology including
+both software such as R statistical computing platform and MATLAB as
+well as psychophysiology measurement techniques such as
+Electroencephalogram (EEG), Event Related Potentials (ERP),
+Electromyography (EMG) and Electrode Dermal Analysis (EDA). You will
+also likely have the opportunity to learn psychopharmacology techniques
+such as safe dosing of ethyl alcohol and measurement of Blood Alcohol
+Content (BAC). All of these skills will be taught with an eye to Open
+Science practices.</p>
 <hr />
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
