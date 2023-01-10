@@ -1,0 +1,30 @@
+---
+title: "Corryn Dooley"
+image: "images/CorrynD.png"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am a freshman in the honors college and pursuing a major in psychology with a minor in chemistry. I am from Colorado and am amazed by the beautiful rain and greenery at Oregon State University. After completing my Bachelor of Arts at Oregon State, I will be furthering my education in graduate school for neuropsychology. 
+
+I am grateful to be participating in the URSA program and involved in research that I am curious about. I am excited to learn from my mentor, Dr. Daniel Bradford, and understand the psychopathology approach used to understand stress reactivity. I am fascinated by the brain’s response to stress and neuropsychology as a whole. I am excited to begin research in the BEAVERS lab as an undergraduate because I have many questions that I am eager to answer for my honors thesis on the clinical treatment of psychological disorders. 
+
+I am passionate about spreading mental health awareness, changing the current psychological healthcare system, and working one-on-one with people. I will explore treatment for trauma, anxiety, addiction, depression, and other psychological disorders to one day help people overcome them.
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+Psychology | Expected June 2026
+
+## Interests
+
+* Addiction 
+* Abnormal psychology 
+* Hiking/Snowboarding/Anything outdoors
+* Piano 
+* Traveling
+* Reading 
+* Thrifting/sustainable clothing
