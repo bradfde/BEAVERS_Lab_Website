@@ -1,0 +1,26 @@
+---
+title: "Catalina Slangan"
+image: "images/CatalinaS.jpg"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I'm a second-year, junior level student.  I grew up in Canby, Oregon in the country area and spent a lot of my time doing outdoor activities.  I'm majoring in Psychology, with a minor in Spanish. I'm interested in researching bio-psychological subjects, and behavioral phenomenons.  This will be my first year doing research, and I am very excited to start my career path to my Psy.D degree. I am passionate about de-stigmatizing the talk around mental health, the difficulties that come with experiencing mental illnesses, and normalizing talking about therapy.
+
+## Education
+
+**Oregon State University** | Corvallis, Oregon
+
+Psychology | Expected June 2024
+
+## Interests
+* Psychopathology
+* Biopsychology
+* Forensic Psychology
+* Latin and Spanish Culture
+* Soccer
+* Weightlifting
+* Dance

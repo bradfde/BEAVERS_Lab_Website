@@ -1,0 +1,19 @@
+---
+title: "Dakota Smith"
+image: "images/DakotaS.jpg"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I’m a third-year Psychology major with a Biology minor interested in researching the neurological and behavioral effects of substance use. I grew up in Oregon but spent my senior year of high school in Krakow, Poland, so I met people from many different cultures who had lived very different lives from mine. Getting to hear so many other perspectives got me interested in the ways mental illness and addiction are approached across cultures and how the United States can improve the way we view and treat these issues. 
+
+I came to Oregon State because I was impressed by its science programs and all the labs that were running on campus. I’m a part of the RISE and SUN psychology labs and hope to pursue a doctorate and, eventually, a career in psychological research focusing on the neurological mechanisms of substance use, mental illness, and trauma. I love psychology and am excited to be able to contribute to research I’m passionate about as an undergraduate. Outside of psychology, I’m involved with the OSU Theatre department and design the lighting for their shows as a hobby. I’m very grateful that I get to interact with people who have different interests and goals from mine.
+
+## Education
+
+**Oregon State University** | Corvallis, Oregon
+
+Psychology | Expected June 2024
