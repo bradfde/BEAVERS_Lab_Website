@@ -1,6 +1,6 @@
 ---
 title: "Freya Whittaker"
-image: "images/FreyaW.png"
+image: "images/FreyaW2.png"
 links:
   - label: CV
     url: "files/CVs/Whittaker_CV.pdf"
