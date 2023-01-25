@@ -1,0 +1,45 @@
+---
+title: "Lab Pets"
+description: |
+  You don't have to be a pet lover to be a member of the B.E.A.V.E.R.S Lab but many members do love their pets. Click on each pet's name to learn more about them. 
+---
+
+:::float-image
+
+```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/LucyB.png")
+```
+
+[Lucy Bradford](LucyB.html) 
+<br/>
+**Great Pyrenees Moutain Dog**
+:::
+
+<br/>
+<br/>
+
+:::float-image
+
+```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/MomoD.png")
+```
+
+[Momo DeFalco](MomoD.html) 
+<br/>
+**Calico**
+:::
+
+:::float-image
+
+```{r out.width='150px', out.extra='style="float:above; padding:1px"', echo=FALSE}
+knitr::include_graphics("images/Dr_BennitoNoBG.png")
+```
+
+[Dr. Bennito](Dr_Bennito.html) 
+<br/>
+**Beaver**
+:::
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
