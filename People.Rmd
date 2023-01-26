@@ -180,19 +180,6 @@ knitr::include_graphics("images/MiaT.png")
 
 :::float-image
 
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt= "Picture of a smiling person with a bob dark haircut, fair skin and a red turtleneck shirt against a blurred out background.", echo=FALSE}
-knitr::include_graphics("images/CourtneyB.png")
-```
-
-[Courtney Beard, Ph.D](CourtneyB.html) 
-<br/>
-**Director of CARE lab, McLean Hospital/Harvard Medical School**
-:::
-
-<br/>
-
-:::float-image
-
 ```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long blonde hair, fair skin, and a mint green shirt against a grey background.", echo=FALSE}
 knitr::include_graphics("images/JessieO.png")
 ```
@@ -201,6 +188,22 @@ knitr::include_graphics("images/JessieO.png")
 <br/>
 **Assistant Professor, Department of Physical Medicine and Rehabilitation at Virginia Commonwealth University**
 :::
+
+<br/>
+
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long brown hair, black circular glasses, fair skin and a blue polka-dotted shirt against a brick background.", echo=FALSE}
+knitr::include_graphics("images/FallonG.png")
+```
+
+[Fallon Goodman, Ph.D](FallonG.html) 
+<br/>
+**Assistant Professor and Director of Emotion and Resilience Laboratory at George Washington University**
+:::
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 
 <br/>
 
@@ -219,14 +222,11 @@ knitr::include_graphics("images/FeliciaJ.png")
 
 :::float-image
 
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long brown hair, black circular glasses, fair skin and a blue polka-dotted shirt against a brick background.", echo=FALSE}
-knitr::include_graphics("images/FallonG.png")
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt= "Picture of a smiling person with a bob dark haircut, fair skin and a red turtleneck shirt against a blurred out background.", echo=FALSE}
+knitr::include_graphics("images/CourtneyB.png")
 ```
 
-[Fallon Goodman, Ph.D](FallonG.html) 
+[Courtney Beard, Ph.D](CourtneyB.html) 
 <br/>
-**Assistant Professor and Director of Goodman Emotion and Resilience Laboratory at the University of South Florida (USF)**
+**Director of CARE lab, McLean Hospital/Harvard Medical School**
 :::
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```

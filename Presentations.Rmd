@@ -11,6 +11,11 @@ description:
   OSF =  link to Open Science Foundation project repository for shared data and materials.
 
 ---
+## -2022- ##
+
+Bradford, D.E., Willwerth, S.B., DeFalco, A., Mannix, R.M., Meehan III, W.P., Oldham, J.R. (2022, September). Attenuated general startle reactivity in adolescent athletes with a concussion history. Poster presented at the 62nd annual meeting of the Society for Psychophysiological Research. Vancouver, BC, Canada.[PDF](files/Presentations/BradfordD2022/Concussion_Poster_2022_FINAL.pdf)
+
+DeFalco, A., Beaman, L., Cutler, J.T., Doran, N., Tognoli, M.I., Perkins, E.R., Joyner, K.J., Bradford, D.E. (2022, September). The dearth of sample demographic description and representativeness in clinical psychophysiological research. Poster presented at the 62nd annual meeting of the Society for Psychophysiological Research. Vancouver, BC, Canada. [PDF](files/Presentations/DeFalcoA2022/SPR_Poster_FINAL.pdf)
 
 ## -2018- ##
 
