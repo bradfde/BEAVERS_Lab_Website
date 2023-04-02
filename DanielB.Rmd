@@ -3,7 +3,7 @@ title: "Daniel Bradford PhD"
 image: "images/Daniel.jpg"
 links:
   - label: CV
-    url: "files/CVs/Bradford_CV_01.2023.pdf"
+    url: "files/CVs/Bradford_CV.pdf"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=mFzYd1sAAAAJ&hl=en"
   - label: Publons

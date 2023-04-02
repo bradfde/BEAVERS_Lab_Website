@@ -20,7 +20,7 @@ knitr::include_graphics("images/Daniel.JPG")
 <br/>
 **Assistant Professor and Lab Director**
 <br/>
-[CV](files/CVs/Bradford_CV_01.2023.pdf) [Google Scholar](https://scholar.google.com/citations?user=mFzYd1sAAAAJ&hl=en) [Twitter](https://twitter.com/drdanbradford)
+[CV](files/CVs/Bradford_CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=mFzYd1sAAAAJ&hl=en) [Twitter](https://twitter.com/drdanbradford)
 :::
 
 <br/>

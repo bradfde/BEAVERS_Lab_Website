@@ -56,7 +56,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { color: #20794d; } /* Attribute */
+code span.at { } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -77,13 +77,14 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
-code span.sc { color: #20794d; } /* SpecialChar */
+code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
 code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
+
 
   <!--radix_placeholder_meta_tags-->
   <title>B.E.A.V.E.R.S. Lab: Publications</title>
@@ -456,7 +457,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   </style>
 
-  <script src="site_libs/jquery-3.5.1/jquery-3.5.1.min.js"></script>
+  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
   <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
   <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
@@ -1863,7 +1864,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
+        var refs = $(this).attr('data-cites').split(" ");
+        var refHtml = refs.map(function(ref) {
+          return "<p>" + $('#ref-' + ref).html() + "</p>";
+        }).join("\n");
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -2499,167 +2503,45 @@ Join the team
 <h1>Publications</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p>PDF = link to downloadable article. PDFs are provided for
-instructional purposes only. <br/> OSF = link to Open Science Foundation
-project repository for shared data and materials.</p>
+<p>PDF = link to downloadable article. PDFs are provided for instructional purposes only. <br/> OSF = link to Open Science Foundation project repository for shared data and materials.</p>
 </div>
 
 
 <div class="d-article">
 <h2 id="section">-2022-</h2>
-<p>Bradford, D.E., DeFalco, A., Perkins, E.R., Carvajal, I., Kwasa, J.,
-Goodman, F.R., Jackson, F., Richardson, L.N.S., Woodley, N., Neuberger,
-L., Sandoval, J.A., Huang, H.J., Joyner, K.J. (2022). Whose signals are
-being amplified? Towards a more equitable clinical psychophysiology.
-<em>Clinical Psychological Science</em>. <a
-href="files/Publications/BradfordD2022/BradfordD2022.pdf"><strong>PDF</strong></a>
-<a href="https://osf.io/hj3mq/#!"><strong>OSF</strong></a></p>
-<p>Victor, S., Schleider, J., Ammerman, B., Bradford, D.E., Devendorf,
-A., Gruber, J., Gunaydin, L., Hallion, L., Kaufman, E., Lewis, S.,
-Stage, D L. (in press). Leveraging the Strengths of Psychologists with
-Lived Experience of Mental Illness. <em>Perspectives on Psychological
-Science</em>. <a
-href="https://psyarxiv.com/ksnfd/"><strong>PDF</strong></a></p>
-<p>Bradford, D.E., Shireman, J.M., Sant’Ana, S.J., Fronk, G.E., Curtin,
-J.J. (in press). Alcohol’s effects during uncertain and uncontrollable
-stressors in the laboratory. <em>Clinical Psychological Science</em>. <a
-href="files/Publications/BradfordD2021a.pdf"><strong>PDF</strong></a> <a
-href="https://osf.io/2zmxe/"><strong>OSF</strong></a></p>
-<p>Goodman, F.R., Brown, B.A., Silva, G.M., Bradford, D.E., Tennen,
-H.A., Kashdan, T.B. (in press). Motivational underpinnings of alcohol
-use in people with social anxiety disorder: A daily diary study.
-<em>Behavior Therapy</em>.</p>
-<p>Morriss, J., Bradford, D.E., Wake, S., Biagi, N.,Tanovic, E., Kaye,
-J.T., Joormann, D. (2022). Intolerance of uncertainty and physiological
-responses during instructed threat of shock: multi-lab investigation.
-<em>Biological Psychology</em>, 167. <a
-href="doi:10.1016/j.biopsycho.2021.108223"
-class="uri">doi:10.1016/j.biopsycho.2021.108223</a></p>
+<p>Bradford, D.E., DeFalco, A., Perkins, E.R., Carvajal, I., Kwasa, J., Goodman, F.R., Jackson, F., Richardson, L.N.S., Woodley, N., Neuberger, L., Sandoval, J.A., Huang, H.J., Joyner, K.J. (2022). Whose signals are being amplified? Towards a more equitable clinical psychophysiology. <em>Clinical Psychological Science</em>. <a href="files/Publications/BradfordD2022/BradfordD2022.pdf"><strong>PDF</strong></a> <a href="https://osf.io/hj3mq/#!"><strong>OSF</strong></a></p>
+<p>Victor, S., Schleider, J., Ammerman, B., Bradford, D.E., Devendorf, A., Gruber, J., Gunaydin, L., Hallion, L., Kaufman, E., Lewis, S., Stage, D L. (in press). Leveraging the Strengths of Psychologists with Lived Experience of Mental Illness. <em>Perspectives on Psychological Science</em>. <a href="https://psyarxiv.com/ksnfd/"><strong>PDF</strong></a></p>
+<p>Bradford, D.E., Shireman, J.M., Sant’Ana, S.J., Fronk, G.E., Curtin, J.J. (in press). Alcohol’s effects during uncertain and uncontrollable stressors in the laboratory. <em>Clinical Psychological Science</em>. <a href="files/Publications/BradfordD2021a.pdf"><strong>PDF</strong></a> <a href="https://osf.io/2zmxe/"><strong>OSF</strong></a></p>
+<p>Goodman, F.R., Brown, B.A., Silva, G.M., Bradford, D.E., Tennen, H.A., Kashdan, T.B. (in press). Motivational underpinnings of alcohol use in people with social anxiety disorder: A daily diary study. <em>Behavior Therapy</em>.</p>
+<p>Morriss, J., Bradford, D.E., Wake, S., Biagi, N.,Tanovic, E., Kaye, J.T., Joormann, D. (2022). Intolerance of uncertainty and physiological responses during instructed threat of shock: multi-lab investigation. <em>Biological Psychology</em>, 167. <a href="doi:10.1016/j.biopsycho.2021.108223" class="uri">doi:10.1016/j.biopsycho.2021.108223</a></p>
 <h2 id="section-1">-2021-</h2>
-<p>Pavlov, Y. G., Adamian, N., Appelhoff, S … Bradford, D.E. … Mushtaq,
-F. (2021). #EEGManyLabs: Investigating the Replicability of Influential
-EEG Experiments. <em>Cortex</em>, 144, 213-229. <a
-href="https://doi.org/10.31234/osf.io/528nr"
-class="uri">https://doi.org/10.31234/osf.io/528nr</a> <a
-href="files/Publications/PavlovY2021.pdf"><strong>PDF</strong></a> <a
-href="https://osf.io/yb3pq/"><strong>OSF</strong></a></p>
+<p>Pavlov, Y. G., Adamian, N., Appelhoff, S … Bradford, D.E. … Mushtaq, F. (2021). #EEGManyLabs: Investigating the Replicability of Influential EEG Experiments. <em>Cortex</em>, 144, 213-229. <a href="https://doi.org/10.31234/osf.io/528nr" class="uri">https://doi.org/10.31234/osf.io/528nr</a> <a href="files/Publications/PavlovY2021.pdf"><strong>PDF</strong></a> <a href="https://osf.io/yb3pq/"><strong>OSF</strong></a></p>
 <h2 id="section-2">-2020-</h2>
-<p>Rutherford, A.V., Tanovic, E., Bradford, D.E., &amp; Joormann, J.
-(2020). Psychophysiological correlates of anxious apprehension: Trait
-worry is associated with startle response to threat. <em>International
-Journal of Psychophysiology</em>, 158, 136-142.
-doi.org/10.1016/j.ijpsycho.2020.09.020 <a
-href="files/Publications/Rutherford2020a/RutherfordA_2020a.pdf"><strong>PDF</strong></a></p>
+<p>Rutherford, A.V., Tanovic, E., Bradford, D.E., &amp; Joormann, J. (2020). Psychophysiological correlates of anxious apprehension: Trait worry is associated with startle response to threat. <em>International Journal of Psychophysiology</em>, 158, 136-142. doi.org/10.1016/j.ijpsycho.2020.09.020 <a href="files/Publications/Rutherford2020a/RutherfordA_2020a.pdf"><strong>PDF</strong></a></p>
 <h2 id="section-3">-2018-</h2>
-<p>Bradford, D.E., Fronk, G.E., Sant’Ana, S.J., Magruder, K.P., Kaye,
-J.T., Curtin, J.J. (2018). The need for precise answers for the goals of
-precision medicine in alcohol dependence to succeed.
-<em>Neuropsychopharmacology</em>, 43, 1799–1800.
-doi.org/10.1038/s41386-018-0112-y <a
-href="files/Publications/BradfordD2018/BradfordD2018a.pdf"><strong>PDF</strong></a></p>
-<p>Lakens D., Adolfi F.G., Albers C.J. … Bradford D.E. …Zwaan
-R.A.(2018). Justify your alpha. <em>Nature Human Behavior</em>(2),
-168-171. <a href="doi:10.1038/s41562-018-0311-x"
-class="uri">doi:10.1038/s41562-018-0311-x</a>. <a
-href="files\Publications/LakensD2018a\LakensD2018a.pdf"><strong>PDF</strong></a>
-<a href="https://osf.io/by2kc/"><strong>OSF</strong></a></p>
-<p>Hur, J., Kaplan, C.M., Smith, J.S., Bradford, D.E., Fox, A.S.,
-Curtin, J.J., Shackman, A.J. (2018). Acute alcohol administration
-dampens threat-related activation in the central extended amygdala.
-<em>Scientific Reports</em>, 8,<a href="doi:10.1038/s41598-018-34987-3"
-class="uri">doi:10.1038/s41598-018-34987-3</a>. <a
-href="files/Publications/HurJ2018a/HurJ2018a.pdf"><strong>PDF</strong></a></p>
+<p>Bradford, D.E., Fronk, G.E., Sant’Ana, S.J., Magruder, K.P., Kaye, J.T., Curtin, J.J. (2018). The need for precise answers for the goals of precision medicine in alcohol dependence to succeed. <em>Neuropsychopharmacology</em>, 43, 1799–1800. doi.org/10.1038/s41386-018-0112-y <a href="files/Publications/BradfordD2018/BradfordD2018a.pdf"><strong>PDF</strong></a></p>
+<p>Lakens D., Adolfi F.G., Albers C.J. … Bradford D.E. …Zwaan R.A.(2018). Justify your alpha. <em>Nature Human Behavior</em>(2), 168-171. <a href="doi:10.1038/s41562-018-0311-x" class="uri">doi:10.1038/s41562-018-0311-x</a>. <a href="files\Publications/LakensD2018a\LakensD2018a.pdf"><strong>PDF</strong></a> <a href="https://osf.io/by2kc/"><strong>OSF</strong></a></p>
+<p>Hur, J., Kaplan, C.M., Smith, J.S., Bradford, D.E., Fox, A.S., Curtin, J.J., Shackman, A.J. (2018). Acute alcohol administration dampens threat-related activation in the central extended amygdala. <em>Scientific Reports</em>, 8,<a href="doi:10.1038/s41598-018-34987-3" class="uri">doi:10.1038/s41598-018-34987-3</a>. <a href="files/Publications/HurJ2018a/HurJ2018a.pdf"><strong>PDF</strong></a></p>
 <h2 id="section-4">-2017-</h2>
-<p>Bradford, D.E., Motschman, C.A., Starr, M.J., Curtin, J.J. (2017).
-Alcohol’s effects on emotionally motivated attention, defensive
-reactivity, and subjective anxiety during uncertain threat. <em>Social
-Cognitive and Affective Neuroscience</em>, 12(11), 1823–1832. <a
-href="doi:10.1093/scan/nsx095" class="uri">doi:10.1093/scan/nsx095</a>.
-<a
-href="files/Publications/BradfordD2017a/BradfordD2017a.pdf"><strong>PDF</strong></a>
-<a href="https://osf.io/5n7hm/"><strong>OSF</strong></a></p>
-<p>Moberg, C.A., Bradford, D.E., Kaye, J.T., Curtin, J.J. (2017).
-Increased startle potentiation to unpredictable stressors in alcohol
-dependence: Possible stress neuroadaptation in humans. <em>Journal of
-Abnormal Psychology</em>, 126(4), 441-453.doi: 10.1037/abn0000265. <a
-href="files/Publications/MobergC2017a/MobergC2017a.pdf"><strong>PDF</strong></a>
-<a href="https://osf.io/ykmuh/"><strong>OSF</strong></a></p>
-<p>Kaye J.T., Bradford D.E., Magruder K.P., Curtin J.J. (2017). Probing
-for neuroadaptations to unpredictable stressors in addiction:
-translational methods and emerging evidence. <em>Journal of Studies on
-Alcohol and Drugs</em>, 78(3).353-371. doi: 10.15288/jsad.2017.78.353.
-<a
-href="files/Publications/KayeJ2017a/KayeJ2017a.pdf"><strong>PDF</strong></a>
-<a href="https://osf.io/stxgc/"><strong>OSF</strong></a></p>
+<p>Bradford, D.E., Motschman, C.A., Starr, M.J., Curtin, J.J. (2017). Alcohol’s effects on emotionally motivated attention, defensive reactivity, and subjective anxiety during uncertain threat. <em>Social Cognitive and Affective Neuroscience</em>, 12(11), 1823–1832. <a href="doi:10.1093/scan/nsx095" class="uri">doi:10.1093/scan/nsx095</a>. <a href="files/Publications/BradfordD2017a/BradfordD2017a.pdf"><strong>PDF</strong></a> <a href="https://osf.io/5n7hm/"><strong>OSF</strong></a></p>
+<p>Moberg, C.A., Bradford, D.E., Kaye, J.T., Curtin, J.J. (2017). Increased startle potentiation to unpredictable stressors in alcohol dependence: Possible stress neuroadaptation in humans. <em>Journal of Abnormal Psychology</em>, 126(4), 441-453.doi: 10.1037/abn0000265. <a href="files/Publications/MobergC2017a/MobergC2017a.pdf"><strong>PDF</strong></a> <a href="https://osf.io/ykmuh/"><strong>OSF</strong></a></p>
+<p>Kaye J.T., Bradford D.E., Magruder K.P., Curtin J.J. (2017). Probing for neuroadaptations to unpredictable stressors in addiction: translational methods and emerging evidence. <em>Journal of Studies on Alcohol and Drugs</em>, 78(3).353-371. doi: 10.15288/jsad.2017.78.353. <a href="files/Publications/KayeJ2017a/KayeJ2017a.pdf"><strong>PDF</strong></a> <a href="https://osf.io/stxgc/"><strong>OSF</strong></a></p>
 <h2 id="section-5">-2016-</h2>
-<p>Kaye J.T., Bradford D.E., Curtin J.J.(2016). Psychometric properties
-of startle and corrugator response in NPU, Affective Picture Viewing,
-and Resting State Tasks. <em>Psychophysiology</em>,
-53(8).1241-1255.doi.org/10.1111/psyp.12794. <a
-href="files/Publications/KayeJ2016a/KayeJ2016a.pdf"><strong>PDF</strong></a>
-<a href="https://osf.io/fdjg9/"><strong>OSF</strong></a></p>
+<p>Kaye J.T., Bradford D.E., Curtin J.J.(2016). Psychometric properties of startle and corrugator response in NPU, Affective Picture Viewing, and Resting State Tasks. <em>Psychophysiology</em>, 53(8).1241-1255.doi.org/10.1111/psyp.12794. <a href="files/Publications/KayeJ2016a/KayeJ2016a.pdf"><strong>PDF</strong></a> <a href="https://osf.io/fdjg9/"><strong>OSF</strong></a></p>
 <h2 id="section-6">-2015-</h2>
-<p>Bradford, D.E., Curtin, J.J., Piper, M.E. (2015). Anticipation of
-smoking sufficiently lowers stress reactivity for nicotine deprived
-smokers. <em>Journal of Abnormal Psychology</em>, 124(1), 128-136. <a
-href="doi:10.1037/abn0000007" class="uri">doi:10.1037/abn0000007</a>. <a
-href="files/Publications/BradfordD2015a/BradfordD2015a.pdf"><strong>PDF</strong></a></p>
-<p>Bradford, D.E., Starr, M.J., Shackman, A.J., Curtin, J. J. (2015).
-Empirically-based comparisons of the reliability and validity of common
-quantification approaches for eyeblink startle potentiation in humans.
-<em>Psychophysiology</em>,52(12), 1669-1681. doi: 10.1111/psyp.12545 <a
-href="files/Publications/BradfordD2015b/BradfordD2015b.pdf"><strong>PDF</strong></a>
-<a href="https://osf.io/5nfvu/"><strong>OSF</strong></a></p>
-<p>Green, C.S., Eichenbaum, A., Kattner, F., Bradford, D.E.,Gentile,
-D.A., Choo, H., Hsueh, V., Chen, H., Khoo, A. (2015). The role of game
-genres and the development of internet gaming disorder in school-aged
-children. <em>Journal of Addictive Behaviors, Therapy &amp;
-Rehabilitation</em> 4(3),<a href="doi:10.4172/2324-9005.1000141"
-class="uri">doi:10.4172/2324-9005.1000141</a></p>
-<p>Eichenbaum, A., Kattner, F.,Bradford, D.E., Gentile, D.A., Green,
-C.S. (2015). Role-playing and real-time strategy games associated with
-greater probability of internet gaming disorder. <em>Cyberpsychology,
-Behavior, and Social Networking</em> 18(8), 480-485. <a
-href="doi:10.1089/cyber.2015.0092"
-class="uri">doi:10.1089/cyber.2015.0092</a></p>
+<p>Bradford, D.E., Curtin, J.J., Piper, M.E. (2015). Anticipation of smoking sufficiently lowers stress reactivity for nicotine deprived smokers. <em>Journal of Abnormal Psychology</em>, 124(1), 128-136. <a href="doi:10.1037/abn0000007" class="uri">doi:10.1037/abn0000007</a>. <a href="files/Publications/BradfordD2015a/BradfordD2015a.pdf"><strong>PDF</strong></a></p>
+<p>Bradford, D.E., Starr, M.J., Shackman, A.J., Curtin, J. J. (2015). Empirically-based comparisons of the reliability and validity of common quantification approaches for eyeblink startle potentiation in humans. <em>Psychophysiology</em>,52(12), 1669-1681. doi: 10.1111/psyp.12545 <a href="files/Publications/BradfordD2015b/BradfordD2015b.pdf"><strong>PDF</strong></a> <a href="https://osf.io/5nfvu/"><strong>OSF</strong></a></p>
+<p>Green, C.S., Eichenbaum, A., Kattner, F., Bradford, D.E.,Gentile, D.A., Choo, H., Hsueh, V., Chen, H., Khoo, A. (2015). The role of game genres and the development of internet gaming disorder in school-aged children. <em>Journal of Addictive Behaviors, Therapy &amp; Rehabilitation</em> 4(3),<a href="doi:10.4172/2324-9005.1000141" class="uri">doi:10.4172/2324-9005.1000141</a></p>
+<p>Eichenbaum, A., Kattner, F.,Bradford, D.E., Gentile, D.A., Green, C.S. (2015). Role-playing and real-time strategy games associated with greater probability of internet gaming disorder. <em>Cyberpsychology, Behavior, and Social Networking</em> 18(8), 480-485. <a href="doi:10.1089/cyber.2015.0092" class="uri">doi:10.1089/cyber.2015.0092</a></p>
 <h2 id="section-7">-2014-</h2>
-<p>Bradford, D.E., Kaye, J.T., Curtin, J.J. (2014). Not just noise:
-Individual differences in general startle reactivity predict startle
-reactivity to uncertain and certain threat.
-<em>Psychophysiology</em>,51(5), 707-411. <a
-href="doi:10.1111/psyp.12193" class="uri">doi:10.1111/psyp.12193</a>. <a
-href="files/Publications/BradfordD2014a/BradfordD2014a.pdf"><strong>PDF</strong></a></p>
-<p>Bradford, D.E., Magruder, K.P., Korhumel, R.A., Curtin, J.J. (2014).
-Using the threat probability task to assess anxiety and fear to
-uncertain and certain threat. <em>Journal of Visualized
-Experiments</em>(91). <a href="doi:10.3791/51905"
-class="uri">doi:10.3791/51905</a>. <a
-href="files/Publications/BradfordD2014b/BradfordD2014b.pdf"><strong>PDF</strong></a>
-<a
-href="https://www.jove.com/embed/player?id=51905&amp;access=vqy3aggu&amp;t=1&amp;s=1"><strong>Video</strong></a></p>
-<p>Lissek, S., Bradford, D.E., Alvarez, R.P., Burton, P.,
-Espensen-Sturges, T., Reynolds,R.C., and Grillon, C. (2014). Neural
-substrates of classically conditioned fear-generalization in humans: A
-parametric fMRI study. <em>Social Cognitive and Affective
-Neuroscience</em>, 9(8), 1134-1142. <a href="doi:10.1093/scan/nst096"
-class="uri">doi:10.1093/scan/nst096</a>.</p>
+<p>Bradford, D.E., Kaye, J.T., Curtin, J.J. (2014). Not just noise: Individual differences in general startle reactivity predict startle reactivity to uncertain and certain threat. <em>Psychophysiology</em>,51(5), 707-411. <a href="doi:10.1111/psyp.12193" class="uri">doi:10.1111/psyp.12193</a>. <a href="files/Publications/BradfordD2014a/BradfordD2014a.pdf"><strong>PDF</strong></a></p>
+<p>Bradford, D.E., Magruder, K.P., Korhumel, R.A., Curtin, J.J. (2014). Using the threat probability task to assess anxiety and fear to uncertain and certain threat. <em>Journal of Visualized Experiments</em>(91). <a href="doi:10.3791/51905" class="uri">doi:10.3791/51905</a>. <a href="files/Publications/BradfordD2014b/BradfordD2014b.pdf"><strong>PDF</strong></a> <a href="https://www.jove.com/embed/player?id=51905&amp;access=vqy3aggu&amp;t=1&amp;s=1"><strong>Video</strong></a></p>
+<p>Lissek, S., Bradford, D.E., Alvarez, R.P., Burton, P., Espensen-Sturges, T., Reynolds,R.C., and Grillon, C. (2014). Neural substrates of classically conditioned fear-generalization in humans: A parametric fMRI study. <em>Social Cognitive and Affective Neuroscience</em>, 9(8), 1134-1142. <a href="doi:10.1093/scan/nst096" class="uri">doi:10.1093/scan/nst096</a>.</p>
 <h2 id="section-8">-2013-</h2>
-<p>Bradford, D.E., Shapiro, B.L., Curtin, J.J. (2013). How bad could it
-be? Alcohol dampens stress responses to threat of uncertain intensity.
-<em>Psychological Science</em>, 24(12), 2541-2549. <a
-href="doi:10.1177/0956797613499923"
-class="uri">doi:10.1177/0956797613499923</a>. <a
-href="files/Publications/BradfordD2013a/BradfordD2013a.pdf"><strong>PDF</strong></a></p>
+<p>Bradford, D.E., Shapiro, B.L., Curtin, J.J. (2013). How bad could it be? Alcohol dampens stress responses to threat of uncertain intensity. <em>Psychological Science</em>, 24(12), 2541-2549. <a href="doi:10.1177/0956797613499923" class="uri">doi:10.1177/0956797613499923</a>. <a href="files/Publications/BradfordD2013a/BradfordD2013a.pdf"><strong>PDF</strong></a></p>
 <h2 id="section-9">-2009-</h2>
-<p>Lissek, S., Rabin S., McDowell D., Dvir S., Bradford, D.E., Geraci,
-M., Pine, S., Grillon, C., (2009). Impaired discriminative
-fear-conditioning resulting from elevated fear-responding to learned
-safety cues among individuals with panic disorder. <em>Behaviour
-Research and Therapy</em>, 47(2), 111–118. <a
-href="doi:10.1016/j.brat.2008.10.017"
-class="uri">doi:10.1016/j.brat.2008.10.017</a></p>
-<div class="sourceCode" id="cb1"><pre
-class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<p>Lissek, S., Rabin S., McDowell D., Dvir S., Bradford, D.E., Geraci, M., Pine, S., Grillon, C., (2009). Impaired discriminative fear-conditioning resulting from elevated fear-responding to learned safety cues among individuals with panic disorder. <em>Behaviour Research and Therapy</em>, 47(2), 111–118. <a href="doi:10.1016/j.brat.2008.10.017" class="uri">doi:10.1016/j.brat.2008.10.017</a></p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
