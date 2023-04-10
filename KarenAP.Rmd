@@ -1,0 +1,23 @@
+---
+title: "Karen Agustin-Paz *(she/her/hers)*"
+image: "images/KarenAP.png"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Hello! I’m karen and I am a first year BioHealth Science Major with a pre-med option. I am heavily interested in the psychology field as well as studying neuroscience. I love to see how we are affected by different types of drugs, and what they do to us.  I also enjoy reading and spending time with my friends. 
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+BioHealth Science | Expected June 2025
+
+## Interests
+
+* Addiction research
+* Neuroscience
+* Reading
+* Spending time with family and friends

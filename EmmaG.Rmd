@@ -1,5 +1,5 @@
 ---
-title: "Emma Gilmore"
+title: "Emma Gilmore *(she/her/hers)*"
 image: "images/EmmaG.png"
 output:
   postcards::solana

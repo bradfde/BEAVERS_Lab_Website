@@ -1,5 +1,5 @@
 ---
-title: "Daniel Bradford PhD"
+title: "Daniel Bradford PhD *(he/him/his)*"
 image: "images/Daniel.jpg"
 links:
   - label: CV

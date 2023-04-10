@@ -1,6 +1,6 @@
 ---
-title: "Catalina Slangan"
-image: "images/CatalinaS.jpg"
+title: "Catalina Slangan *(she/her/hers)*"
+image: "images/CatalinaS.png"
 
 output:
   postcards::solana
