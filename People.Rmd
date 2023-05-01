@@ -53,7 +53,7 @@ knitr::include_graphics("images/FreyaW2.png")
 <br/>
 **Graduate Student, Health Psychology**
 <br/>
-[CV](files/CVs/Whittaker_CV.pdf) [Twitter](https://twitter.com/fmwhittaker)
+[CV](files/CVs/Whittaker_CV.pdf) [Google Scholar](https://scholar.google.com/citations?hl=en&user=6EXE-RUAAAAJ) [Twitter](https://twitter.com/fmwhittaker)
 :::
 <br/>
 
