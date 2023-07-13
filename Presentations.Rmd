@@ -11,6 +11,12 @@ description:
   OSF =  link to Open Science Foundation project repository for shared data and materials.
 
 ---
+## -2023- ##
+
+Whittaker, F., DeFalco, A., Tognoli, M.I., Gilmore, E., & Bradford, D.E. (2023, September). A refined dark enhanced startle task. Poster to be presented at the 63rd annual Society for Psychophysiological Research, New Orleans, LA.
+
+DeFalco, A., Whittaker, F., Dooley, C., Curtin, J.J., Bradford, D.E. (2023, September). Spirited away: alcohol may dull error monitoring and encourage risky choices. Poster to be presented at the 63rd annual Society for Psychophysiological Research, New Orleans, LA.
+
 ## -2022- ##
 
 Bradford, D.E., Willwerth, S.B., DeFalco, A., Mannix, R.M., Meehan III, W.P., Oldham, J.R. (2022, September). Attenuated general startle reactivity in adolescent athletes with a concussion history. Poster presented at the 62nd annual meeting of the Society for Psychophysiological Research. Vancouver, BC, Canada.[PDF](files/Presentations/BradfordD2022/Concussion_Poster_2022_FINAL.pdf)

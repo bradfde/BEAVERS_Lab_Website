@@ -6,19 +6,29 @@ description:
   OSF =  link to Open Science Foundation project repository for shared data and materials.
 
 ---
+## -2023- ##
+
+Bradford, D. E., Dev, A. S., DeFalco, A., Whittaker, F., Timpano, K. A. (in press). Increasing ecological validity in neuropsychopharmacology research on the relationship between alcohol use and uncertain stressors. *Neuropsychopharmacology*. 
+
+Kim, H.C., Kaplan, C.M., Islam, S., Anderson, A.S., Piper, M.E., Bradford, D.E., Curtin, J.J., DeYoung, K.A., Smith, J.F., Fox, A.S., Shackman, A.J. (in press) Acute nicotine abstinence amplifies subjective withdrawal symptoms and threat-evoked fear and anxiety, but not extended amygdala reactivity. *Plos One*.
+
+Lewis, M.W., Bradford, D.E., Pace-Schott, E.F., Rauch, S.L., Rosso, I.M. (2023) Multiverse Analysis Demonstrates an Impact of Methodology on Results in a Study of Extinction Retention and PTSD. *Psychophysiology*, 00, e14263. 
+
+Morrris J., Abend, R., Zika, O., Bradford, D.E., Mertens, G. (2023) Neural and psychophysiological markers of intolerance of uncertainty. *International Journal of Psychophysiology*, 184, 94-99.
+
 ## -2022- ##
 
 Bradford, D.E., DeFalco, A., Perkins, E.R., Carvajal, I., Kwasa, J., Goodman, F.R., Jackson, F., Richardson, L.N.S., Woodley, N., Neuberger, L., Sandoval, J.A., Huang, H.J., Joyner, K.J. (2022). Whose signals are being amplified? Towards a more equitable clinical psychophysiology. *Clinical Psychological Science*. [**PDF**](files/Publications/BradfordD2022/BradfordD2022.pdf)
 [**OSF**](https://osf.io/hj3mq/#!)
 
 
-Victor, S., Schleider, J., Ammerman, B., Bradford, D.E., Devendorf, A., Gruber, J., Gunaydin, L., Hallion, L., Kaufman, E., Lewis, S., Stage, D L. (in press). Leveraging the Strengths of Psychologists with Lived Experience of Mental Illness. *Perspectives on Psychological Science*. [**PDF**](https://psyarxiv.com/ksnfd/) 
+Victor, S., Schleider, J., Ammerman, B., Bradford, D.E., Devendorf, A., Gruber, J., Gunaydin, L., Hallion, L., Kaufman, E., Lewis, S., Stage, D L. (2022). Leveraging the Strengths of Psychologists with Lived Experience of Mental Illness. *Perspectives on Psychological Science*. [**PDF**](https://psyarxiv.com/ksnfd/) 
 
-Bradford, D.E., Shireman, J.M., Sant'Ana, S.J., Fronk, G.E., Curtin, J.J. (in press). Alcohol's effects during uncertain and uncontrollable stressors in the laboratory. *Clinical Psychological Science*. [**PDF**](files/Publications/BradfordD2021a.pdf) [**OSF**](https://osf.io/2zmxe/)
+Bradford, D.E., Shireman, J.M., Sant'Ana, S.J., Fronk, G.E., Curtin, J.J. (2022). Alcohol's effects during uncertain and uncontrollable stressors in the laboratory. *Clinical Psychological Science*. [**PDF**](files/Publications/BradfordD2021a.pdf) [**OSF**](https://osf.io/2zmxe/)
 
-Goodman, F.R., Brown, B.A., Silva, G.M., Bradford, D.E., Tennen, H.A., Kashdan, T.B. (in press). Motivational underpinnings of alcohol use in people with social anxiety disorder: A daily diary study. *Behavior Therapy*.
+Goodman, F.R., Brown, B.A., Silva, G.M., Bradford, D.E., Tennen, H.A., Kashdan, T.B. (2022). Motivational underpinnings of alcohol use in people with social anxiety disorder: A daily diary study. *Behavior Therapy*.
 
-Morriss, J., Bradford, D.E., Wake, S., Biagi, N.,Tanovic, E., Kaye, J.T., Joormann, D. (2022). Intolerance of uncertainty and physiological responses during instructed threat of shock: multi-lab investigation. *Biological Psychology*, 167. doi:10.1016/j.biopsycho.2021.108223
+Morriss, J., Bradford, D.E., Wake, S., Biagi, N.,Tanovic, E., Kaye, J.T., Joormann, D. (2022). Intolerance of uncertainty and physiological responses during instructed threat of shock: multi-lab investigation. *Biological Psychology*, 167.
 
 
 ## -2021- ##

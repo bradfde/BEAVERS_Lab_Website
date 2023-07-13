@@ -1,0 +1,32 @@
+---
+title: "Nick Peavey *(he/him/his)*"
+image: "images/NickP.png"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am originally from Mississippi and am currently a senior at Oregon State University. I moved to Portland in 2019 and began working for an inpatient rehabilitation facility that housed over 40 adults struggling with substance use disorders. This was a non-profit organization, so a large part of the job was getting connected to local agencies and outreach programs that facilitated care for those without homes, or those with a dual diagnosis. PDX Saints, Portland Rescue Mission, Nightstrike, and Central City Concern are a few of the organizations we worked in tandem with to provide services to people in and around Portland. My time there will always be the foundation for my understanding of how important the research we conduct in this lab is to issues related to addiction. I decided to enroll in 2022 at Oregon State University to finish my degree. Moving through the remainder of my courses, I found myself becoming increasingly interested in inferential statistics and data analysis related specifically to the field of Psychology. I started looking into possible hands-on training using software such as RStudio, JASP, and SQL, and I landed here at the B.E.A.V.E.R.S. Lab. This lab allows me to essentially mesh two things I’m passionate about together, and it has been a very rewarding experience thus far. I will graduate in December ’23 and plan on pursuing a Masters in Data Science shortly thereafter.
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+Psychology | Expected December 2023
+
+
+## Interests
+
+* Data Science
+* Research Methodology
+* Psychology of Addiction
+* Inferential Statistics 
+* Psychotherapeutic Methods
+* Addiction Recovery Concepts
+* Fishing
+* Hiking
+* Disc Golf
+* Writing
+
