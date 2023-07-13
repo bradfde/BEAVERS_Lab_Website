@@ -1,5 +1,5 @@
 ---
-title: "Freya Whittaker"
+title: "Freya Whittaker *(she/her/hers)*"
 image: "images/FreyaW2.png"
 links:
   - label: CV

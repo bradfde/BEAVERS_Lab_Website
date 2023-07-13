@@ -1,5 +1,5 @@
 ---
-title: "Dakota Smith"
+title: "Dakota Smith *(she/her/hers)*"
 image: "images/DakotaS.jpg"
 
 output:

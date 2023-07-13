@@ -8,7 +8,8 @@ description:
 ---
 ## -2022- ##
 
-Bradford, D.E., DeFalco, A., Perkins, E.R., Carvajal, I., Kwasa, J., Goodman, F.R., Jackson, F., Richardson, L.N.S., Woodley, N., Neuberger, L., Sandoval, J.A., Huang, H.J., Joyner, K.J. (in press). Whose signals are we amplifying? Towards a more equitable clinical psychophysiology. *Clinical Psychological Science*. [**PDF**](https://psyarxiv.com/c2naf)
+Bradford, D.E., DeFalco, A., Perkins, E.R., Carvajal, I., Kwasa, J., Goodman, F.R., Jackson, F., Richardson, L.N.S., Woodley, N., Neuberger, L., Sandoval, J.A., Huang, H.J., Joyner, K.J. (2022). Whose signals are being amplified? Towards a more equitable clinical psychophysiology. *Clinical Psychological Science*. [**PDF**](files/Publications/BradfordD2022/BradfordD2022.pdf)
+[**OSF**](https://osf.io/hj3mq/#!)
 
 
 Victor, S., Schleider, J., Ammerman, B., Bradford, D.E., Devendorf, A., Gruber, J., Gunaydin, L., Hallion, L., Kaufman, E., Lewis, S., Stage, D L. (in press). Leveraging the Strengths of Psychologists with Lived Experience of Mental Illness. *Perspectives on Psychological Science*. [**PDF**](https://psyarxiv.com/ksnfd/) 

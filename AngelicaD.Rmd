@@ -1,11 +1,13 @@
 ---
-title: "Angelica DeFalco, B.S."
+title: "Angelica DeFalco, B.S. *(she/her/hers)*"
 image: "images/AngelicaD.jpg"
 links:
   - label: CV
     url: "files/CVs/DeFalco_CV.pdf"
   - label: Portfolio
     url: "Portfolio.html"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=lXu-bq4AAAAJ&hl=en&oi=ao"
   - label: Twitter
     url: "https://twitter.com/A_DeFalco11"
 output:

@@ -1,5 +1,5 @@
 ---
-title: "Mia Tognoli"
+title: "Mia Tognoli *(she/her/hers)*"
 image: "images/MiaT.png"
 output:
   postcards::solana
@@ -7,7 +7,7 @@ output:
  
 ## Bio
 
-I am a second year Honors student double majoring in psychology and music performance. I am passionate about reframing the ways in which we view mental illness and addiction, and am interested in the psychophysiology approach that is used in the BEAVERS lab. This year will be my first year doing undergraduate research, and I am excited to be a part of research that I care deeply about, as well as the URSA program. The URSA program supports undergraduate research projects and aims to involve first and second year students within research at Oregon State via a selective application process. I am looking forward to conducting research that will be used to aid in the construction and completion of my URSA project, as well as my undergraduate thesis. I aim to earn my Ph.D in clinical psychology while pursuing research at the graduate level upon the completion of my undergraduate degree.
+I am a third year Honors student double majoring in psychology and music performance. I am passionate about reframing the ways in which we view mental illness and addiction, and am interested in the psychophysiology approach that is used in the BEAVERS lab. I am excited to be a part of research that I care deeply about, and grateful for the opportunity to have joined through the URSA program. The URSA program supports undergraduate research projects and aims to involve first and second year students within research at Oregon State via a selective application process. I am looking forward to conducting research that will be used to aid in the construction and completion of my undergraduate Honors thesis. I aim to earn my Ph.D in clinical psychology while pursuing research at the graduate level upon the completion of my undergraduate degree.
 
 ## Education
 

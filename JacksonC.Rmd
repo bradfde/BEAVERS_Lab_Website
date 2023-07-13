@@ -1,5 +1,5 @@
 ---
-title: "Jackson Cutler"
+title: "Jackson Cutler *(he/him/his)*"
 image: "images/JacksonC.png"
 output:
   postcards::solana
@@ -21,7 +21,7 @@ implications for public health and public perception of addiction.
 
 **Oregon State University** | Corvallis, Oregon
 
-Psychology | Expected June 2022
+Psychology | June 2022
 
 ## Interests
 

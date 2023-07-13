@@ -1,5 +1,5 @@
 ---
-title: "Corryn Dooley"
+title: "Corryn Dooley *(she/her/hers)*"
 image: "images/CorrynD.png"
 output:
   postcards::solana

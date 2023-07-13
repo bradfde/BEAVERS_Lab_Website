@@ -75,17 +75,6 @@ knitr::include_graphics("images/OliverT.png")
 
 :::float-image
 
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a brown dog looking down with its tongue out against a grassy background.", echo=FALSE}
-knitr::include_graphics("images/MobiusT.png")
-```
-
-[Mobius (Mo) Tognoli](MobiusT.html) 
-<br/>
-**Chesapeake Bay Retriever**
-:::
-
-:::float-image
-
 ```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a Betta fish with pinkish red fins in a tank against a leafy background.", echo=FALSE}
 knitr::include_graphics("images/BuddyT.png")
 ```

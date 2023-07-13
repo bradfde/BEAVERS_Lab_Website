@@ -9,17 +9,21 @@ links:
 output:
   postcards::solana
 ---
-<center> *Assistant Professor and Director of Goodman Emotion and Resilience Laboratory at the University of South Florida (USF)* </center>
+<center> *Assistant Professor and Director of Emotion and Resilience Laboratory at George Washington University* </center>
 
 ## Bio
 
-Dr. Fallon Goodman is an Assistant Professor at the University of South Florida (USF). Her research examines how people manage their emotions and build resilience. By using smartphone monitoring technologies, Dr. Goodman can examine participants' daily patterns of emotions and coping, particularly those that underelie social anxiety. She is passionate about spreading knowledge about psychological science and increasing accessibility to research.
+Dr. Fallon Goodman is an Assistant Professor at George Washington University. Her research examines how people manage their emotions and build resilience. By using smartphone monitoring technologies, Dr. Goodman can examine participants' daily patterns of emotions and coping, particularly those that underelie social anxiety. She is passionate about spreading knowledge about psychological science and increasing accessibility to research.
 
 ## Education and Experience
 
-**Director** | Goodman Emotion and Resilience Laboratory, USF | Current
+**Director** | Emotion and Resilience Laboratory, George Washington University | Current
 
-**Assistant Professor** | USF | Current
+**Assistant Professor** | George Washington University | Current
+
+**Director** | Goodman Emotion and Resilience Laboratory, USF | 2022
+
+**Assistant Professor** | USF | 2022
 
 **Internship** | McLean Psychiatric Hospital, Harvard Medical School  | 2019
 

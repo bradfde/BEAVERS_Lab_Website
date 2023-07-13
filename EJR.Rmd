@@ -1,0 +1,29 @@
+---
+title: "EJ Rifkin *(she/her/hers)*"
+image: "images/EJR.png"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I graduated from Oregon State University summa cum laude with a Bachelor of Science in Psychology. Then, I began work with Columbia Care Services as a Qualified Mental Health Associate in residential treatment homes and facilities for adults with mental illness. I intend to pursue a master’s degree in social work while contributing to research in the field of psychedelic-assisted and integrative therapies. Education and advocacy can assist in overcoming issues of public misinformation, unjust laws, and safe access to efficacious treatment models. When responsibly delivered, entheogen-enabled therapies have been shown to improve behavioral health issues of anxiety, depression, substance use, and trauma. Furthermore, I am very curious to explore what role such therapies might play in the context of neurodegeneration. Through research and direct services, I hope to influence healthcare policy reform in a way that is integrative and well-informed, thus contributing to the wellness of society at large.
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. in Psychology | December 2022
+
+
+## Interests
+
+* Psychedelic-assisted and integrative therapies
+* Neuroscience & Biopsychology
+* Addiction treatment 
+* Positive & humanistic psychology
+* Trauma-informed person-centered care
+* Social Justice & Environmentalism
+* Hiking & camping
+* Cooking
+* Travel 
