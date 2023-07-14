@@ -100,6 +100,17 @@ knitr::include_graphics("images/EmmaG.png")
 
 <br/>
 
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long brown hair and a polo shirt on.",echo=FALSE}
+knitr::include_graphics("images/NickP.png")
+```
+[Nick Peavey](NickP.html)
+<br/>
+**Undergraduate Assistant Researcher**
+:::
+
+<br/>
 
 :::float-image
 
@@ -233,9 +244,7 @@ knitr::include_graphics("images/AngelicaD.jpg")
 
 [Angelica DeFalco, B.S.](AngelicaD.html) 
 <br/>
-**2021-2023 Lab Manager**
-<br/>
-
+**2021-2023 Lab Manager** <br/>
 **Graduate Student in Counseling Psychology, Colorado State University**
 <br/>
 [CV](files/CVs/DeFalco_CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=lXu-bq4AAAAJ&hl=en&oi=ao) [Twitter](https://twitter.com/A_DeFalco11)
