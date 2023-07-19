@@ -6,8 +6,8 @@ links:
     url: "files/CVs/Bradford_CV.pdf"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=mFzYd1sAAAAJ&hl=en"
-  - label: Publons
-    url: "https://publons.com/researcher/1156678/daniel-e-bradford/"
+  - label: Publons/ Web of Science
+    url: "https://www.webofscience.com/wos/author/record/1373268"
   - label: Twitter
     url: "https://twitter.com/drdanbradford"
 output:
@@ -21,7 +21,7 @@ Sciences at Oregon State University as an assistant professor in the Health Psyc
 
 My program of research takes a multi-measure experimental psychopathology approach to better understand the role of stress reactivity in mental health. My research focuses on psychological processes at the interface of affect and addiction. My lab uses novel experimental tasks with precise manipulation of laboratory stressors, pharmacological challenges and psychophysiological measures that allow for tight translation between animal and human research. While our work is with people, our approach builds on preclinical findings in animals to identify specific stressor characteristics and neurobehavioral, cognitive, and affective mechanisms of reactivity to those stressors that are critical for understanding of stress reactivity in human psychopathology. This mechanistic understanding may provide novel targets for prevention and treatment of the adverse impacts of acute and chronic drug use as well as comorbid anxiety and depression.
 
-I am also passionate about the empirical refinement of psychophysiology methods and the improvement of clinical psychological science as a whole. As such, another branch of my research involves empirical studies designed to verify and increase the robustness and reliability of psychophysiological tasks and measures, so researchers can continue to refine them to maximize their utility in studying affect and psychopathology. We also pre-register our studies and share our data processing and analysis code openly.
+I am also passionate about the empirical based refinement of psychophysiology methods and the improvement of clinical psychological science as a whole. As such, another branch of my research involves empirical studies designed to verify and increase the robustness, reliability, equity, and generalizability of psychophysiological tasks and measures, so researchers can continue to refine them to maximize their utility in studying affect and psychopathology with eventual goal of helping the most people. We also pre-register our studies and share our data processing and analysis code openly.
 
 My personal interests include playing soccer and basketball as competitively as I can these days, and my dog [Lucy](LucyB.html).
 
