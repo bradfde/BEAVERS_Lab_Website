@@ -1,5 +1,9 @@
 ---
 title: "People"
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 5
 description: |
   Want to work with us? Please select from "Join the team" dropdown.
 ---
@@ -247,8 +251,8 @@ knitr::include_graphics("images/AngelicaD.jpg")
 **2021-2023 Lab Manager** <br/>
 **Graduate Student in Counseling Psychology, Colorado State University**
 <br/>
-[CV](files/CVs/DeFalco_CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=lXu-bq4AAAAJ&hl=en&oi=ao) [Twitter](https://twitter.com/A_DeFalco11)
-
+[Google Scholar](https://scholar.google.com/citations?user=lXu-bq4AAAAJ&hl=en&oi=ao) [Twitter](https://twitter.com/A_DeFalco11)
+:::
 
 <br/>
 
@@ -260,10 +264,6 @@ knitr::include_graphics("images/KarenAP.png")
 [Karen Agustin-Paz](KarenAP.html)
 <br/>
 **STEM Leaders Assistant Researcher, 2022-2023**
-:::
-
-<br/>
-
 :::
 
 <br/>
