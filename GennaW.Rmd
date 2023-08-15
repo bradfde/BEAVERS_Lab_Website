@@ -1,0 +1,32 @@
+---
+title: "Genna Watkins *(she/her/hers)*"
+image: "images/GennaW.png"
+output:
+  postcards::solana
+---
+ 
+ 
+## Bio
+
+I have lived on both the east and west coasts of the United States, but ultimately couldn’t stay away from the Pacific Northwest. I obtained my Associate of Science Degree with Psychology Emphasis in 2021 from Linn-Benton Community College and am currently a senior at Oregon State University completing my Bachelor of Science in Psychology. I started volunteering (and eventually working) with a non-profit in the mental health field at age 13 which helped foster my interest in psychology and helped fulfill my passion for helping others. While I have interests in a broad range of topics in the field, I am especially interested in addiction (especially food addiction), perception, motivation, and positive psychology as well as data analysis. I was accepted as a member of Psi Chi and joined the APA as a student member in 2022, and was awarded the Drucilla Shepard Smith Award in 2023. Upon completion of my Bachelor of Science in Psychology, my goal is to pursue a Ph.D. in Health Psychology, eventually focusing on research relating to food addiction and the impact of nutrition on mental health.
+
+## Education
+
+**Linn-Benton Community College** | Albany, OR
+
+A.S. Psychology Emphasis | December 2021
+
+**Oregon State University** | Corvallis, OR
+
+Psychology and Music Performance | Expected March 2024
+
+## Interests
+
+* Psychology of Addiction
+* Nutrition
+* Positive Psychology
+* Data Analysis
+* Artificial Intelligence and Machine Learning
+* Hiking/Nature walks
+* Cooking
+* Playing with my Border Collie Mix, Charlie
