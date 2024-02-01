@@ -7,7 +7,7 @@ output:
  
 ## Bio
 
-I am currently a junior at Oregon State University majoring in Psychology with minors in biochemistry and molecular biology. I am a Bay Area native, graduating from De La Salle high school (Concord, CA) in 2020. My main interest is Neuroscience, specifically how psychotropic substances affect connections within the brain. I have always been curious about how people interact on both conscious and unconscious levels.
+I am in the class of 2024 Oregon State University majoring in Psychology with minors in biochemistry and molecular biology. I am a Bay Area native, graduating from De La Salle high school (Concord, CA) in 2020. My main interest is Neuroscience, specifically how psychotropic substances affect connections within the brain. I have always been curious about how people interact on both conscious and unconscious levels.
 
 My main goal is to educate others on how they work(thoughts, emotions, behaviors), and how external stimuli affect our internal state on a chemical level. I plan on pursuing a Ph.D. in Neuroscience after gaining experience in the research field.
 
@@ -15,12 +15,12 @@ My main goal is to educate others on how they work(thoughts, emotions, behaviors
 
 **Oregon State University** | Corvallis, Oregon
 
-Psychology | Expected June 2024
+Behavioral Neuroscience | Expected June 2024
 
 ## Interests
 
-* Psychotherapy
+* Writing
 * Fly fishing
-* Automotive modifications/racing
-* Music creation
-* Clothing/fashion
+* Alternative Medicine
+* Nutrition
+* Philosophy
