@@ -111,7 +111,7 @@ knitr::include_graphics("images/NickP.png")
 ```
 [Nick Peavey](NickP.html)
 <br/>
-**Undergraduate Assistant Researcher**
+**Volunteer Assistant Researcher**
 :::
 
 <br/>
@@ -147,19 +147,6 @@ knitr::include_graphics("images/CatalinaS.png")
 ```
 
 [Catalina Slangan](CatalinaS.html)
-<br/>
-**Undergraduate Assistant Researcher**
-:::
-
-<br/>
-
-:::float-image
-
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Image of a person with straight brown hair and fair skin with freckles wearing a striped shirt leaning against a tree trunk.", echo=FALSE}
-knitr::include_graphics("images/DakotaS.jpg")
-```
-
-[Dakota Smith](DakotaS.html)
 <br/>
 **Undergraduate Assistant Researcher**
 :::
@@ -303,4 +290,17 @@ knitr::include_graphics("images/JacksonC.png")
 [Jackson Cutler](JacksonC.html)
 <br/>
 **Undergraduate Assistant Researcher, 2021-2022**
+:::
+
+<br/>
+
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Image of a person with straight brown hair and fair skin with freckles wearing a striped shirt leaning against a tree trunk.", echo=FALSE}
+knitr::include_graphics("images/DakotaS.jpg")
+```
+
+[Dakota Smith](DakotaS.html)
+<br/>
+**Undergraduate Assistant Researcher, 2022-2023**
 :::
