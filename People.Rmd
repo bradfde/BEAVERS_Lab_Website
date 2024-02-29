@@ -119,6 +119,18 @@ knitr::include_graphics("images/NickP.png")
 :::float-image
 
 ```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long strawberry blonde straight hair, fair skin, a black shirt and blue jeans against a pink background.",echo=FALSE}
+# ### knitr::include_graphics("images/SusieR.png")
+```
+[Susie Respini](SusieR.html)
+<br/>
+**Volunteer Assistant Researcher**
+:::
+
+<br/>
+
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long dark hair, fair skin, a black shirt and blue jeans against a pink background.",echo=FALSE}
 knitr::include_graphics("images/EJR.png")
 ```
 [EJ Rifkin](EJR.html)
@@ -165,6 +177,8 @@ knitr::include_graphics("images/LucasT.png")
 **Undergraduate Assistant Researcher**
 :::
 
+<br/>
+
 :::float-image
 
 ```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with long dark straight hair and two streaks of pink hair, fair skin, and a black shirt against a leafy background.", echo=FALSE}
@@ -175,6 +189,7 @@ knitr::include_graphics("images/MiaT.png")
 **Honors Thesis Assistant Researcher**
 :::
 
+<br/>
 
 :::float-image
 

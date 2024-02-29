@@ -1,0 +1,35 @@
+---
+title: "Susie Respini *(she/her/hers)*"
+#image: "SusieR.png"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am a volunteer research assistant in the BEAVERS Lab. I am from Salem, where I still reside with my husband, children, and our two heelers. I graduated from Oregon State University with a Bachelor of Science in Psychology in 2023. I am a licensed substitute teacher in the Salem-Keizer School District.
+
+As an undergraduate, I was a single mom to 4 talented and beautiful daughters, one of whom is currently studying classical ballet at the University of Utah. While I was juggling full-time schooling, I was also working full-time as an educator with a focus on literacy. During that time, I also held various positions on the elementary school’s Parent Teacher Club executive board, including president and vice president. Additionally, I assisted American Ballet Academy’s director in the undertaking of running two full length classical ballet productions per year.  Near the end of my schooling, I was fortunate to meet and marry a man who has been a driving force in helping me achieve my goals.
+
+I am grateful for the learning and opportunities provided to me in the BEAVERS Lab. It would be remiss of me not to mention that my supportive husband and children enable me to spend time in the lab. From my high school senior taking on the task of picking up two of her sisters (2nd and 10th grades) from different schools several days per week to my husband making dinner nearly every evening. The ability to balance family life with my educational goals reflects the strength of my support system.
+
+I am interested in childhood trauma, addiction (including love), and educational psychology with an emphasis on social and emotional learning. I am eager to learn more about how these different areas intersect.
+
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. in Psychology | June 2023
+
+## Interests
+
+* Education
+* Forest management
+*	Reading
+*	Traveling
+*	Live music
+*	Cooking and baking
+*	Outdoors and camping
+*	Family time 
+*	Dogs
