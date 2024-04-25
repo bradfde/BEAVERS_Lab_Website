@@ -11,11 +11,15 @@ description:
   OSF =  link to Open Science Foundation project repository for shared data and materials.
 
 ---
+## -2024- ##
+
+Whittaker, F., Respini, S. E., Watkins, G. M., Gilmore, E. M., DeFalco, A., Peavey, N., Tepe, L. R., Rifkin, E. J., Perez, M., & Bradford, D. E. Lost in the Shadows: a Novel Dark-Enhanced Startle Task. (2024, August). Poster to be presented for the American Psychological Association 2024 Annual Meeting, Seattle, WA. 
+
 ## -2023- ##
 
-Whittaker, F., DeFalco, A., Tognoli, M.I., Gilmore, E., & Bradford, D.E. (2023, September). A refined dark enhanced startle task. Poster to be presented at the 63rd annual Society for Psychophysiological Research, New Orleans, LA.
+Whittaker, F., DeFalco, A., Tognoli, M.I., Gilmore, E., & Bradford, D.E. (2023, September). A refined dark enhanced startle task. Poster presented at the 63rd annual Society for Psychophysiological Research, New Orleans, LA.
 
-DeFalco, A., Whittaker, F., Dooley, C., Curtin, J.J., Bradford, D.E. (2023, September). Spirited away: alcohol may dull error monitoring and encourage risky choices. Poster to be presented at the 63rd annual Society for Psychophysiological Research, New Orleans, LA.
+DeFalco, A., Whittaker, F., Dooley, C., Curtin, J.J., Bradford, D.E. (2023, September). Spirited away: alcohol may dull error monitoring and encourage risky choices. Poster presented at the 63rd annual Society for Psychophysiological Research, New Orleans, LA.
 
 ## -2022- ##
 

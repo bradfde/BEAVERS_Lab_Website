@@ -1,5 +1,5 @@
 ---
-title: "Genna Watkins *(she/her/hers)*"
+title: "Genna Stern *(she/her/hers)*"
 image: "images/GennaW.png"
 output:
   postcards::solana
@@ -18,7 +18,7 @@ A.S. Psychology Emphasis | December 2021
 
 **Oregon State University** | Corvallis, OR
 
-Psychology and Music Performance | Expected March 2024
+Psychology and Music Performance | March 2024
 
 ## Interests
 

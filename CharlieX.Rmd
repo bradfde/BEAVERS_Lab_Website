@@ -1,0 +1,25 @@
+---
+title: "Charlie Xu *(he/him/his)*"
+#image: "CharlieX.png"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I’m an Honors biochemistry and molecular biology major with the pre-med option in the class of 2026. I’m from Klamath Falls, Oregon, and my goal is to attend medical school and study to become a neurosurgeon. I really enjoy neuroscience, and I want to research more on how the brain is affected by psychophysiological compounds. 
+
+I became involved in the lab through the URSA Engage program and I was also awarded funding through the Undergraduate Research Experience program to do paid lab work during the summer of 2024. 
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. in Biochemistry & Molecular Biology | Expected June 2026
+
+## Interests
+
+* Badminton
+* Tennis
+*	Swimming
+*	Cycling
