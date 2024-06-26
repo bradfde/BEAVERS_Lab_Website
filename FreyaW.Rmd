@@ -16,11 +16,11 @@ output:
 
 I am a graduate student in the BEAVERS Lab. I grew up between New Hampshire and Massachusetts, and I received my Bachelor of Arts from Dickinson College with honors in Psychology and French & Francophone Studies in 2021. 
  
-As an undergraduate I assisted in two psychology labs, one evaluating a program designed to reduce the impacts of caregivers’ Substance Use Disorders on children, and the other studying the physical and mental health impacts of the COVID-19 pandemic on young adults. While studying abroad in Copenhagen, Denmark, I conducted research on the relationship between food insecurity and mental health outcomes in the Danish welfare state. I also independently conducted a study on the relationship between stress, social support, and substance use behaviors in the context of the COVID-19 pandemic. These early research experiences contributed to my broad interests in studying stress, substance use, and mental and physical health disparities. 
+As an undergraduate I assisted in two psychology labs, one evaluating a program designed to reduce the impacts of caregivers’ Substance Use Disorders on children, and the other studying the physical and mental health impacts of the COVID-19 pandemic on young adults. While studying abroad in Copenhagen, Denmark, I conducted research on the relationship between food insecurity and mental health outcomes in the Danish welfare state. I also independently conducted a study on the relationship between stress, social support, and substance use behaviors in the context of the COVID-19 pandemic. These early research experiences contributed to my broad interest in studying stress, substance use, and mental and physical health disparities. 
  
-After graduating from Dickinson, I worked as a clinical research assistant in Shannon Wiltsey Stirman’s FAST Lab at Stanford University/ the National Center for PTSD studying PTSD treatment implementation and dissemination before joining the BEAVERS Lab.  
+After graduating from Dickinson, I worked as a clinical research assistant in Shannon Wiltsey Stirman’s FAST Lab at Stanford University and the National Center for PTSD studying PTSD treatment implementation and dissemination before joining the BEAVERS Lab.  
  
-My research interests lie in investigating how injury and substances—including sigar—can moderate the physiological stress response. More broadly, I am passionate about pursuing research questions aimed at understanding and reducing physical health disparities. 
+My research interests lie in investigating how brain injury and substances—namely alcohol and sugar—can moderate psychophysiological stress responses. More broadly, I am passionate about pursuing research questions aimed at understanding and reducing health disparities. 
  
 ## Education
 
@@ -35,11 +35,15 @@ M.S. in Psychology | June 2024
 
 B.A. in Psychology | May 2021
 </br>
-B.A. in French | May 2021
+B.A. in French & Francophone Studies | May 2021
 
 ## Interests
 
 * Psychophysiology research
 * Neuroimaging
+* Programming
+* Statistics
 * Food (researching, cooking, and consuming)
-* Hiking, running, and talking about New England
+* Talking about New England
+
+
