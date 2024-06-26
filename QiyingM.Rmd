@@ -1,0 +1,20 @@
+---
+title: "Qiying Ma"
+#image: "QiyingM.jpg"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+[INSERT HERE]
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. in [MAJOR] | Expected June 2025
+
+## Interests
+[INSERT HERE]
