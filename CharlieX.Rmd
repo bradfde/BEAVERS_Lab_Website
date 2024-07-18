@@ -1,6 +1,6 @@
 ---
 title: "Charlie Xu *(he/him/his)*"
-#image: "CharlieX.png"
+image: "images/CharlieX.png"
 output:
   postcards::solana
 ---

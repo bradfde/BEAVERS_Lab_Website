@@ -132,7 +132,7 @@ knitr::include_graphics("images/LucasT.png")
 :::float-image
 
 ```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with dark hair and a black windbreaker in front of a brick building.", echo=FALSE}
-###knitr::include_graphics("images/CharlieX.png")
+knitr::include_graphics("images/CharlieX.png")
 ```
 [Charlie Xu](CharlieX.html)
 <br/>
