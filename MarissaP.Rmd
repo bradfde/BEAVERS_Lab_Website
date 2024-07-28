@@ -1,0 +1,26 @@
+---
+title: "Marissa Perez *(she/her/hers)*"
+image: "images/MarissaP.jpg"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+ I graduated from UC Davis, class of 2023 with a B.S. in Psychology (Biology Emphasis) and a minor in Neuroscience. While at UC Davis, I volunteered at the TCAN lab focusing on data entry into the database RedCap. I’m originally from Oxnard, California and have been a post-bacc volunteer for the BEAVERS Lab since September 2023. I also work as an RBAI (Registered Behavior Analysis Interventionist) to provide therapeutic services to kids with autism and/or other developmental disorders. My career goals consist of pursuing a PhD program in psychology and conducting research. I enjoy learning about the neural mechanisms that keep the brain functioning as well as when it’s affected by addiction and neural disorders.
+ 
+
+## Education
+
+**University of California, Davis** | Davis, CA
+
+B.S. Psychology, Minor: Neuroscience | Class of 2023
+
+## Interests
+
+* Biopsychology
+* Abnormal psychology
+* Neuroscience
+* Baile Folklorico
+* Singing
+* Weightlifting
