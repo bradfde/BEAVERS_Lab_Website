@@ -1,6 +1,6 @@
 ---
 title: "Qiying Ma"
-#image: "QiyingM.jpg"
+image: "images/QiyingM.png"
 
 output:
   postcards::solana
@@ -8,13 +8,20 @@ output:
  
 ## Bio
 
-[INSERT HERE]
+I am a  BioHealth Sciences major with a pre-pharm option in the class of 2026. I am from Portland, Oregon. My career aspiration is to become a pharmacist. While pharmacy is my primary focus, I have developed a deep interest in neuroscience and psychology through coursework. I aim to dedicate my strengths to raising awareness about mental health in minority groups.
+
+On campus, I am involved in MAPS, an organization dedicated to assisting minority students in navigating higher education. Being a part of the STEM leader program, I have the opportunity to work in Dr. Daniel Bradford’s lab, where I will delve into the ever-evolving field of neuropsychology to understand the brain’s response to stressors.
+
+Outside of my academic pursuits, I have a passion for photography and capturing life's moments. Additionally, journaling has been a significant part of my life for the past eight years. I enjoy incorporating collage into my journaling process as a way to explore my artistic side. This practice helps me reflect on and preserve the precious moments of my daily life.
 
 ## Education
 
 **Oregon State University** | Corvallis, OR
 
-B.S. in [MAJOR] | Expected June 2025
+B.S. in BioHealth Sciences | Expected June 2026
 
 ## Interests
-[INSERT HERE]
+* Film photography
+* Journaling
+* Explore new places in the city
+* Traveling
