@@ -33,6 +33,24 @@ knitr::include_graphics("images/Daniel.JPG")
 <center> 
 ## Graduate Students
 </center>
+
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person.", echo=FALSE}
+knitr::include_graphics("images/RachelG.png")
+```
+
+[Rachel Goldblum](RachelG.html) 
+<br/>
+**Graduate Student, Clinical Science**
+<br/>
+[CV](files/CVs/Goldblum_CV.pdf) 
+
+<!-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=6EXE-RUAAAAJ) [Twitter](https://twitter.com/fmwhittaker) -->
+
+:::
+<br/>
+
 :::float-image
 
 ```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with shoulder length blonde straight hair, fair skin and a black sleeveless shirt with a background of greenery.", echo=FALSE}
@@ -74,6 +92,34 @@ knitr::include_graphics("images/CorrynD.png")
 [Corryn Dooley](CorrynD.html)
 <br/>
 **Undergraduate Assistant Researcher**
+:::
+
+<br/>
+
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with dark hair.", echo=FALSE}
+knitr::include_graphics("images/QiyingM.png")
+```
+[Qiying Ma](QiyingM.html)
+<br/>
+**STEM Leaders Assistant Researcher**
+:::
+
+<center> 
+## Collaborators
+</center>
+
+<br/>
+
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with dark long hair in a car.", echo=FALSE}
+knitr::include_graphics("images/MarissaP.jpg")
+```
+[Marissa Perez](MarissaP.html)
+<br/>
+**Volunteer Assistant Researcher**
 :::
 
 <br/>
@@ -141,33 +187,6 @@ knitr::include_graphics("images/CharlieX.png")
 
 <br/>
 
-:::float-image
-
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with dark long hair in a car.", echo=FALSE}
-knitr::include_graphics("images/MarissaP.jpg")
-```
-[Marissa Perez](MarissaP.html)
-<br/>
-**Volunteer Assistant Researcher**
-:::
-
-<br/>
-
-:::float-image
-
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with dark hair.", echo=FALSE}
-knitr::include_graphics("images/QiyingM.png")
-```
-[Qiying Ma](QiyingM.html)
-<br/>
-**STEM Leaders Assistant Researcher**
-:::
-
-<center> 
-## Collaborators
-</center>
-
-<br/>
 
 :::float-image
 
