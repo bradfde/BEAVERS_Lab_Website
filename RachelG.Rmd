@@ -1,5 +1,5 @@
 ---
-title: "Rachel Goldblum"
+title: "Rachel Goldblum *(she/her/hers)*"
 image: "images/RachelG.png"
 links:
   - label: CV
