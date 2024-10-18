@@ -106,11 +106,8 @@ knitr::include_graphics("images/QiyingM.png")
 **STEM Leaders Assistant Researcher**
 :::
 
-<center> 
-## Collaborators
-</center>
-
 <br/>
+
 
 :::float-image
 
@@ -187,6 +184,11 @@ knitr::include_graphics("images/CharlieX.png")
 
 <br/>
 
+<center> 
+## Collaborators
+</center>
+
+<br/>
 
 :::float-image
 
