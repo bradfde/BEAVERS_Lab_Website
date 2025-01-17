@@ -1,0 +1,22 @@
+---
+title: "Linna Truong"
+# image: "images/FILE_NAME"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am a 1st year Psychology major with a strong interest in pharmacy. My career aspirations include applying to either OSU’s pharmacy program or graduate school in psychology to pursue a career in psychiatric or behavioral health pharmacy. Alongside my academic pursuits, I am passionate about clinical research and mental health advocacy. On campus, I am an active participant in the STEM Leaders Program and TRIO. Outside of academics, I enjoy spending time with friends and supporting my community through volunteer efforts and advocacy work.
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. in Psychology | Expected June 2028
+
+## Interests
+* Mental health advocacy
+* Diamond painting
+* My dog :D

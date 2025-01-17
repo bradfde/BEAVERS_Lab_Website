@@ -1,0 +1,28 @@
+---
+title: "Ellie Hull (she/her/hers)"
+image: "images/EllieH.png"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am in the class of 2025, studying psychology as my major, with a minor in public health. After finishing my undergraduate degree in psychology, I intend to pursue a PhD in Clinical or Counseling Psychology.
+
+My upbringing in the mountains of Bozeman, Montana, and time spent in Montana’s rural areas has shaped my research interests in addiction, substance-use disorders, and suicide prevention in rural populations. I am also interested in exploring the application and integration of Acceptance and Commitment Therapy in wilderness therapy settings. 
+
+Outside of the classroom and lab, I spend most of my time training and traveling as an athlete on the OSU track and cross-country team, or getting lost in the mountains! I enjoy most things in the great outdoors, particularly running, cycling, skiing, and rock climbing. I also love cooking and baking sourdough bread. 
+
+## Education
+
+Oregon State University | Corvallis, OR
+
+B.S. in Psychology | Expected June 2025
+
+## Interests
+* Running
+* Cycling
+* Skiing
+* Rock climbing
+* Baking sourdough bread

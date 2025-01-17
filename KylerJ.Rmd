@@ -1,0 +1,23 @@
+---
+title: "Kyler Jones"
+# image: "images/FILE_NAME"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I recently graduated from OSU with a B.S. in Psychology. I'm currently in a gap year, with hopes to start pursuing my PhD in the Fall. My research interests center around using cognitive psychology to understand how context and culture influence the automatic mental processes involved in language processing. I hope to learn how shared meaning and semantic alignment are achieved, and I am particularly interested in studying whether or not religion significantly influences differences in semantics. When not participating in research, I enjoy playing video games and doing puzzles. You may also occasionally find me bouldering or roller-skating.
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. in Psychology | June 2024
+
+## Interests
+* Video games
+* Puzzles
+* Bouldering
+* Roller-skating

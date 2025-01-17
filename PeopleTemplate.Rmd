@@ -1,0 +1,21 @@
+---
+title: "FIRST AND LAST NAME (pronouns)"
+image: "images/FILE_NAME"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+TEXT
+
+## Education
+
+**UNIVERSITY (ex. "Oregon State University")** | LOCATION (ex. "Corvallis, OR")
+
+MAJOR (ex. "B.S. in Psychology") | GRADUATION DATE (ex. Expected June 2026)
+
+## Interests
+* 1st list item (ex. "Skiing")
+* 2nd list item
