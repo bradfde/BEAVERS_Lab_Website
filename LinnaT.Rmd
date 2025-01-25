@@ -1,6 +1,6 @@
 ---
 title: "Linna Truong"
-# image: "images/FILE_NAME"
+image: "images/LinnaT.png"
 
 output:
   postcards::solana

@@ -1,0 +1,26 @@
+---
+title: "JJ Admire-Novak"
+image: "images/JJA.png"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Hi, my name is JJ! I am half Navajo. I am currently in my junior year of college. I transferred here from Clatsop Community College in Astoria Oregon. I'm majoring in Human Development and Family Sciences. I am hoping to become a mental health professional working with families who are a part of the LGBTQIA+ community or with families who adopted children. This is because I was raised by 2 gay men who are the best dads in the world, and I love them so much. 
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.A. in Human Development and Family Sciences | Expected June 2026
+
+## Interests
+* Listening to music 
+* Art of any kind 
+* Playing video games
+* Practicing my coding skills 
+* Watching my favorite shows 
+* Eating my dad's home cooked meals
+* Hanging out with my roommates 

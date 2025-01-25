@@ -1,6 +1,6 @@
 ---
 title: "Kyler Jones"
-# image: "images/FILE_NAME"
+image: "images/KylerJ.png"
 
 output:
   postcards::solana
