@@ -1,0 +1,26 @@
+---
+title: "Jackson Marra-Dotts"
+image: "images/JacksonM.jpeg"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am a senior graduating in spring of 2025 with a major in psychology. After graduation I am looking to gain some more research experience with an interest in psychophysiology, psychotic disorders, and stressor-related disorders. Then, I am planning to go for a PhD in Clinical Psychology. My interests come from topics I have learned about in school, as well as the environment and people I grew up around.
+
+When I am free, I like to keep my body moving through bouldering, Brazilian Jiu Jitsu, and snowboarding. I also like to spend a lot of time with friends, whether that is out doing something out or just hanging at someone’s house.
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. in Psychology | June 2025
+
+## Interests
+* BJJ
+* Bouldering
+* Stress-related disorders
+* Psychophysiology
+* Open science movement

@@ -180,6 +180,18 @@ knitr::include_graphics("images/QiyingM.png")
 
 <br/>
 
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "DESCRIPTION", echo=FALSE}
+knitr::include_graphics("images/JacksonM.jpeg")
+```
+
+[Jackson Marra-Dotts](JacksonM.html)
+<br/>
+**Volunteer Assistant Researcher**
+:::
+
+<br/>
 
 :::float-image
 
