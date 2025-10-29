@@ -1,0 +1,39 @@
+---
+title: "Aubrey, Freitas"
+image: "images/AubreyFPFP.png"
+links:
+  - label: CV
+    url: "files/CVs/Freitas_CV.pdf"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+ I am a PhD student in the Clinical Science track here at OSU working in both the BEAVERS and Ascend labs. I graduated from UCLA in 2019 with dual Bachelor of Arts degrees in Psychology and English, with a concentration in Creative Writing - Fiction.
+
+During my undergraduate career, I was a research assistant for the Depression Grand Challenge for three years, where I facilitated support group for UCLA students with mild to moderate depression and anxiety using an internet-based cognitive behavior therapy (iCBT) program to explore its impacts on symptom reduction. After graduating, I stayed in the field of mental health in various capacities, including as a behavioral therapist, content writer, case manager, 988 crisis line operator, and substance use disorder (SUD) counselor, before returning research. In January 2024, I joined the research department at the Greater Los Angeles Department of Veteran Affairs (GLA VA,) where I worked on numerous studies examining the use of mobile sensing health data to explore its potential benefits on treatment outcomes for individuals with serious mental illness,  the effects of psychotherapy on chronic pain and PTSD symptoms,  and health care utilization among homeless-experienced Veterans with dual diagnosis of PSTD and SUDs.
+
+Broadly, my research interests surround trauma, stress, and PTSD. I am interested in furthering research on the biopsychosocial impacts of stress and trauma, including their impact on health, underlying mechanisms of stress reactivity, and mind-body mechanisms of risk and resilience. In addition, I'm originally from the Central Valley of California, a rural area with limited access to quality health care, so increasing equity and accessibility of mental health services for under-resourced areas is a cause that is particularly close to my heart.
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+Ph.D. in Clinical Psychology | Expected June 2030
+
+</br>
+
+
+**UCLA** | Los Angelos, CA
+
+B.A. in Psychology | May 2019
+</br>
+B.A. in Creative Writing May 2019
+
+## Interests
+* Libraries
+* Anthology
+* Basketball (Both as a spectator and as a player)
+* Being outside
+* Watching my cat doing things

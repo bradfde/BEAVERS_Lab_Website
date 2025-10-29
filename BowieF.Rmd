@@ -1,0 +1,23 @@
+---
+title: "Bowie Freitas"
+image: "images/BowieF.png"
+links:
+  - label: My Human
+    url: "AubreyF.html"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+My birth certificate (if I had one) would read David Bowie Freitas, as I am named after one of the greatest musicians of all time, but I prefer to just go by Bowie. I'm an orange Tabby Cat who was born in 2018 in my mom's front yard one summer. She took me in, and bottle fed me and my five siblings until we were all ready to be adopted. I'm the biggest cuddle bug you'll ever meet. And, my mom had only raised dogs before adopting me, so I'm actually really dog-like, meaning that I like to play fetch and can sit on command. I also like to sleep a lot and pride myself on being the loudest purring cat the world has ever seen.
+
+
+## Interests
+
+* Plotting and scheming
+* Orange Cat Behavior
+* Food
+* Crinkly plastic
+* Food
+* Watching my mom do things

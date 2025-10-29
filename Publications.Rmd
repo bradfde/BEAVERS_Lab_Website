@@ -6,6 +6,28 @@ description:
   OSF =  link to Open Science Foundation project repository for shared data and materials.
 
 ---
+
+## -2025- ##
+
+Whittaker, F.\*, DeFalco, A.\*, Goldblum, R.S., Curtin, J.J., Bradford, D.E. (in press). Alcohol’s effects on 
+decision making and cognitive processing in a reward uncertainty task. Psychology of Addictive Behaviors.
+*These authors contributed equally
+
+
+Whittaker, F., DeFalco, A., Sanders, S.M., Perkings, E.R., Joyner, K. J., Bradford, D.E. (2025). Racial biases 
+in skin conductance response-based polygraphs and their legal implications. Nature Human Behavior, 9(1). 
+https://doi.org/10.1038/s41562-024-02025-0
+
+Oldham, J.R., DeFalco, A., Willwerth, S., Nagle, S., Whittaker, F., Mannix, R., Meehan, W.P., Bradford, 
+D.E. (2025). Concussion-related suppression of general startle reactivity in adolescent Athletes. Journal of Head 
+Trauma Rehabilitation, 40(1). https://doi.org/10.1097/HTR.0000000000000979
+
+## -2024- ##
+
+Kerr, D.C.R., Kasimanickman, M.R., Bradford, D.E., Baie, H., Parks, K.A. (2025). Problematic alcohol 
+behaviors and sexual assault on college campuses: How are student reports and institution-reported crime data 
+related? Journal of American College Health, 73(5), 2158–2165. https://doi.org/10.1080/07448481.2025.2492170
+
 ## -2023- ##
 
 Bradford, D. E., Dev, A. S., DeFalco, A., Whittaker, F., Timpano, K. A. (in press). Increasing ecological validity in neuropsychopharmacology research on the relationship between alcohol use and uncertain stressors. *Neuropsychopharmacology*. 

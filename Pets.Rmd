@@ -52,6 +52,19 @@ knitr::include_graphics("images/KattyT.png")
 
 :::float-image
 
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt= "Picture of a large white dog's face, chewing on a bone, looking at the camera against a white wall background.", echo=FALSE}
+knitr::include_graphics("images/BowieF.png")
+```
+
+[Bowie Freitas](BowieF.html) 
+<br/>
+**Orange Tabby Cat**
+:::
+
+<br/>
+
+:::float-image
+
 ```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of an orange cat laying on its side, sleeping with its head upside down, outside in the grass and flowers.", echo=FALSE}
 knitr::include_graphics("images/OliverT.png")
 ```
