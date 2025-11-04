@@ -9,7 +9,7 @@ description:
 
 ## -2025- ##
 
-Whittaker, F.\*, DeFalco, A.\*, Goldblum, R.S., Curtin, J.J., Bradford, D.E. (in press). Alcohol’s effects on 
+Whittaker, F.\*, DeFalco, A.\*, Goldblum, R.S., Curtin, J.J., Bradford, D.E. (2025). Alcohol’s effects on 
 decision making and cognitive processing in a reward uncertainty task. Psychology of Addictive Behaviors.
 *These authors contributed equally
 
@@ -30,9 +30,9 @@ related? Journal of American College Health, 73(5), 2158–2165. https://doi.org
 
 ## -2023- ##
 
-Bradford, D. E., Dev, A. S., DeFalco, A., Whittaker, F., Timpano, K. A. (in press). Increasing ecological validity in neuropsychopharmacology research on the relationship between alcohol use and uncertain stressors. *Neuropsychopharmacology*. 
+Bradford, D. E., Dev, A. S., DeFalco, A., Whittaker, F., Timpano, K. A. (2023). Increasing ecological validity in neuropsychopharmacology research on the relationship between alcohol use and uncertain stressors. *Neuropsychopharmacology*. 
 
-Kim, H.C., Kaplan, C.M., Islam, S., Anderson, A.S., Piper, M.E., Bradford, D.E., Curtin, J.J., DeYoung, K.A., Smith, J.F., Fox, A.S., Shackman, A.J. (in press) Acute nicotine abstinence amplifies subjective withdrawal symptoms and threat-evoked fear and anxiety, but not extended amygdala reactivity. *Plos One*.
+Kim, H.C., Kaplan, C.M., Islam, S., Anderson, A.S., Piper, M.E., Bradford, D.E., Curtin, J.J., DeYoung, K.A., Smith, J.F., Fox, A.S., Shackman, A.J. (2023) Acute nicotine abstinence amplifies subjective withdrawal symptoms and threat-evoked fear and anxiety, but not extended amygdala reactivity. *Plos One*.
 
 Lewis, M.W., Bradford, D.E., Pace-Schott, E.F., Rauch, S.L., Rosso, I.M. (2023) Multiverse Analysis Demonstrates an Impact of Methodology on Results in a Study of Extinction Retention and PTSD. *Psychophysiology*, 00, e14263. 
 

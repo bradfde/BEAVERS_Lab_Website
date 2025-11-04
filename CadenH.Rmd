@@ -1,0 +1,27 @@
+---
+title: "Caden Hooper (He/Him)"
+image: "images/CadenH.png"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am an honors Biochemistry and Molecular Biology major with a pre-med option, as well as a minor in psychology. I plan to attend medical school and want to become an Emergency Medicine doctor. I really enjoy psychology and psychopysiological studies. 
+
+On campus I am involved in several clubs including the board of the End Overdose club, I also volunteer at the Crisis Text Hotline. I began working at Salem Health Hospital as a Patient Care Attendant in the summer of 2025. In my free time I enjoy cooking and exploring new cultures and places.
+
+I got involved in the lab through the URSA Engage program and was awarded a grant to do research. 
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. in Biochemistry & Molecular Biology | Expected June 2027
+
+## Interests
+* Traveling
+* Food
+* Domestic & Geo-politics
+* Work
