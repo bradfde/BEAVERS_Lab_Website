@@ -1,0 +1,23 @@
+---
+title: "Bochen Li (He/Him)"
+image: "images/BochenL.png"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am a sophomore psychology major expecting to graduate in 2027. I love clinical work, neuroscience, and research methodology, including frequentist and Bayesian statistics, neuroscience, and computational psycholinguistic studies/machine learning. I am also a firm supporter and practitioner of open science. I enjoy working with marginalized populations, including people experiencing homelessness and neurodivergent populations and people with disabilities; my clinical focus will be personality disorders and complex trauma through a developmental lens and psychodynamic framework. I think it is important to help the marginalized and improve the current treatment model, which is driven by the insurance system.
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. Psychology | Expected June 2027
+
+## Interests
+* Reading
+* Walking
+* Meditation
+* Open Science Movement

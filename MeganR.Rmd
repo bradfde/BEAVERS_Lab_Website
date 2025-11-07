@@ -1,0 +1,27 @@
+---
+title: "Megan Rutherford (She/Hers)"
+image: "images/MeganR.png"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am an honors Microbiology major with a minor in chemistry and a focus in pre-medicine. After completing my degree, I plan to attend medical school and become a pathologist. I am interested in psychology mostly as it relates to neuroscience and the biological explanations for certain behaviors. 
+
+At Oregon State, I participate in several clubs and activities, including the Integrative Biology Club and intramural tennis in the spring. In my spare time, I volunteer at the community outreach center in Corvallis, providing medical care to community members. I enjoy listening to music and painting when I am not focusing on schoolwork.
+
+I began my research with the BEAVERS lab and Dr. Bradford through the Undergraduate Research Program (URSA) at Oregon State University. I hope to continue my involvement in the lab while I am still living in Corvallis and work with Dr. Bradford to complete my honors thesis.
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. in Microbiology | Expected June 2027
+
+## Interests
+* Music
+* Painting
+* Baking
+* Traveling

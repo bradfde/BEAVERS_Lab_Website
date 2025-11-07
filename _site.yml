@@ -5,46 +5,46 @@ favicon: images/DR_Bennito.png
 description: |
   Website_Files
 output_dir: "_site"
+
 navbar:
-  #logo:
-  #  image: images/Dr_BennitoNoBG.png
+  # logo:
+  #   image: images/Dr_BennitoNoBG.png
   search: true
   right:
     - text: "Home"
       href: index.html
     - text: "About Us"
-      href:
+      href: about.html
       menu:
         - text: "People"
           href: People.html
-        - text: "Corvallis, OR" 
+        - text: "Corvallis, OR"
           href: Corvallis.html
         - text: "Lab Values"
           href: Values.html
         - text: "Lab Pets"
           href: Pets.html
     - text: "Research"
-      href:
+      href: Research.html
       menu:
         - text: "Overview"
           href: Research.html
         - text: "Publications"
           href: Publications.html
         - text: "Posters"
-          href: Presentations.html 
+          href: Presentations.html
         - text: "In the Media"
           href: PopMedia.html
     - text: "Join the team"
-      href: 
-      menu: 
+      href: Join.html
+      menu:
         - text: "Prospective Undergraduates"
           href: ProspectiveUndergrads.html
         - text: "Prospective Graduate Students"
           href: ProspectiveGrads.html
         - text: "Prospective Collaborators"
           href: ProspectiveCollabs.html
-   # - text: "Contact and Location"
-   #   href: ContactLocation.html */
-        
-    
+    # - text: "Contact and Location"
+    #   href: ContactLocation.html
+
 output: distill::distill_article

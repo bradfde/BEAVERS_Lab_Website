@@ -1,25 +1,27 @@
 ---
 title: "Nico Doran *(he/him/his)*"
 image: "images/NicoD.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/nico-doran-952ba72a5"
 output:
   postcards::solana
 ---
+
  
 ## Bio
 
-I am in the class of 2024 Oregon State University majoring in Psychology with minors in biochemistry and molecular biology. I am a Bay Area native, graduating from De La Salle high school (Concord, CA) in 2020. My main interest is Neuroscience, specifically how psychotropic substances affect connections within the brain. I have always been curious about how people interact on both conscious and unconscious levels.
-
-My main goal is to educate others on how they work(thoughts, emotions, behaviors), and how external stimuli affect our internal state on a chemical level. I plan on pursuing a Ph.D. in Neuroscience after gaining experience in the research field.
+In 2024, I completed my undergraduate studies at Oregon State University with a Bachelor's of Science in Psychology with minors in Biochemistry and Molecular Biology. My main interest is Neuroscience, specifically how trauma affects connections within the brain and how to repair neuronal networks associated with mental health disorders such as addiction. I have always been curious about how people interact on both conscious and unconscious levels. I plan to further investigate Psychoplastenogens, Neurotechnology, and the Neurobiology of Trauma, Addiction, and Consciousness, in hopes of expanding mental health treatment options and accessibility.
 
 ## Education
 
 **Oregon State University** | Corvallis, Oregon
 
-Behavioral Neuroscience | Expected June 2024
+Behavioral Neuroscience | December 2024
 
 ## Interests
 
-* Writing
+* Traveling
 * Fly fishing
 * Alternative Medicine
 * Nutrition

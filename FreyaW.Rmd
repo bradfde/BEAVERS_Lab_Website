@@ -6,8 +6,6 @@ links:
     url: "files/CVs/Whittaker_CV.pdf"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?hl=en&user=6EXE-RUAAAAJ"
-  - label: Twitter
-    url: "https://twitter.com/fmwhittaker"
 output:
   postcards::solana
 ---

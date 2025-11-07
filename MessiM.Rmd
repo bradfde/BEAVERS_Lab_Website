@@ -1,0 +1,31 @@
+---
+title: "Messi Morning (He/Him)"
+image: "images/MessiM.png"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I’m a volunteer research assistant in the BEAVERS Lab at Oregon State University. I earned my Bachelor of Science in Psychology from Colorado State University, where I first became interested in how the brain and body respond to stress.
+
+Before joining BEAVERS, I worked in the Work Teams Lab at Colorado State under Dr. Keaton Fletcher, where I helped study how teamwork affects stress and performance. That experience gave me hands-on training in collecting data like heart rate, skin conductance, and breathing patterns.
+
+At Oregon State, I’m helping with studies that look at alcohol use, stress reactivity, and brain activity using EEG and EMG recordings. I’m especially interested in how brain chemistry, like Brain-Derived Neurotrophic Factor and Corticotropin Releasing Factors, shape our ability to recover from stress and maintain emotional balance.
+
+Outside the lab, I enjoy hiking, camping, and exploring new places. I also love calisthenics, snowboarding, photography, and reading fantasy books.
+
+## Education
+
+**Colorado State University** | Fort Collins, CO
+
+B.S. in Psychology | 2025
+
+## Interests
+* Psychophysiology and stress research
+* EEG/EMG data collection and analysis
+* Human performance and neuroplasticity
+* Outdoor adventures (hiking, camping, backpacking)
+* Calisthenics and snowboarding
+* Photography, anime, and fantasy novels

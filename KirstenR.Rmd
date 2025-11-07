@@ -1,0 +1,23 @@
+---
+title: "Kirsten Ransford (She/Her)"
+image: "images/KirstenR.png"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Hi everyone! My name is Kirsten, I use she/her pronouns and I am from Rocklin, California. I am graduating this December with my bachelor's degree in Biohealth Sciences and a minor in Psychology. I have plans to apply to medical school in May 2026, alongside the military to pursue a military medicine pathway. I have always had an interest in brain and behavior, and seeing people close to me struggle with addiction has led me to the BEAVERS Lab. Dr. Bradford has been a great mentor for all of us, and I hope to translate my lab skills to the field of neurology or psychiatry. 
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. Biohealth Sciences (w/ minor in psychology) | Expected June 2026
+
+## Interests
+* Backpacking
+* reading
+* Trail Running
+* Cloud watching

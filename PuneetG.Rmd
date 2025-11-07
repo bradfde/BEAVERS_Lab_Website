@@ -1,0 +1,37 @@
+---
+title: "Puneet Gandhok (He/Him)"
+image: "images/PuneetG.png"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I’m an Honors Psychology major with a minor in medical humanities. I’m also a
+part of the Applied Social Cognition lab studying physician-AI interactions in
+healthcare settings. On campus, I co-founded the Kidney Disease Screening
+Awareness Program hosting several set-ups in the Corvallis and Salem area. I also
+serve as a Beavers Belong Support Leader engaging in weekly peer support
+sessions, and I’m a volunteer for IMPACT. Outside of class, I’m involved with the
+Global Formula Racing team, assisting in projects related to engine-work and
+marketing. I’m fascinated in exploring biopsychological and social determinants
+in medicine, focusing primarily on medical ethics, empathy, and accessibility in
+patient-centered care. In the future, I aspire to attend medical school and pursue
+psychiatry
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. in Psychology | Expected June 2027
+
+## Interests
+* Social & Abnormal Psychology/Neuroscience
+* AI and ethics in Medicine
+* Mental Health accessibility
+* Traveling
+* Baseball & Basketball
+* Lifting
+* Jazz
+* Formula 1

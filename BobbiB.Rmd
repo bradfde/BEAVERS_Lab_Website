@@ -1,0 +1,27 @@
+---
+title: "Bobbi Bailey (She/Her)"
+image: "images/BobbiB.png"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I was born and raised in a segregated area of Eastern Montana. Working on our family farm and ranch was an essential part of my childhood and teenage years. While my upbringing provided unique perspectives on social and cultural influences, it was clear to me as a young teen that I would not remain there after high school. Instead, I moved to Colorado and then on to Kansas for several years. In Wichita I was introduced to psychology through work as an assistant office manager in an outpatient psychology office. That job initiated my interest in psychology and mental health.
+
+Several years later I discovered MRI and completed an associate’s degree at Linn Benton Community College with additional training through Portland Community College. My work as an MRI Technologist has provided me with countless experiences interacting with patients and other medical professionals. It has also allowed me to foster my passion for networking and active involvement in professional organizations.
+
+After COVID, I began attending Oregon State University part-time with a desire to earn a Bachelor of Psychology degree. I am interested in pursuing a deeper understanding of neuropsychology, specifically how stress, cognition, and behavior influence mental health, relationships, and human experience.
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+B.S. in Psychology | Expected June 2026
+
+## Interests
+* Hiking
+* Rockhounding
+* Beachcombing
+* Attending live performances
