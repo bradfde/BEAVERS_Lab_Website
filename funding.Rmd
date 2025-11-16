@@ -1,0 +1,57 @@
+---
+title: "Funding & Grants"
+description: 
+  Our lab is supported by competitive federal, state, and institutional funding that advances our work. Below is an overview of current awards and recent grant activity. It might not include individual lab members scholorships such as URSA or STEM leaders.
+output: distill::distill_article
+---
+
+
+**Current Research Funding**
+
+NIH NINDS R01 (2025–present)
+A Longitudinal Evaluation of Psychophysiological and Motor Dysfunction following Concussion
+Multiple PI award with Jessie Oldham. Direct Costs: $3.6M.
+
+Research Advancement Academy Seed Funds, OSU (2025–present)
+Psychophysiology as a B.E.A.V.E.R.S. dam: Building a transdisciplinary psychophysiological research center at OSU
+Direct Costs: $50,000.
+
+Transdisciplinary Research Seed Fund, OSU (2024–present)
+Expanding Psychophysiological Evaluation of Post-Concussion Dysfunction to Veteran Populations
+Direct Costs: $50,000.
+
+NIH BIRCWH K12 (2022–present)
+Sex Differences in Post-Concussion Psychophysiological Dysfunction and Subsequent Musculoskeletal Injury
+Role: Consultant. Direct Costs: $100,000.
+
+Oregon Council on Problem Gambling (2022–2024)
+Alcohol, Decision Making, and Neurophysiological Responses in Experimental Gambling
+Direct Costs: $20,000.
+
+VCU Child Health Research Institute Collaborative Grant (2021–2022)
+A Multimodal Assessment of Pediatric Startle Response in Acute Concussion
+Role: Consultant. Direct Costs: $46,704.
+
+Thrasher Research Fund (2020–2022)
+Post-Concussion Adolescent Startle Response and Injury
+Role: Consultant. Direct Costs: $26,750.
+
+**Recent Grant Submissions**
+
+Joint NINDS/NIMH R21 (2023)
+Psychophysiological Evaluation of Post-Concussion Dysfunction and Subsequent Musculoskeletal Injury
+Multiple PI model. Direct Costs: $168,555.
+
+OSU Internationalization Grant (2023)
+A Collaborative International Effort to Advance Cognitive Neuroscience Research and Education
+Direct Costs: $4,750.
+
+John C. Erkkila, M.D. Endowment for Health & Human Performance (2023)
+Assessing Stress Response Dampening by Highly Processed Foods in Binge Eating
+Direct Costs: $25,000.
+
+Brain & Behavioral Foundation Young Investigator Grant (2022)
+Longitudinal Assessment of Alcohol-Induced Neuroadaptations to Uncertain Stressors
+Direct Costs: $70,000.
+
+---

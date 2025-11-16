@@ -256,7 +256,7 @@ knitr::include_graphics("images/KirstenR.png")
 ```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long strawberry blonde straight hair, fair skin, a black shirt and blue jeans against a pink background.",echo=FALSE}
 knitr::include_graphics("images/SusieR.png")
 ```
-[Susie Respini](SusieR.html)
+[Susie Jordan](SusieR.html)
 <br/>
 **Volunteer Assistant Researcher**
 :::

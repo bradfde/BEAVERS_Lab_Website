@@ -33,6 +33,8 @@ navbar:
           href: Publications.html
         - text: "Posters"
           href: Presentations.html
+        - text: "Funding & Grants"
+          href: Funding.html
         - text: "In the Media"
           href: PopMedia.html
     - text: "Join the team"
