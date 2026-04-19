@@ -1,0 +1,20 @@
+---
+title: "Zarina Hokawala (She/Her)
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+TEXT
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+MAJOR (ex. "B.S. in Psychology") | GRADUATION DATE (ex. Expected June 2026)
+
+## Interests
+* 1st list item (ex. "Skiing")
+* 2nd list item
