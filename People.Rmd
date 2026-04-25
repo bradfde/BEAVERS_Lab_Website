@@ -162,6 +162,19 @@ knitr::include_graphics("images/TaylorH.png")
 
 :::float-image
 
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees.", echo=FALSE}
+knitr::include_graphics("images/ZarinaH.png")
+```
+
+[Zarina Hokawala](ZarinaH.html)
+<br/>
+**Undergraduate Assistant Researcher**
+:::
+
+<br/>
+
+:::float-image
+
 ```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "DESCRIPTION", echo=FALSE}
 knitr::include_graphics("images/CadenH.png")
 ```
