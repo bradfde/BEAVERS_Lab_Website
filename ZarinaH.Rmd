@@ -1,0 +1,27 @@
+---
+title: "Zarina Hokawala (She/Her)"
+image: "images/ZarinaH.png"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Hi! I’m Zarina, a first-year honors student from the college of health studying Public Health and a Pre-Medical Track. In the future, I hope to work as a physician specializing in addiction medicine, and am deeply fascinated by the concepts the BEAVERS lab has studied in the past and continues to explore regarding the mechanisms of addiction and addictive behaviors.
+
+I originally joined the lab through the STEM Leaders program, where I had the opportunity to join different projects exploring how concussion history and sugar consumption impact the stress response through electromyography data collection (EMG). 
+
+Outside of the lab, I work as a Supplemental Instruction tutor for the OSU Academic Success Center, offering support for students in the general chemistry series. Additionally, I serve as secretary for the Minority Association of Pre-Medical studies and representative for the OSU Biochemistry Club.
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+BS in Public Health | Expected 2029
+
+## Interests
+* Watching and reviewing movies!
+* Weightlifting
+* Thrifting
+* Playing video games

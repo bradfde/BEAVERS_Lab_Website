@@ -4,7 +4,7 @@ output:
   distill::distill_article:
     toc: true
     toc_depth: 5
-description: |
+description:
   Want to work with us? Please select from "Join the team" dropdown.
 ---
 
@@ -162,6 +162,19 @@ knitr::include_graphics("images/TaylorH.png")
 
 :::float-image
 
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees.", echo=FALSE}
+knitr::include_graphics("images/ZarinaH.png")
+```
+
+[Zarina Hokawala](ZarinaH.html)
+<br/>
+**Undergraduate Assistant Researcher**
+:::
+
+<br/>
+
+:::float-image
+
 ```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "DESCRIPTION", echo=FALSE}
 knitr::include_graphics("images/CadenH.png")
 ```
@@ -169,6 +182,18 @@ knitr::include_graphics("images/CadenH.png")
 [Caden Hooper](CadenH.html)
 <br/>
 **URSA Assistant Researcher**
+:::
+
+<br/>
+
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long strawberry blonde straight hair, fair skin, a black shirt and blue jeans against a pink background.",echo=FALSE}
+knitr::include_graphics("images/SusieR.png")
+```
+[Susie Jordan](SusieR.html)
+<br/>
+**Volunteer Assistant Researcher**
 :::
 
 <br/>
@@ -240,17 +265,6 @@ knitr::include_graphics("images/KirstenR.png")
 
 <br/>
 
-:::float-image
-
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Picture of a smiling person with long strawberry blonde straight hair, fair skin, a black shirt and blue jeans against a pink background.",echo=FALSE}
-knitr::include_graphics("images/SusieR.png")
-```
-[Susie Jordan](SusieR.html)
-<br/>
-**Volunteer Assistant Researcher**
-:::
-
-<br/>
 
 
 :::float-image
