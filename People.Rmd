@@ -120,31 +120,8 @@ knitr::include_graphics("images/NicoD.png")
 
 <br/>
 
-:::float-image
 
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees.", echo=FALSE}
-knitr::include_graphics("images/CorrynD.png")
-```
 
-[Corryn Dooley](CorrynD.html)
-<br/>
-**Undergraduate Assistant Researcher**
-:::
-
-<br/>
-
-:::float-image
-
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees.", echo=FALSE}
-knitr::include_graphics("images/PuneetG.png")
-```
-
-[Puneet Gandhok](PuneetG.html)
-<br/>
-**Undergraduate Assistant Researcher**
-:::
-
-<br/>
 
 
 :::float-image
@@ -214,17 +191,7 @@ knitr::include_graphics("images/BochenL.png")
 
 <br/>
 
-:::float-image
 
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with dark hair.", echo=FALSE}
-knitr::include_graphics("images/QiyingM.png")
-```
-[Qiying Ma](QiyingM.html)
-<br/>
-**STEM Leaders Assistant Researcher**
-:::
-
-<br/>
 
 
 
@@ -241,17 +208,7 @@ knitr::include_graphics("images/MessiM.png")
 
 <br/>
 
-:::float-image
 
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with dark long hair in a car.", echo=FALSE}
-knitr::include_graphics("images/MarissaP.jpg")
-```
-[Marissa Perez](MarissaP.html)
-<br/>
-**Volunteer Assistant Researcher**
-:::
-
-<br/>
 
 :::float-image
 
@@ -279,30 +236,8 @@ knitr::include_graphics("images/MeganR.png")
 
 <br/>
 
-:::float-image
 
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with curly hair with fair, freckled skin, against a neutral-colored wall.", echo=FALSE}
-knitr::include_graphics("images/GennaW.png")
-```
-[Genna Stern](GennaW.html)
-<br/>
-**Volunteer Assistant Researcher**
-:::
 
-<br/>
-
-:::float-image
-
-```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees.", echo=FALSE}
-knitr::include_graphics("images/LucasT.png")
-```
-
-[Lucas Tepe](LucasT.html)
-<br/>
-**Undergraduate Assistant Researcher**
-:::
-
-<br/>
 
 
 :::float-image
@@ -314,6 +249,19 @@ knitr::include_graphics("images/LinnaT.png")
 [Linna Truong](LinnaT.html)
 <br/>
 **STEM Leaders Assistant Researcher**
+:::
+
+<br/>
+
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees.", echo=FALSE}
+knitr::include_graphics("images/MirandaV.png")
+```
+
+[Miranda Vogel](MirandaV.html)
+<br/>
+**Undergraduate Assistant Researcher**
 :::
 
 <br/>
@@ -471,6 +419,33 @@ knitr::include_graphics("images/JacksonC.png")
 :::float-image
 
 ```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees.", echo=FALSE}
+knitr::include_graphics("images/CorrynD.png")
+```
+
+[Corryn Dooley](CorrynD.html)
+<br/>
+**Undergraduate Assistant Researcher**
+:::
+
+<br/>
+
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees.", echo=FALSE}
+knitr::include_graphics("images/PuneetG.png")
+```
+
+[Puneet Gandhok](PuneetG.html)
+<br/>
+**Undergraduate Assistant Researcher 2024-2025**
+:::
+
+<br/>
+
+
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees.", echo=FALSE}
 knitr::include_graphics("images/EmmaG.png")
 ```
 
@@ -509,6 +484,17 @@ knitr::include_graphics("images/KylerJ.png")
 
 <br/>
 
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with dark hair.", echo=FALSE}
+knitr::include_graphics("images/QiyingM.png")
+```
+[Qiying Ma](QiyingM.html)
+<br/>
+**STEM Leaders Assistant Researcher**
+:::
+
+<br/>
 
 :::float-image
 
@@ -538,6 +524,17 @@ knitr::include_graphics("images/NickP.png")
 
 <br/>
 
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with dark long hair in a car.", echo=FALSE}
+knitr::include_graphics("images/MarissaP.jpg")
+```
+[Marissa Perez](MarissaP.html)
+<br/>
+**Volunteer Assistant Researcher 2023-2025**
+:::
+
+<br/>
 
 :::float-image
 
@@ -565,6 +562,17 @@ knitr::include_graphics("images/CatalinaS.png")
 
 <br/>
 
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt="Picture of a smiling person with curly hair with fair, freckled skin, against a neutral-colored wall.", echo=FALSE}
+knitr::include_graphics("images/GennaW.png")
+```
+[Genna Stern](GennaW.html)
+<br/>
+**Volunteer Assistant Researcher**
+:::
+
+<br/>
 
 :::float-image
 
@@ -585,6 +593,19 @@ knitr::include_graphics("images/MiaT.png")
 [Mia Tognoli](MiaT.html)
 <br/>
 **Honors Thesis Assistant Researcher, 2021-2024**
+:::
+
+<br/>
+
+:::float-image
+
+```{r, out.width='150px', out.extra='style="float:above; padding:1px"', fig.alt = "Selfie of a person with medium length curly hair, fair skin, and a black rain jacket against a background full of trees.", echo=FALSE}
+knitr::include_graphics("images/LucasT.png")
+```
+
+[Lucas Tepe](LucasT.html)
+<br/>
+**Undergraduate Assistant Researcher**
 :::
 
 <br/>

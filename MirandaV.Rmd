@@ -1,0 +1,24 @@
+---
+title: "Miranda Vogel"
+image: "images/MirandaV.png"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Hi there, my name is Miranda Vogel and I am going into my senior year at Oregon State University. I grew up in Bend, Oregon and I am interested in pursuing a PhD in Clinical Psychology later on! I have worked for a few labs within OSU such as the Attention and Performance Lab, Youth Adjustment Lab and am also currently working on my honors thesis with Dr. Gurung at the Applied Social Cognition lab! 
+
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+Psychology Major | Expected 2028
+
+## Interests
+* Hiking
+* Reading
+* Making Music (guitar, singing, fiddle)
+* Jesus Christ
