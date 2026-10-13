@@ -8,18 +8,35 @@ description:
   PDF = link to downloadable article. PDFs are provided for instructional purposes only.
   <br/>
   <br/>
-  OSF =  link to Open Science Foundation project repository for shared data and materials.
+  OSF =  link to Open Science Framework project repository for shared data and materials.
 
 ---
 
 ## -2026- ##
 
-Bradford, D.E. (2026, May). Reinforcing psychology’s role as a hub science. Distinguished speakers invited 
-talk to be presented at the 106th annual meeting of the Western Psychological Association, Tacoma, WA.
+Bradford, D.E., Freitas, A.M., Goldblum, R.S. (2026, November). Advancing Equity in Psychophysiological Science. Invited talk to be presented at Laureate Institute for Brain Research FOCUS (Fostering Opportunity, Collaboration, and Understanding in Science) Lecture Series, Tulsa, OK.
+
+Bradford, D.E. (2026, April). Reinforcing psychology’s role as a hub science. Distinguished speakers invited talk presented at the 106th annual meeting of the Western Psychological Association, Tacoma, WA.
+
+Goldblum, R.S., Marra-Dotts, J., Nagle, S., Mannix, R., Meehan, W., Bradford, D.E., & Oldham, J. Attenuated General Startle Reactivity after Repeated Concussion: Evidence from an Identical Twin Case. (Fall, 2026). Poster to be presented at the 66th annual Society for Psychophysiological Research meeting, Halifax, Nova Scotia.
+
+Marra-Dotts, J. L., Goldblum, R. S., Bakner, L., Oldham, J. R., & Bradford, D. E. Assessing General Startle Reactivity as a Predictor for Alcohol Stress Response Dampening to Uncertain Stressors. (2026, October). Poster to be presented at the 66th annual Society for Psychophysiological Research meeting, Halifax, NS.
+
+Freitas, A. M., Dooley, C., Whittaker, F., Hokawala, Z., Bakner, L., & Bradford, D. E. Sweet but stressful: Sugar consumption heightens dark-enhanced startle. (2026, October). Poster to be presented at the 66th Annual Meeting of the Society for Psychophysiological Research, Halifax, NS, Canada.
+
+Whittaker, F., Dooley, C., Hokawala, S. Z., Jordan, S. E., Rutherford, M., Oldham, J. R., & Bradford, D. E. The Dark Side of Concussion: Traumatic Brain Injuries May Contribute to Long-term Disruption in Dark-Enhanced Startle in a Military Population. (2026, October). Poster to be presented at the 66th annual Society for Psychophysiological Research meeting, Halifax, NS.
+
+Oldham, J.R., Boylan L.E., Whittaker F, Lempke L.B., & Bradford D.E. Association Between Acoustic Startle Reactivity and Simple Reaction Time in Adolescent Athletes with a Recent Concussion. (2026, May). Poster presented at the American College of Sports Medicine Annual Meeting, Salt Lake City, UT.
+
+Goldblum, R.S., Whittaker, F., Freitas, A., Perez, M., Morning, M., Gandhok, P., & Bradford, D.E. Shots and shocks: A multiverse exploration of sex differences in alcohol’s stress dampening effects. (2026, May). Poster presented at the annual Society of Biological Psychiatry meeting, New York, NY.
+
+Oldham, J.R., Bradford D.E., Whittaker F, Nagle S, Mannix R.M., Meehan W.P. Acoustic Startle Reflex and Subsequent Musculoskeletal Injury in Adolescent Athletes with a Concussion History: A Pilot Study. Poster presented at the annual Pediatric Research in Sports Medicine (PRiSM) meeting. (2026, January). Austin, TX.
+
+Desai, M.C., Boylan, L.E., Bradford, D.E., Oldham, J.R. Adolescent Athlete Psychological Response and Acoustic Startle Following Concussion: A Preliminary Investigation. Poster presented at the annual Pediatric Research in Sports Medicine (PRiSM) meeting. (2026, January). Austin, TX.
 
 ## -2025- ##
 
-
+Goldblum, R., Whittaker, F., Morning, M., Bradford, D.E. (2025, December). Lessons we are learning: Laboratory research working with military connected communities. Paper presented at the Oregon State University Engagement Conference, Corvallis, OR.
 
 Bradford, D.E. (2025, October). Psychophysiology's Imperiled but Enduring Role as a Hub Method. Paper 
 presented at the 65th annual meeting of the Society for Psychophysiological Research, Montreal, CA.
@@ -32,7 +49,7 @@ Marra-Dotts, J.L., Xu, C.P., Goldblum, R.S., Whittaker, F., Dietch, J.R., & Brad
 The Impacts of Circadian Rhythm on Dark Enhanced Startle. (2025, October). Poster presented at the 65th annual 
 Society for Psychophysiological Research meeting, Montréal, QC.
 
- Whittaker, F., Oldham, J. R., Boylan, L. E., Goldblum, R. S., Marra-Dotts, J., Rutherford, M., Hooper, C., 
+Whittaker, F., Oldham, J. R., Boylan, L. E., Goldblum, R. S., Marra-Dotts, J., Rutherford, M., Hooper, C., 
 Byrne, L. M., Truong, L. T., & Bradford, D. E. Cleared but Not Recovered: Persistent Startle Reactivity Changes 
 After Concussion in Adolescent Athletes. (2025, October). Poster presented at the 65th annual Society for 
 Psychophysiological Research meeting, Montréal, QC
@@ -42,7 +59,7 @@ Let's Talk About Sex...Differences in Alcohol's Pharmacological Effects on Start
 Approach. (2025, October). Poster presented at the 65th annual Society for Psychophysiological Research 2025 
 Meeting, Montreal, Canada.
 
- Bradford, D.E., Goldblum. R. (2025, September). From Animal Models to Human Reactions: Translating 
+Bradford, D.E., Goldblum. R. (2025, September). From Animal Models to Human Reactions: Translating 
 Drug and Injury Induced Neuroadaptations to Uncertain Stressors. Invited talk for Research Experience and
 Lunch (REAL), Linfield University, McMinnville, OR.
 
@@ -50,13 +67,14 @@ Dooley, C., Whittaker, F., Respini, S. E., Gilmore, E. M., Stern, G. M., Perez, 
 Bradford, D. E. Shedding Light on Fear of the Dark Using Multimodal Assessment. (2025, August). Poster 
 presented at the American Psychological Association 2025 Meeting, Denver, CO.
 
-
 Tepe, L. R., Whittaker, F., Gilmore, E. M., Respini, S. E., Ransford, K., Doran, N. C., Hull, E. L., Goldblum, 
 R. S., & Bradford, D. E. The Effects of Drinking Frequency on Physiological Stress and Alcohol’s Response 
 Dampening. (2025, August). Poster presented at the American Psychological Association 2025 Meeting, Denver, 
 CO.
 
- Oldham J, Bradford D.E., Nagle S, Willwerth S, Mannix R, Meehan W. Acoustic Startle Reflex and 
+Bradford, D.E. (2025, June). A clinical neuroscience perspective on teaching high school students about drugs. Invited speaker, APA/The American Psychological Foundation/OSU Psychological Science Workshop for High School Psychology Teachers, Corvallis, OR.
+
+Oldham J, Bradford D.E., Nagle S, Willwerth S, Mannix R, Meehan W. Acoustic Startle Reflex and 
 Sensitivity to Noise in Adolescent Athletes Following Concussion. (2025, January). Poster presented at the 
 Pediatric Research in Sports Medicine Annual Meeting. Columbus, OH.
 
@@ -73,11 +91,11 @@ Bradford, D.E. (2024, June). Strategies for aiding a deeper and less stigmatizin
 
 Bradford, D.E., Sanders, S.M., (2024, March). Mental well-being of graduate students: research, lived experience, and pathways to improvement. Invited talk for Radical Earth Science Equity Transformations (RESET) seminar. Corvallis, OR.
 
-
-
 ## -2023- ##
 
 Bradford, D.E. (2023 November). Towards more equitable psychophysiology. Office of Institutional Diversity, Diversity Research Virtual Lightning Talks. Corvallis, OR.
+
+Bradford, D.E., DeFalco A, Dooley, C, Curtin, J.J. (2023, October). Risky business: alcohol increases the subjective value of uncertain rewards in a gambling task. Paper presented at the Oregon Problem Gambling Fall Summit, Lincoln City, OR.
 
 DeFalco, A., Whittaker, F., Dooley, C., Curtin, J.J., Bradford, D.E. (2023, October) Risky business: alcohol increases the subjective value of uncertain rewards. Poster presented at the International Conference on Gambling and Addiction, Las Vegas, NV. 
 
@@ -85,13 +103,29 @@ DeFalco, A., Whittaker, F., Dooley, C., Curtin, J.J., Bradford, D.E. (2023, Octo
 
 Whittaker, F., DeFalco, A., Tognoli, M.I., Gilmore, E.M., Bradford, D.E. (2023, October). A Refined Dark Enhanced Startle Task. Poster presented at the 63rd annual meeting of the Society for Psychophysiological Research, New Orleans, LA.  
 
+Bradford, D.E. (2023, September). Round table on faculty jobs. Round table presented at the 63rd annual meeting of the Society for Psychophysiological Research, New Orleans, LA.
+
+Bradford, D.E. (2023, June). Strategies for aiding a deeper and less stigmatizing understanding of addiction. Invited speaker, APA/The American Psychological Foundation/OSU Psychological Science Workshop for High School Psychology Teachers, Corvallis, OR.
+
+Bradford, D.E. (2023, May). The Case for Personalized content, OSU Ecampus Faculty Forum. Invited speaker, Corvallis, OR.
+
+Oldham J.R., Bradford D.E., DeFalco A, Willwerth S, Mannix R, Meehan W. (2023, February). Acoustic Startle Response Suppression in Adolescent Athletes Following Concussion. Paper presented at the Pediatric Research in Sports Medicine (PRiSM) Annual Meeting, Denver, CO.
+
 ## -2022- ##
 
-Bradford, D.E., Willwerth, S.B., DeFalco, A., Mannix, R.M., Meehan III, W.P., Oldham, J.R. (2022, September). Attenuated general startle reactivity in adolescent athletes with a concussion history. Poster presented at the 62nd annual meeting of the Society for Psychophysiological Research. Vancouver, BC, Canada.[PDF](files/Presentations/BradfordD2022/Concussion_Poster_2022_FINAL.pdf)
+Bradford, D.E. (2022, October). McLean Hospital / Harvard Medical School Post Doc Series. Invited panel, Virtual, McLean Hospital, Belmont, MA.
 
-DeFalco, A., Beaman, L., Cutler, J.T., Doran, N., Tognoli, M.I., Perkins, E.R., Joyner, K.J., Bradford, D.E. (2022, September). The dearth of sample demographic description and representativeness in clinical psychophysiological research. Poster presented at the 62nd annual meeting of the Society for Psychophysiological Research. Vancouver, BC, Canada. [PDF](files/Presentations/DeFalcoA2022/SPR_Poster_FINAL.pdf)
+Bradford, D.E., Willwerth, S.B., DeFalco, A., Mannix, R.M., Meehan III, W.P., Oldham, J.R. (2022, October). Attenuated general startle reactivity in adolescent athletes with a concussion history. Poster presented at the 62nd annual meeting of the Society for Psychophysiological Research. Vancouver, BC, Canada.[PDF](files/Presentations/BradfordD2022/Concussion_Poster_2022_FINAL.pdf)
+
+DeFalco, A., Beaman, L., Cutler, J.T., Doran, N., Tognoli, M.I., Perkins, E.R., Joyner, K.J., Bradford, D.E. (2022, October). The dearth of sample demographic description and representativeness in clinical psychophysiological research. Poster presented at the 62nd annual meeting of the Society for Psychophysiological Research. Vancouver, BC, Canada. [PDF](files/Presentations/DeFalcoA2022/SPR_Poster_FINAL.pdf)
+
+Bradford, D.E. (2022, July). Strategies for aiding a deeper and less stigmatizing understanding of addiction. Invited speaker, APA/The American Psychological Foundation/OSU Psychological Science Workshop for High School Psychology Teachers, Corvallis, OR.
+
+Bradford, D.E. (2022, June). Oregon State University Neuroscience Working Group. Drug induced stress neuroadaptations to uncertain stressors. Invited Speaker, Corvallis, OR.
 
 Oldham J.R., Bradford D.E., Willwerth SB, Mannix RM, Meehan WP. (2022, May) Acoustic Startle Reflex in Adolescents With and Without a Concussion History: A Preliminary Investigation. Poster presented at the American College of Sports Medicine Annual Meeting, San Diego, CA. 
+
+Bradford, D.E. (2022, April). Alcohol Stress response dampening and drug-induced neuroadaptations to uncertain stressors. Invited speaker, Virtual, Society for Neuroscience Oregon & Southwest Washington Meeting, Portland, OR.
 
 Lewis, M.W., Bradford, D.E., Pace-Schott, E.F., Rauch, S.L., Rosso, I.M. (2022, April) Multiverse Analyses of Fear Conditioning and Extinction Retention in PTSD. Poster presented at the 28th annual Wisconsin Symposium on Emotion, Madison, WI.  
 
@@ -99,11 +133,21 @@ Lewis, M.W., Bradford, D.E., Pace-Schott, E.F., Rauch, S.L., Rosso, I.M. (2022, 
 
 Lewis, M.W., Casteen, E., Frederiks, K., Ostrand, C., Bradford, D.E., Rauch, S., Rosso, I. (2021, Dec). Associative Fear Learning in PTSD May Depend upon Non-Associative Fear. Poster presented at the 59th annual meeting for the American College of Neuropsychopharmacology, Virtual. 
 
+Victor, S.E., Bradford, D.E. (2021, November). Auburn University Clinical Psychology Lunch and Learn: Lived Experience with Mental Illness among Psychology Faculty. Invited panel, Virtual, Auburn University, AL.
+
 Kim, H., Smith, J., Islam, S., Anderson, A., Kaplan, C., Deyoung, K., Grogans, S., Fox, A.S., Bradford, D.E., Curtin, J.J., Shackman, A. (2021, Nov). The Role of the Central Extended Amygdala in Acute Nicotine Abstinence. Poster presented at the 50th annual Society for Neuroscience, Virtual. 
 
 Dev, A.S., Bradford, D.E., Timpano, K.R., (2021, November). Liquid Courage? Affective Forecasts and Alcohol Use in Social Anxiety. Poster presented at the 55th annual meeting of the Association for Cognitive and Behavioral Therapy, Virtual. 
 
+Bradford, D.E. (2021, October). McLean Hospital / Harvard Medical School Post Doc Series. Invited panel, Virtual, McLean Hospital, Belmont, MA.
+
+Bleske-Rechek, A.B., Uddin, L., Bradford, D.E. (2021, September). CSUN CSBS Workshop and Discussion: Pros and Cons of the use of the GRE in graduate admissions. Invited panel, Virtual, California State University, Northridge, Northridge, CA.
+
+Bradford, D.E. (2021, August). Open and Reproducible Science. Invited talk at Cognition and Affect Research and Education lab, Virtual, McLean Hospital, Belmont, MA.
+
 Frederiks, K., Casteen, E., Lewis, M., Bradford, D.E., Rauch, S., Rosso, I. (2021, May). Fear Potentiated Startle to Safety Cues is Related to Anxious Arousal in PTSD. Poster presented at the annual meeting for Biological Psychiatry, Virtual.  
+
+Bradford, D.E. (2021, April). Translating animal models of drug-induced neuroadaptations to uncertain stressors in humans. Paper presented at the 93rd annual Midwestern Psychological Association meeting, Virtual.
 
 ## -2019- ##
 
@@ -119,7 +163,7 @@ Hur J, Kaplan CM, Bradford DE, Curtin JJ, Smith JF, Shackman AJ (2018). Acute al
 
 Bradford DE, Shireman JM, Kittleson SJ, Fleming MN, & Curtin JJ (2017). Drinking with the devil you don’t know and the one you can’t control: Alcohol’s effects during unpredictable and uncontrollable stressors in the laboratory. Poster presented at the Society for Research in Psychophysiology (SRP) Annual Meeting, Denver, CO.  [PDF](files/Presentations/BradfordD2017/Bradford_SRP2017.pdf)
 
-Goodwin MG, Shireman JM, Fronk GE, Schneck SE, Kayser AD, Bradford DE, Curtin JJ (2017). Alcohol stress response dampening occurs during unpredictable but not uncontrollable shock stressors. Poster presented at the 40th annual meeting of the Research Society on Alcoholism, Denver, CO. 
+Goodwin MG, Shireman JM, Fronk GE, Schneck SE, Kayser AD, Bradford DE, Curtin JJ (2017). Alcohol stress response dampening occurs during unpredictable but not uncontrollable shock stressors. Poster presented at the 40th annual meeting of the Research Society on Alcoholism, Denver, CO.
 
 ## -2016- ##
 

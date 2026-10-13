@@ -1,0 +1,11 @@
+---
+title: "Leah Byrne"
+image: "images/LeahB.jpeg"
+
+output:
+  postcards::solana
+---
+
+## Role
+
+**URSA Assistant Researcher, 2024-2026**
