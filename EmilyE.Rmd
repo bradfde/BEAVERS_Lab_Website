@@ -1,0 +1,19 @@
+---
+title: "Emily Eichelberger"
+image: "images/EmilyE.jpg"
+
+output:
+  postcards::solana
+---
+
+## Bio
+
+I am a fourth-year honors psychology student with a minor in data science. I previously completed my honors thesis on the preserved proactive suppression of salient distractors in aging in the Attention and Performance Lab at OSU. Through my time working on this project, I became increasingly interested in how physiological measures can reveal the timing and mechanics of cognitive and emotional processes.
+
+My time in the BEAVERS Lab has allowed me to pursue this interest further in a clinical context. Outside the lab, I volunteer in addiction recovery and conduct behavioral health research at OSU Extension. After completing my degree, I plan to pursue a PhD in Clinical Psychology.
+
+## Education
+
+**Oregon State University** | Corvallis, OR
+
+Honors Psychology, Minor in Data Science
